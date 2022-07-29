@@ -1,0 +1,2649 @@
+{
+    "008b12f1-6efe-e2f3-1354-4a8859af75f8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Fuschia 700.mesh.nasset/Fuschia 700.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "024a1cb0-6bf7-06ad-407c-bc4ad36d650a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Round Table.mesh.nasset/Round Table Material.sky-800.001.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0391d1eb-fed9-f57c-6ddc-cb44d73dda79": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Violet 600.mesh.nasset/Violet 600.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "03b87e2d-f5cb-db0a-ff8d-81429a88ca73": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Lime 900.mesh.nasset/Lime 900 Lime 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "056da889-9941-74d8-d4ef-c77ac09966ab": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Rose 600.mtli.nasset"
+    },
+    "05f0e25d-d183-8de2-e3c3-09960e2ea80c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Step SM.mesh.nasset/Step SM.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "05f1232d-58cf-e1f2-cd7d-f37132c9a661": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Default_Enviro.tex.nasset"
+    },
+    "06fd4a76-1285-0b5a-225a-9ec243918038": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Blue 600.mesh.nasset/Blue 600 Blue 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "076eb749-59f7-362f-bac3-bb5490917568": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Rose 800.mesh.nasset/Rose 800 Rose 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "088ed5c1-31ed-da39-0105-14bcabec7c0e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Violet 600.mesh.nasset/Violet 600 Violet 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0941e89c-0540-f2be-9f7a-00662fe22774": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Cyan 900.mesh.nasset/Cyan 900 Cyan 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0a14548b-d9ae-3d3a-43f6-9fdab30ffcdb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pink 500.mesh.nasset/Pink 500 Pink 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0a2c4a13-5606-b980-8016-aa1fe536bfd8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pink 900.mesh.nasset/Pink 900.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0b573f53-2344-efc9-7318-d8901a9f7241": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Sky 900.mesh.nasset/Sky 900 Sky 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0bc18063-da4c-cd18-52ba-5ac6a2402280": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Amber 900.mesh.nasset/Amber 900.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0be11d63-431a-a811-d4ba-923e67600407": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Indigo 500.mesh.nasset/Indigo 500 Indigo 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0c9cfcec-a0b7-9f07-03e2-51dbd91f9603": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Grid.mtli.nasset"
+    },
+    "0d3e8623-af29-446d-b397-cf314f30d82b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Default.scene.nasset"
+    },
+    "0d59fba5-27b6-bdf5-a15c-0daec731d80d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Amber 500.mesh.nasset/Amber 500.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0de70996-aff5-a901-fcb2-77cdbe6d435d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Orange 500.mesh.nasset/Orange 500.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0ded7cd5-35ce-cec5-9a11-feaa09505ec9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Spawn Spiral Red.mesh.nasset/Spawn Spiral Red.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0df62392-6e10-c381-c9ad-0ef4d68cfcf2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Teal 600.mesh.nasset/Teal 600.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0e7b3aae-3210-5860-8cbe-b29485e5cbac": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Spawn Spiral Red.mesh.nasset/Spawn Spiral Red Gray 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0efe0057-e9c6-2f3a-6f93-33b7383124c4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Cyan 700.mtli.nasset"
+    },
+    "0f037e01-ad46-11b5-2e91-5b222f7e2e18": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Step MED.mesh.nasset/Step MED Violet 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0f45f552-789a-561b-47bc-f53aef59d70f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Gray 800.mtli.nasset"
+    },
+    "0f648f14-24de-4cd4-e029-994fc3e66ddc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Purple 800.mesh.nasset/Purple 800.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0f9ab500-efb3-2941-69d3-0de48fedafab": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Indigo 700.mesh.nasset/Indigo 700 Indigo 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "10326f79-1fb3-7c2a-7f8d-39d254acb3da": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Fuschia 700.mesh.nasset/Fuschia 700 Fuschia 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "113526a0-d886-1d3b-179e-d0776ded62a9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Orange 500.mesh.nasset/Orange 500 Orange 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "115ad1d3-8e94-3560-4c72-1bb1ed157fc9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Blue 800.mesh.nasset/Blue 800 Blue 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1183878d-a05c-333b-c807-572779a1143a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Pink 500.mtli.nasset"
+    },
+    "11a10dbc-ec82-7fcb-81cb-4102bf9adb30": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Yellow 800.mesh.nasset/Yellow 800.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "11ef6299-e366-21e9-4eb3-70e93c10f1a5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Spike Ball.mesh.nasset/Spike Ball Rose 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "128ad532-5a58-fb50-66ca-d358bb0470d6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Fuschia 600.mesh.nasset/Fuschia 600.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "138a4fc4-9a8a-998b-5bae-04379581c11a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Red 800.mesh.nasset/Red 800 Red 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "138e65cc-1900-5ce4-037c-6292c7724b35": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Green 500.mesh.nasset/Green 500 Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "141855b8-18e2-8ce3-86ae-7f6d435a4569": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Lime 900.mtli.nasset"
+    },
+    "14449515-1620-95c1-cbdc-a21f2529b95e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Teal 700.mtli.nasset"
+    },
+    "14aec7c6-bb56-7435-dcdb-e16dd0865c6a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Sky 600.mtli.nasset"
+    },
+    "1515e7e4-b29f-4a4e-849f-e7a85f634639": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "thumbnail": "f0504132-0ec7-41ce-897c-e75b5519e43f"
+    },
+    "155ac348-e698-2bc8-bf53-e39f063df908": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Green 700.mesh.nasset/Green 700.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "15f21a61-3821-f89c-3784-84c614fe5308": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Emerald 900.mesh.nasset/Emerald 900.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1635470b-b890-e4b2-caf2-b184a475e4a6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Teal 800.mesh.nasset/Teal 800 Teal 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "17442f1c-0880-2d6b-84fb-e7e7810da6db": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Step SM.mesh.nasset/Step SM Material.blue-800.001.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1748dccd-8774-eb85-cb03-2d186b3abe84": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Red 500.mtli.nasset"
+    },
+    "17732652-2c14-8570-b446-e4f1fea3b62e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Rose 700.mtli.nasset"
+    },
+    "18ab489e-794d-fe1f-d85a-bdfc65efe767": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Lime 500.mesh.nasset/Lime 500 Lime 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1a6dcfe2-a690-6ebb-1b7e-630c9c188a01": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Round Table.mesh.nasset/Round Table Material.sky-600.001.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1b041caf-6076-5e5b-58f4-3f67c9730016": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Blue 700.mtli.nasset"
+    },
+    "1b91ba21-8930-1d9f-a3b5-f30ec8f947f5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Emerald 600.mesh.nasset/Emerald 600 Emerald 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1cc854bc-97ef-20af-7580-fb90a103a9e0": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Sky 700.mtli.nasset"
+    },
+    "1d580885-e4e6-c78a-01f5-fabed477b30d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Spawn Red.mesh.nasset/Spawn Red Rose 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1db64a89-bad7-fe77-981c-79b68ff2a372": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Red 500.mesh.nasset/Red 500.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1ee66046-74f8-5ead-495f-f055e224a30e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Ring Pink.mesh.nasset/Ring Pink.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1ef76e08-0a18-6f0c-02de-1cc1b39cb8bc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Green 600.mesh.nasset/Green 600 Green 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1f132e89-9136-a216-cf37-b5a52a4eb249": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Outer Block.051.mesh.nasset/Outer Block.051 Gray 900.001.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1f4c83a2-5918-9b99-df9a-e9467f941e96": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Orange 700.mesh.nasset/Orange 700.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1fa2b9ee-564f-2c31-9eef-84016a7eb2aa": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Fuschia 600.mtli.nasset"
+    },
+    "1fbda15c-6d77-5e42-91ac-35f8c5c0b93c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Amber 600.mesh.nasset/Amber 600.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "205c8c2a-6c0e-61a0-24e0-de2c1f4b463b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export.mesh.nasset",
+        "thumbnail": "cf02d391-017c-4d56-0709-f7cae8b6bebd"
+    },
+    "2081fb0e-a244-4a8c-c3bb-aa4ab10d17cd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pink 900.mesh.nasset/Pink 900 Pink 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "21821014-11c8-ad1b-1b89-25a790736fb6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Platform.006.mesh.nasset/Platform.006.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2240822a-9da1-f1c0-17b2-e76b66462230": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Cyan 900.mesh.nasset/Cyan 900.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2440e386-e3b0-c952-13d0-cd201144754d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Round Table.mesh.nasset/Round Table.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "255c1993-ce9b-4f45-46ba-fb9d51fae05e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Block Tile.099.mesh.nasset/Block Tile.099.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "25ce524f-b2a2-0b63-8c18-4f6cca76a41e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Spike Ball.mesh.nasset/Spike Ball.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "25cf799a-060f-4dcf-8993-c95c01cf5735": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Jump_Loop.anim.nasset"
+    },
+    "266b1fed-773b-66d4-1414-722a1aac70ab": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Material.purple-900.001.mtli.nasset"
+    },
+    "26a416e4-99eb-6f10-1b29-49f4c2187613": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pink 800.mesh.nasset/Pink 800.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "288f91cf-7f30-795f-1626-407fefc01b63": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Torus.003.mesh.nasset/Torus.003.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "28d6c814-378b-54fd-ffcf-a96326576476": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Blue 700.mesh.nasset/Blue 700 Blue 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "29485e09-5f98-ef9b-302a-6e5c8a581c8a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Gray 500.mtli.nasset"
+    },
+    "29896cb0-99c9-4658-8159-715522349711": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Lime 500.mesh.nasset/Lime 500.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "29adbe88-6400-6815-8c6d-802edcd5f6f7": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Orange 800.mtli.nasset"
+    },
+    "2bdf59e1-ce0f-b03f-dbf2-17b0a0d09932": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Robot/Material Instances/Thumbnails/Eyes.mtli.nasset.tex.nasset"
+    },
+    "2bf1d10b-e628-7493-f298-234198f8eab5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pink 500.mesh.nasset/Pink 500.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2c517e35-ff2d-cf59-a08b-cb0b05196c8b": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Main.meshskin.nasset"
+    },
+    "2e02a321-e408-84e5-df70-356bb412ca1e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Gray 600.mesh.nasset/Gray 600 Gray 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2e61b38e-55be-dc09-6c2b-d27a5b916054": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Purple 700.mesh.nasset/Purple 700.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2e9c4d65-eb0c-6a06-c8aa-a478bb9948c4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Amber 700.mesh.nasset/Amber 700 Amber 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2f9e68aa-e8b6-45c0-162d-4a99f3fc63aa": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Orange 500.mtli.nasset"
+    },
+    "3179b240-9b65-01ce-3330-d403d66750bb": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Orange 700.mtli.nasset"
+    },
+    "31b26fe3-a413-4e12-4e9f-49d2a7e86128": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Orange 900.mesh.nasset/Orange 900.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "331da94b-cd21-6c1c-173a-2685cc81acc6": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Pink 600.mtli.nasset"
+    },
+    "3367b1a9-cf73-5264-356d-7c42c1ffa45e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Amber 900.mesh.nasset/Amber 900 Amber 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "33f89548-d3f5-82fe-ee6b-e690fc5aa36f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Icon.mesh.nasset/Icon.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "34ba648b-d9f4-941b-17a4-ff1b61c6ded5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pink 600.mesh.nasset/Pink 600 Pink 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "35c7ecc9-d792-6628-7593-c70e30bd22dc": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Pink 800.mtli.nasset"
+    },
+    "35f80f03-aa04-1088-7bfc-192f139bd4f7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Barrier 03.mesh.nasset/Barrier 03.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "36612ee8-80e2-75b5-8f04-515cdeea046c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Emerald 800.mesh.nasset/Emerald 800.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "36947d83-8b7d-459e-9ee1-9189185286fa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Spawn Red.mesh.nasset/Spawn Red Gray 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "36e9658c-b98e-f16f-331e-6698cc25743d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Torus.003.mesh.nasset/Torus.003 Material.red-800.001.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "37493d75-c4ba-36a3-7594-b78df6623c42": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Gray 800.mesh.nasset/Gray 800.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "37fa6161-d9af-4fb0-23e3-cf93d956ea34": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Violet 700.mesh.nasset/Violet 700 Violet 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3801e898-bc09-28bb-490d-60bd99a5480f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Purple 800.mesh.nasset/Purple 800 Purple 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "38253007-2fdb-265f-d6aa-62bd39aa4890": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export White.meshskin.nasset"
+    },
+    "38a3a90f-fc7c-85c2-b8ee-8761786cafbd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Cube Rounded.005.mesh.nasset/Cube Rounded.005.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "38cda35c-d0b8-7bf3-e07c-709573770b89": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Cyan 900.mtli.nasset"
+    },
+    "393d670d-9f90-445d-76df-df34f9fdbf31": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Lime 600.mtli.nasset"
+    },
+    "3a90fd08-a4a6-47b4-53cc-8b6823b4c8ed": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Cyan 600.mesh.nasset/Cyan 600.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3c5e83f0-6f34-ab03-022a-6cc82d3344e1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pink 700.mesh.nasset/Pink 700 Pink 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3e10dac8-3cb3-7809-2f76-c2802ba98872": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Cyan 500.mesh.nasset/Cyan 500 Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3e17abfc-abf3-f20a-1090-51681b63d2c5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Ring Violet.mesh.nasset/Ring Violet.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3ee2cd6b-8d0a-6228-6652-8e11b20a65db": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Amber 900.mtli.nasset"
+    },
+    "3f6e52d4-b050-345f-6d94-8ccd8540e7d1": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Black.meshskin.nasset"
+    },
+    "413e99ec-13ca-cb67-a92f-eb6cbeb72b11": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Fuschia 800.mesh.nasset/Fuschia 800.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4179e19e-6e10-b986-8e5f-9c7df220ade9": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Blue 900.mtli.nasset"
+    },
+    "423dddf1-ef29-3cb0-2f29-233f6391c5ff": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Fuschia 500.mesh.nasset/Fuschia 500.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "431550d0-82e9-5449-576b-b8664d4c3f8a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Rose 500.mtli.nasset"
+    },
+    "43b604a0-0173-93f8-945f-0f9c9f8e4b1d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Orange 600.mesh.nasset/Orange 600.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "43d177fd-6975-5713-2a07-b9848b4ecabf": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Lime 700.mtli.nasset"
+    },
+    "43f82e6b-90c3-80c0-5fa1-d9af2389514a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Teal 800.mtli.nasset"
+    },
+    "4465b7d8-f92c-3a87-6339-0393b726234e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Indigo 600.mesh.nasset/Indigo 600.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "45bb1ead-342a-122b-366e-51d2ea5ef6f0": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Purple 900.mtli.nasset"
+    },
+    "466b5da5-9fa3-29f1-75b4-3c581b4a9427": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Step LRG.mesh.nasset/Step LRG.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "46753d3d-9fb6-7371-0f96-f46aa123afdb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Violet 800.mesh.nasset/Violet 800.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "46b0993a-aef7-8473-0b68-780fdce693fa": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Platform.mtli.nasset"
+    },
+    "4a08f3bd-33c5-26db-5c33-20c4fc2b1f5b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Rose 800.mesh.nasset/Rose 800.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4a307417-376d-78a8-6335-a914aad38931": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Orange 900.mesh.nasset/Orange 900 Orange 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4adbe307-0fbf-afc4-d5aa-1e49ec6f002c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Cyan 700.mesh.nasset/Cyan 700.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4b26b222-c3c9-6629-61e8-0dce2d3a0e63": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Sky 700.mesh.nasset/Sky 700 Sky 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4c2b37d0-7769-7669-6748-f45cc4b2965f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Purple 600.mtli.nasset"
+    },
+    "4c2f2ee1-c47b-63a6-126e-6fad53d559b3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Amber 800.mesh.nasset/Amber 800.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4d592b52-35bc-ebf0-236c-c1371d12d17d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Gray 900.mesh.nasset/Gray 900 Gray 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4d9a5504-f748-9f28-42f0-5584660c4822": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Material.lime-600.001.mtli.nasset"
+    },
+    "4db306aa-f28a-5ce6-0845-12f5d794b26a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Gray 900.mesh.nasset/Gray 900.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4e9814c7-33e5-018a-6309-38dacff36257": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Barrier 01.mesh.nasset/Barrier 01.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4f16f796-5504-3ed3-caae-5b2cb5f0dcfb": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Sky 900.mtli.nasset"
+    },
+    "5085fd6d-a14d-5c7a-bf77-13389161e5cb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Default_EnviroSpecular.tex.nasset"
+    },
+    "50d0fd83-b73d-1bc1-84fc-5869631ad4a3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pink 800.mesh.nasset/Pink 800 Pink 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5140d990-3a99-7bf4-803d-e44fe8f740f2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Main.mesh.nasset",
+        "thumbnail": "f486867e-c411-c908-b1f7-a679c0318b73",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "516a9b39-94eb-e908-cf75-ce77c6bbebb1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Default_EnviroDiffuse.tex.nasset"
+    },
+    "516ce5f0-3be7-c5e7-15cd-0475803c85bc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Rose 700.mesh.nasset/Rose 700 Rose 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "528e32d9-caa3-f09a-e30a-a09902f0932e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Purple 500.mesh.nasset/Purple 500 Purple 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "52a6c73e-67b7-9e0c-90e5-977f0b41ccbe": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Amber 800.mtli.nasset"
+    },
+    "53dd2feb-f05b-adb5-e173-55ae20ea8864": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Yellow 700.mesh.nasset/Yellow 700 Yellow 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "53e9451a-feef-7db9-5ba9-0bb9de82176c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Ring Pink.mesh.nasset/Ring Pink Pink 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "54e36c3e-6a74-28a1-5930-5da8eef88cf1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Violet 500.mesh.nasset/Violet 500 Violet 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "55ba46ad-95e6-510c-d247-3298567b58f4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Wall Corner.003.mesh.nasset/Wall Corner.003.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5636771d-4d70-985d-1647-1bf4edc097fd": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Blue 500.mtli.nasset"
+    },
+    "57dc01c3-d2f4-6f00-d1c7-79e9748a157e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Yellow 600.mesh.nasset/Yellow 600.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "59541ac4-7cfb-f3cc-ed1b-bffc8de2a7b7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Wall Edge.049.mesh.nasset/Wall Edge.049 Gray 900.001.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "596919b1-be59-4c3e-3c7f-9941fef6ea13": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Thumbnails/SK Robot Export White.mesh.nasset.tex.nasset"
+    },
+    "596ed3e4-b30a-aeed-38b2-858f87cca300": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Emerald 700.mesh.nasset/Emerald 700 Emerald 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5b426661-9c1a-e3b1-8a34-9664ecf2e0dc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Fuschia 900.mesh.nasset/Fuschia 900 Fuschia 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5b52e1f1-8a86-db46-1374-921a9bd8b3db": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Violet 800.mesh.nasset/Violet 800 Violet 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5b7ca89c-fffc-d329-098a-56dc39bff06a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Robot/Material Instances/White.mtli.nasset",
+        "thumbnail": "88e16ff9-a2da-e38a-5bba-d8d7412fb19f"
+    },
+    "5c589b57-6810-8386-8efc-9c5ab24d2435": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Spawn Red.mesh.nasset/Spawn Red Material.cyan-alpha-gradient.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5ceab533-8f9a-70b4-41f1-0f61490143c3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export White.mesh.nasset",
+        "thumbnail": "596919b1-be59-4c3e-3c7f-9941fef6ea13",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5d803569-4440-7057-bf08-b77fc82ede4a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Indigo 900.mesh.nasset/Indigo 900.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5dd23fc2-6e8e-4d5e-935c-8df56d93e76c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Lime 600.mesh.nasset/Lime 600 Lime 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5df5f53e-5b27-b560-26f6-e8895a68bb4d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Robot/Material Instances/Thumbnails/Black.mtli.nasset.tex.nasset"
+    },
+    "5e01a7a9-94bd-9d28-54bf-c33b87ee6947": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Orange 800.mesh.nasset/Orange 800 Orange 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5e03295d-9e12-f976-f847-02eb03caec02": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Material.sky-800.001.mtli.nasset"
+    },
+    "5e1bc0f2-c463-acba-354f-c2f7ad1223d2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Spawn Blue.mesh.nasset/Spawn Blue.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5ef10529-012b-4f65-895f-e0e4c0fbce78": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Idle.anim.nasset"
+    },
+    "5f0c3c9c-241c-b0ba-ea07-adf2a9ff63fe": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Orange 600.mtli.nasset"
+    },
+    "5f36e22d-e9c8-031d-2be0-b10381e7de4a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Orange 700.mesh.nasset/Orange 700 Orange 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5fc37e43-801a-e17f-675b-63b12c7a4905": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Green 800.mesh.nasset/Green 800 Green 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "61d2c2dc-5a2b-1e50-d9e7-d271f9955637": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Barrier 03.mesh.nasset/Barrier 03 Material.gray-600.001.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "624678bc-d793-9fe0-5028-1fe602f4c9fd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Green 700.mesh.nasset/Green 700 Green 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "62f10c16-d3a4-2d5f-1a8d-66ffffb4b052": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Amber 600.mtli.nasset"
+    },
+    "63321456-1613-b0e9-3f0b-d39afc2b89d2": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Green 700.mtli.nasset"
+    },
+    "64413d31-fe1f-60fc-934b-771d8430a240": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Gray 600.mtli.nasset"
+    },
+    "650243c5-9174-a978-44a8-d66717ac4dfd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Diamond.mesh.nasset/Diamond.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "650ffed9-a13b-d8ac-1c9e-9efe8d0ebadf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Barrier 02.mesh.nasset/Barrier 02 Material.gray-600.001.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "65715081-f677-9ab0-df11-14004e9f7b32": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Rose 500.mesh.nasset/Rose 500.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "657cc395-46b2-1282-02f6-6f70b341a68d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Purple 600.mesh.nasset/Purple 600 Purple 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "66e53187-1c4f-2765-4dac-26d69b9a469f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Platform Ramp.002.mesh.nasset/Platform Ramp.002.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "68bc643b-c597-16f1-ef1d-18806bf52c11": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Robot/Material Instances/Thumbnails/Main.mtli.nasset.tex.nasset"
+    },
+    "694b5b86-f78c-1f90-aa68-e0c3b476d020": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Spawn Blue.mesh.nasset/Spawn Blue Cyan 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6b410b2a-06d4-bce1-1911-c7dd251e4c2f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Violet 900.mesh.nasset/Violet 900 Violet 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6cc51ede-6c38-5e01-efda-49aa03e0fe31": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Lime 900.mesh.nasset/Lime 900.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6d0ab017-8399-4b5c-978e-99e5d0f1b248": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Jump_Start.anim.nasset"
+    },
+    "6d5daf31-6699-0b33-d58a-218dee162ed4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Lime 700.mesh.nasset/Lime 700 Lime 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6da01caa-6ab8-4a9f-583c-f7a52042f278": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Emerald 900.mesh.nasset/Emerald 900 Emerald 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76": {
+        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
+        "path": "Assets/Physical Materials/Box.physmat.nasset"
+    },
+    "70a25929-fac4-4620-2a3f-bf220bbe5a10": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Red 500.mesh.nasset/Red 500 Red 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "70e83a75-fca2-77b3-b4d5-cf59f0eb9658": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Platform.006.mesh.nasset/Platform.006 Gray 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "70fa6107-e0d6-3c15-2ab9-e360e2a9e327": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Gray 700.mesh.nasset/Gray 700 Gray 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "717319fb-4756-141c-233d-885f965f0d37": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Cube Rounded.005.mesh.nasset/Cube Rounded.005 Gray 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "71827b97-a483-6d07-ff8f-d8748ae51d71": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Fuschia 500.mesh.nasset/Fuschia 500 Fuschia 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "73cfb3bd-d9f7-0617-ac80-3fe23b26137d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Green 500.mtli.nasset"
+    },
+    "741ccfc9-38b2-9028-dbc0-74094d429923": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Sky 800.mesh.nasset/Sky 800 Sky 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "750cd255-a987-8677-7473-0072fed99c11": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Yellow 600.mesh.nasset/Yellow 600 Yellow 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "75c15247-e92e-05c0-6bf1-b0924e4a9fb3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Spawn Blue.mesh.nasset/Spawn Blue Gray 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "75ef0394-5757-6e92-a020-e2359d96a21d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Robot/Material Instances/Main.mtli.nasset",
+        "thumbnail": "68bc643b-c597-16f1-ef1d-18806bf52c11"
+    },
+    "77031af5-4478-9caa-c6a8-af1ba662f0d7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Blue 700.mesh.nasset/Blue 700.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "77602fb9-a2ca-bb9e-3321-148169c6cbcf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Purple 900.mesh.nasset/Purple 900.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "77702300-1f5c-6a1d-566b-ded57adc0773": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Emerald 600.mtli.nasset"
+    },
+    "7787b840-82f6-d08e-7369-d82e6d008c96": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Step SM.mesh.nasset/Step SM Blue 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7794201b-0296-97f0-69ff-aea999afbc9b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Teal 600.mesh.nasset/Teal 600 Teal 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "786915bb-5cd5-fb86-07ef-19b75bf72d30": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Red 700.mtli.nasset"
+    },
+    "78f3b447-fcf7-3aed-3f2f-71451f97618f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Material.gray-600.001.mtli.nasset"
+    },
+    "793adb83-249f-d6a5-53eb-60e962d8666b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/tx_gray-dark.tex.nasset"
+    },
+    "794842f5-15ec-70a7-569b-ebb4dd78f885": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Gray 500.mesh.nasset/Gray 500.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7a4200a6-7733-0e83-621a-fbd889330cb8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Rose 700.mesh.nasset/Rose 700.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7a661838-0518-d450-099b-5e50525ae7e2": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Lights.scene.nasset/SC_Default_Lights.scene.nasset"
+    },
+    "7a9fd7f5-433d-1e17-8743-205cd410ce3a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Teal 900.mesh.nasset/Teal 900.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7abe0276-9a43-a090-026d-2ca1627f2920": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/tx_platform-dark.tex.nasset"
+    },
+    "7b85e5cc-be78-1e6d-08e0-97bb394bee80": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Cyan 500.mtli.nasset"
+    },
+    "7bda099a-e68f-0f8b-0dd5-0ddae2ff2cdd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Sky 600.mesh.nasset/Sky 600.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7c4298ff-25e5-8dab-d118-0d1e5ea6cf0a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Outer Block.051.mesh.nasset/Outer Block.051.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7c503d28-be87-f8b4-71cd-6b753a2cb007": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Ring Cyan.mesh.nasset/Ring Cyan.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7e41446d-7649-093d-7860-b5e22b9beaa6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Blue 600.mesh.nasset/Blue 600.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7e74d080-a653-d4e4-0daf-ecab7882b9e7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Icon.mesh.nasset/Icon Icon.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7f2ef6a4-9cdd-eae7-6334-af9181fe3257": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Blue 800.mtli.nasset"
+    },
+    "7f952c89-5f79-2588-5b49-9378ce1292a1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Gray 600.mesh.nasset/Gray 600.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7fddf093-5195-f396-c46d-a0e5da5ab976": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Teal 500.mesh.nasset/Teal 500 Teal 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8006c690-cd99-395e-407b-aa953fd78fd0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Sky 500.mesh.nasset/Sky 500.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "8027da5b-2f9e-8a38-9b9a-a5817f397c40": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Rose 800.mtli.nasset"
+    },
+    "809521e8-bf41-29d6-a57b-73f0becf284e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Material.orange-600.001.mtli.nasset"
+    },
+    "8105fc42-3732-bb24-4abd-d66fe1130bcc": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Emerald 500.mtli.nasset"
+    },
+    "810ffa1f-5af4-e958-0fa0-7bb329a22f6d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Barrier 03.mesh.nasset/Barrier 03 Material.purple-600.001.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "81ab750c-34ef-580f-8746-7fee03a768e5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Barrier 02.mesh.nasset/Barrier 02 Material.lime-600.001.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "82e58b26-543e-ae08-ee5c-a6e69296119c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Spawn Red.mesh.nasset/Spawn Red.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "82eb86cb-0343-5ade-3e65-b70626319fe8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Red 900.mesh.nasset/Red 900.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "8363758b-d5f3-0701-43fc-f44c57634f19": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Spawn Spiral Blue.mesh.nasset/Spawn Spiral Blue Gray 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "839d3ec1-c2f7-55d9-ba1b-32a8542f6afc": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Material.sky-600.001.mtli.nasset"
+    },
+    "83f4d86c-45ed-450e-9ae6-5eb336ff9b09": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Teal 800.mesh.nasset/Teal 800.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "8539bed6-c449-3773-33f1-61ef6efcf0c1": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Emerald 700.mtli.nasset"
+    },
+    "85b6cba9-46b6-b9d1-c8af-f3ee3f59e99d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Sky 900.mesh.nasset/Sky 900.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "864cca19-5f37-4a44-48ac-0ea74bc25459": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Green 600.mtli.nasset"
+    },
+    "8667d04c-977a-86a8-659d-3219e31e95f1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Cyan 800.mesh.nasset/Cyan 800.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "86e845ce-7795-4cc7-394c-85acb3903d9b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Sky 600.mesh.nasset/Sky 600 Sky 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "872dc1bb-8e14-3226-43ce-a1a31ef8e9b0": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Lime 500.mtli.nasset"
+    },
+    "8842d522-9de2-18b4-b682-01a901c0b39b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Teal 700.mesh.nasset/Teal 700 Teal 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "88e16ff9-a2da-e38a-5bba-d8d7412fb19f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Robot/Material Instances/Thumbnails/White.mtli.nasset.tex.nasset"
+    },
+    "8a151491-9d08-7fe5-900e-85aeb7cae92e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/Thumbnails/SK_Robot.scene.nasset.tex.nasset"
+    },
+    "8aacc98e-bd1f-4e11-5d99-9b74d94a93ff": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Lime 800.mesh.nasset/Lime 800 Lime 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8bb022f3-a4b7-45db-b6f9-58d8ecd88e43": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Gray 700.mtli.nasset"
+    },
+    "8d32b6ac-f7b7-1fb1-a1c8-9ec6e8ca07a7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Thumbnails/SK Robot Export Black.mesh.nasset.tex.nasset"
+    },
+    "8ea52e98-24ed-8545-a417-8a6d0cfae3fb": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/SC_Default_Enviro.scene.nasset"
+    },
+    "8faf31db-7792-6983-c8c3-ea16ef7a2cc6": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Fuschia 800.mtli.nasset"
+    },
+    "91c8806d-4f25-c0ae-552b-df2c9fd9bc35": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Thumbnails/SK Robot Export Eyes.mesh.nasset.tex.nasset"
+    },
+    "92a7093d-0482-035b-c49e-cb8bdeda26e4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Fuschia 700.mtli.nasset"
+    },
+    "931e508d-7f74-77f0-2934-2bf34ff653f7": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Indigo 500.mtli.nasset"
+    },
+    "936b372b-12ca-74cb-a5d7-8c9687d8e9d5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Orange 600.mesh.nasset/Orange 600 Orange 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "956aa24b-b327-ff7b-52c7-3ddf04d9fa12": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/SC_Default_Props.scene.nasset"
+    },
+    "96059680-8978-22da-8061-2927bed28cb4": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK_Robot.scene.nasset",
+        "thumbnail": "8a151491-9d08-7fe5-900e-85aeb7cae92e"
+    },
+    "9786f884-e497-3aeb-dd17-0519cb528be9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Eyes.mesh.nasset",
+        "thumbnail": "91c8806d-4f25-c0ae-552b-df2c9fd9bc35",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "981a4fb7-1812-db57-cbda-2f4ee90b3600": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Step LRG.mesh.nasset/Step LRG Material.pink-800.001.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9826099e-3ec3-3917-acb7-b9ea2efa2e76": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Teal 600.mtli.nasset"
+    },
+    "987329f0-b74f-818a-aa6f-915e24759a68": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Violet 500.mtli.nasset"
+    },
+    "99955f6e-4c0a-3960-0961-0edffba0b6bf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Red 700.mesh.nasset/Red 700.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9a231924-b7f5-3459-fa3c-4ccd0f4d5491": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Blue 500.mesh.nasset/Blue 500 Blue 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9bbc3dac-483c-b57f-059f-6d7271f15851": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Yellow 700.mtli.nasset"
+    },
+    "9c0c6abf-9191-62b5-77ef-22a192e2b664": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Material.cyan-alpha-gradient.mtli.nasset"
+    },
+    "9cce91b2-1982-177f-3f2c-d7a3fdb6dbcd": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Red 800.mtli.nasset"
+    },
+    "9dac5dae-ae8e-375e-db43-5322e25ea16a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Fuschia 900.mesh.nasset/Fuschia 900.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9ea18434-9970-ea76-aa7f-09cada10db47": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Yellow 900.mesh.nasset/Yellow 900 Yellow 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9f8dc614-1c64-0c2e-91fe-e4988abcf0c2": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Indigo 700.mtli.nasset"
+    },
+    "9fd38479-2e8c-e4a5-f46e-1d1d05afe303": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Spawn Spiral Blue.mesh.nasset/Spawn Spiral Blue Cyan 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a03a3ae8-93f8-405a-79e6-5154cf84c2a0": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Emerald 800.mtli.nasset"
+    },
+    "a04f1314-efda-7eea-c69c-f957c5239213": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Lime 600.mesh.nasset/Lime 600.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a17b4ede-dd95-a22f-df99-d9336c4b2f43": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Yellow 500.mtli.nasset"
+    },
+    "a2853aa5-0a91-707f-4dff-9647a5501446": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Step MED.mesh.nasset/Step MED.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a33cedc2-7ca7-c6fa-50cf-3c7981a86389": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Blue 500.mesh.nasset/Blue 500.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a3a29a6f-20bf-5fcd-f7bd-3e2cb71f84e7": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Yellow 600.mtli.nasset"
+    },
+    "a3c57336-fba2-cb2e-5a92-159379adb2d6": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Emerald 900.mtli.nasset"
+    },
+    "a48201d0-0937-3f0c-5508-ba92ac776909": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Violet 900.mtli.nasset"
+    },
+    "a561eab9-299f-7d34-5235-5bc4c5684721": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Cyan 600.mtli.nasset"
+    },
+    "a58292ad-6b80-60ba-11a1-14a23aeda4e4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Indigo 900.mtli.nasset"
+    },
+    "a5a0ea8a-29d8-dc51-7ee5-0396ec7090fd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Emerald 800.mesh.nasset/Emerald 800 Emerald 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a5f7b405-78d4-b418-fb01-bc0d27848f9f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Purple 600.mesh.nasset/Purple 600.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a7a2da65-10e9-5823-1119-9221fca074e9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Lime 700.mesh.nasset/Lime 700.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a7fc447a-4ffe-d009-e033-4589f79312c2": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Purple 500.mtli.nasset"
+    },
+    "a8146617-705b-45d8-8081-2fec12d073ef": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Run.anim.nasset"
+    },
+    "a90bc525-4c65-eaa5-571c-295d0b91930c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Green 900.mtli.nasset"
+    },
+    "a9d17b0b-e528-ad35-cea4-b1c3a4d86733": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Gray 800.mesh.nasset/Gray 800 Gray 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "aa37ca79-6719-283c-5023-ae80c483e260": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Wall Corner.003.mesh.nasset/Wall Corner.003 Gray 900.001.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "aa8b02e0-4652-6532-5c47-1953b7e0d4d6": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Indigo 800.mtli.nasset"
+    },
+    "ab5e6e23-c152-c93e-ad9b-4fe19be4509a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Blue 600.mtli.nasset"
+    },
+    "abf24b53-8e79-7075-6728-f39e8e438055": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Red 900.mtli.nasset"
+    },
+    "ae5e2e48-d906-cb8f-7200-f334f6f6c881": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Default_EnviroBRDF.tex.nasset"
+    },
+    "af7ea360-6c64-87fa-bc2d-1e9d5176ff8e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Gray 900.mtli.nasset"
+    },
+    "b027b957-4acc-9205-9be1-86fc8fd16143": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Blue 900.mesh.nasset/Blue 900.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b1fba78b-84b2-33df-968a-e9be1d0146f1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Cyan 700.mesh.nasset/Cyan 700 Cyan 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b3ab8007-f526-dac7-b28e-221797e509cc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Emerald 700.mesh.nasset/Emerald 700.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b4c5b525-4df3-5ade-3006-067db4f2ec8b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Yellow 900.mtli.nasset"
+    },
+    "b55c7835-af51-064b-3f97-99cacd5157ec": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Rose 600.mesh.nasset/Rose 600.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b5db2aef-6427-b77c-0cd5-8223d25ef7a0": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Teal 500.mtli.nasset"
+    },
+    "b60dc383-d728-1239-5fa6-cd628ae5eeeb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Platform Ramp.002.mesh.nasset/Platform Ramp.002 Gray 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b7455795-3d31-fb1b-2ded-53d0b8d05e69": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Yellow 500.mesh.nasset/Yellow 500.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b8138bc1-f54a-13e9-dae6-f003cbc79e0a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Amber 700.mtli.nasset"
+    },
+    "b8f41084-4e06-1940-2dbc-5a25902aca78": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Green 800.mesh.nasset/Green 800.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b9656020-8702-5336-abbc-7b6a327e7640": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Purple 800.mtli.nasset"
+    },
+    "b96f4395-f57e-4a62-f24b-2486d08e372b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Spawn Spiral Blue.mesh.nasset/Spawn Spiral Blue Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b9ee55c7-e87e-f48b-308b-e78d8eba4ae2": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Pink 900.mtli.nasset"
+    },
+    "ba437274-a937-8fb1-f4b7-82fd82773ac9": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Green 800.mtli.nasset"
+    },
+    "ba776099-e006-63ac-e91e-f36848520df6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Sky 700.mesh.nasset/Sky 700.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "bb9cf17e-401d-b07a-8a18-576abc69251b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Yellow 500.mesh.nasset/Yellow 500 Yellow 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "bc794ad2-2a2a-2b94-de0e-ade7db9d502e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Blue 800.mesh.nasset/Blue 800.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "bcf8697c-df8a-f525-3eba-f7cade33b4b1": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Eyes.meshskin.nasset"
+    },
+    "bcf9a992-d71c-246f-e1f3-191ade99f0ea": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Green 900.mesh.nasset/Green 900 Green 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "bf085be1-53e0-8da1-6d8b-2e984777ac8b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Yellow 800.mtli.nasset"
+    },
+    "bf33ec4d-8681-ea18-0782-96bd2d8fa2f5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Orange 900.mtli.nasset"
+    },
+    "bf82e95c-8757-24da-ea82-cc2eea9d3b09": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Fuschia 500.mtli.nasset"
+    },
+    "bf92cd66-3522-a425-1850-b354dab460ab": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Lime 800.mesh.nasset/Lime 800.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c0111327-b925-8485-068c-9aff1d4eac0c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Material.violet-800.001.mtli.nasset"
+    },
+    "c0f4dd0c-27a0-f6e8-75d7-00579b7bc139": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Red 800.mesh.nasset/Red 800.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c129b110-8096-7499-6669-23a7e1bb0c82": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "c14e5d35-b3a0-6447-2943-ca061cd62c7b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Amber 800.mesh.nasset/Amber 800 Amber 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c15f6ad6-96fb-e856-6d09-49db8b417a5b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Spawn Blue.mesh.nasset/Spawn Blue Material.cyan-alpha-gradient.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c21f7732-23ca-9666-ae43-f35e8c6a14cd": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Material.blue-800.001.mtli.nasset"
+    },
+    "c2750c57-ab7a-5027-d779-391f9d595d24": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Green 900.mesh.nasset/Green 900.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c3279bb2-93a1-06ae-436e-00c167e6e1e5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Sky 800.mtli.nasset"
+    },
+    "c3671484-cda7-c678-1674-d39f5a64fb1e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Cyan 800.mesh.nasset/Cyan 800 Cyan 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c3b697ca-66ff-bb0f-0484-0eef4e1331eb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Emerald 500.mesh.nasset/Emerald 500 Emerald 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c3d9b49b-f2eb-ecba-1331-e80ed2751103": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Purple 700.mesh.nasset/Purple 700 Purple 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c49c9a8e-2168-1fab-6edc-ae2c038e64f1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Block Tile.099.mesh.nasset/Block Tile.099 Grid.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c5103387-326c-e6ba-b341-fc5e62218f8a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Purple 700.mtli.nasset"
+    },
+    "c5d0d7f8-f19e-da7a-f886-daca0a636fb5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Platform.006.mesh.nasset/Platform.006 Platform.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c64052c6-6043-0089-93a4-b0614f366eb5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Pink 700.mtli.nasset"
+    },
+    "c7d141db-34b0-cd1e-f550-e68eae4a53d0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Indigo 900.mesh.nasset/Indigo 900 Indigo 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c84f9f7a-87a7-6bdd-b486-ee69b605f295": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Green 600.mesh.nasset/Green 600.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c91f1f8c-c8b0-bd19-7e2b-98c422ee1311": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Platform Ramp.002.mesh.nasset/Platform Ramp.002 Platform.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c97355c7-dfd7-7ae4-a967-b5cf28f2130e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Icon.mtli.nasset"
+    },
+    "cb66d928-d72f-600b-e038-89a9c4165d0b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Yellow 900.mesh.nasset/Yellow 900.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "cbdc945f-8bce-f0d4-c58c-bae45499cdb7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Rose 600.mesh.nasset/Rose 600 Rose 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "cd086f05-458e-6f89-12ae-ee1abad313fa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Cyan 600.mesh.nasset/Cyan 600 Cyan 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "cd551ac6-eab6-8127-6878-e1f7662fac11": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Red 700.mesh.nasset/Red 700 Red 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "cd975cad-3cc9-27e4-64a3-0f65f1112631": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Rose 900.mesh.nasset/Rose 900.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ce41e091-0038-f8eb-b163-17da74d3c1ec": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Indigo 800.mesh.nasset/Indigo 800 Indigo 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ce9f7499-e14d-8b30-b11b-467ce3039f66": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Fuschia 800.mesh.nasset/Fuschia 800 Fuschia 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "cee1a9ec-5a72-ffc5-da79-32f3b5c142a9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Spawn Spiral Red.mesh.nasset/Spawn Spiral Red Rose 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "cf02d391-017c-4d56-0709-f7cae8b6bebd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Thumbnails/SK Robot Export.mesh.nasset.tex.nasset"
+    },
+    "cf2c9b0a-5a2f-fd2a-f5e7-fa419988f105": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pink 700.mesh.nasset/Pink 700.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d0d6a7bf-f788-9ae1-2bdd-7ef3918f756d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Gray 900.001.mtli.nasset"
+    },
+    "d27a3483-88af-6704-f879-9295c842bd7e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Barrier 02.mesh.nasset/Barrier 02.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d28c1e34-3547-640c-4c21-1ef438c810e8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Red 600.mesh.nasset/Red 600 Red 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d2ae2b4f-da92-be12-5b3f-29e4cdf5d3e3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Indigo 800.mesh.nasset/Indigo 800.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d37bebca-ee6f-022b-3701-82de0748a782": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Violet 700.mtli.nasset"
+    },
+    "d5231a5c-29d0-1605-b649-2dc510c51e7c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Wall Edge.049.mesh.nasset/Wall Edge.049.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d553038a-3287-4d7a-8c5c-9d5b349af7b6": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Jump_End.anim.nasset"
+    },
+    "d5deb88e-519e-c6a1-87ad-f2443ba8b1f2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Barrier 01.mesh.nasset/Barrier 01 Material.orange-600.001.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d63060d1-1723-b34e-aa10-7d8aef284fbe": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Robot/Material Instances/Black.mtli.nasset",
+        "thumbnail": "5df5f53e-5b27-b560-26f6-e8895a68bb4d"
+    },
+    "d6aba267-89ba-9eca-ed4a-698567fd31cc": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Rose 900.mtli.nasset"
+    },
+    "d72c74fa-d8e2-44b4-f8f7-f596f436a356": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Fuschia 600.mesh.nasset/Fuschia 600 Fuschia 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d7620606-15dc-89a0-70e1-6c435be34db1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Ring Violet.mesh.nasset/Ring Violet Violet 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "dc7dc08c-9a2f-e394-45a5-f588e4db6d0f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Rose 500.mesh.nasset/Rose 500 Rose 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "de7f4d4b-1232-8cc2-02f8-bfe634aa8bee": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Cyan 800.mtli.nasset"
+    },
+    "dec95830-689e-0964-a56f-561595acc4ac": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Green 500.mesh.nasset/Green 500.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e03edca9-10ed-5514-6cde-b8a013e2de1f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Teal 500.mesh.nasset/Teal 500.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e094f86a-210c-013e-2fad-6eabf1428942": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Red 600.mesh.nasset/Red 600.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e1131c3a-557f-d71d-1e37-a0bf0c1a9c71": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Purple 500.mesh.nasset/Purple 500.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e13fa9f4-8c9e-bd03-d6ee-a8af6cce1dbb": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Material.sky-900.001.mtli.nasset"
+    },
+    "e153d2dd-bd82-91ed-a751-eb3b18c7423d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Diamond.mesh.nasset/Diamond Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e17a8b83-6362-568a-4245-1b5416fafa75": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Emerald 500.mesh.nasset/Emerald 500.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e3afb455-0371-f071-0e35-e54d338ce737": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Sky 500.mtli.nasset"
+    },
+    "e3c24610-ab0f-7bf5-0223-abbe9f790d56": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pink 600.mesh.nasset/Pink 600.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e51e5f8a-d142-0b2d-df51-416529f39286": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Material.purple-600.001.mtli.nasset"
+    },
+    "e5915288-82fb-4a31-4a96-6339312754f4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Orange 800.mesh.nasset/Orange 800.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e5cd7838-3f0d-3701-a836-88b9b42cd912": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Ring Cyan.mesh.nasset/Ring Cyan Blue 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e5f47c5b-c306-fdb6-a371-aa135beb4e00": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Violet 900.mesh.nasset/Violet 900.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e7609933-91f4-8df8-fe33-420f836bfa73": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Purple 900.mesh.nasset/Purple 900 Purple 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e78262a2-99d6-4383-b4a8-b8839bc12f2e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Walk.anim.nasset"
+    },
+    "e95160b5-9f01-a360-4319-88759e54333f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Player/Thumbnails/Player.scene.nasset.tex.nasset"
+    },
+    "e9625837-1162-90dc-1da4-68fd190df6e0": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Violet 600.mtli.nasset"
+    },
+    "e990633b-4699-dea3-baff-866a003481f2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Amber 700.mesh.nasset/Amber 700.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e9a7439b-4ae6-29ef-bb49-f7c4a07e92aa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Yellow 700.mesh.nasset/Yellow 700.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e9c4b3ff-9630-10fe-2eaf-f7940fe9b63f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Amber 500.mtli.nasset"
+    },
+    "eb66c8a4-dd1f-bdca-9fe7-4ba8bef71dea": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Round Table.mesh.nasset/Round Table Material.sky-900.001.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ebce0a62-75c0-0add-a050-3e581017fd5d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Cyan 500.mesh.nasset/Cyan 500.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ec11f81e-092a-5cfe-d060-f530d00112c7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Rose 900.mesh.nasset/Rose 900 Rose 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ec66ce19-1e67-478b-a8e6-07b9cf74df4c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Player/Player.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
+    "ec6abce9-a76c-f043-51b2-2a849b4289d9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Yellow 800.mesh.nasset/Yellow 800 Yellow 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ed607c07-e87b-b9c3-ddc8-745e45585d9d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Robot/Material Instances/Eyes.mtli.nasset",
+        "thumbnail": "2bdf59e1-ce0f-b03f-dbf2-17b0a0d09932"
+    },
+    "ed7c145a-9989-cbfd-6dc7-40c7a1eea997": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Indigo 500.mesh.nasset/Indigo 500.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ef9e3316-6da1-bc71-df87-49b1d81045d1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Gray 500.mesh.nasset/Gray 500 Gray 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "efc10eda-589a-1978-ff4c-4ce8f569580d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Black.mesh.nasset",
+        "thumbnail": "8d32b6ac-f7b7-1fb1-a1c8-9ec6e8ca07a7",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f02c5334-d97d-610c-3242-9f1ef4eb3dba": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Amber 600.mesh.nasset/Amber 600 Amber 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f0504132-0ec7-41ce-897c-e75b5519e43f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Default_Thumb.tex.nasset"
+    },
+    "f08a5aa6-bb4e-c535-767c-3cb7345304dd": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Lime 800.mtli.nasset"
+    },
+    "f0e4b260-1919-8d94-22c6-7fa0bea428da": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Step MED.mesh.nasset/Step MED Material.violet-800.001.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f122e7ab-b395-9de9-0575-37cac37fad6e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Emerald 600.mesh.nasset/Emerald 600.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f235239f-5dc9-42a2-519e-067f65a93da6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Indigo 600.mesh.nasset/Indigo 600 Indigo 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f32cd0df-e43e-c3c8-d1b7-8d9ec966ae05": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Indigo 600.mtli.nasset"
+    },
+    "f46532e2-7291-5613-03a0-59fc7b1b15a9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Violet 500.mesh.nasset/Violet 500.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f486867e-c411-c908-b1f7-a679c0318b73": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Thumbnails/SK Robot Export Main.mesh.nasset.tex.nasset"
+    },
+    "f4f435af-729e-b643-6f39-cae971af45c9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Sky 500.mesh.nasset/Sky 500 Sky 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f68adb63-e009-eab5-5943-8bc55828eda4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Amber 500.mesh.nasset/Amber 500 Amber 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f6eff550-fc5f-b324-d020-802c3d6d9351": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Red 600.mtli.nasset"
+    },
+    "f835d011-7949-f159-8cb3-05338f845a5a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Violet 800.mtli.nasset"
+    },
+    "f92a7fe0-5b36-9546-da1d-a585d87c5acd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Blue 900.mesh.nasset/Blue 900 Blue 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f956f526-bb82-9068-ef16-71d4f6b0df72": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Spawn Spiral Blue.mesh.nasset/Spawn Spiral Blue.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f971bd22-4a9e-8e8c-5298-51daf119e50d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Red 900.mesh.nasset/Red 900 Red 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "fb69d99c-37b8-7a36-092e-4fcf38560964": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Fuschia 900.mtli.nasset"
+    },
+    "fb8725ae-a517-c0c6-8fce-394483fa88c1": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Material.pink-800.001.mtli.nasset"
+    },
+    "fbae2740-1b7a-939e-a196-9d8cc380c9c3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Teal 900.mesh.nasset/Teal 900 Teal 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "fc0414b5-5757-645a-26d8-ff0e40fd7506": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Violet 700.mesh.nasset/Violet 700.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fc49281b-dd8c-eb00-6b0d-1913a43fa6ae": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Gray 700.mesh.nasset/Gray 700.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fc78e1b4-54c7-c272-b108-d4b900abe76a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Teal 700.mesh.nasset/Teal 700.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fc8812cb-0577-9719-eca2-b74c6a72e063": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Step LRG.mesh.nasset/Step LRG Pink 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "fcdfbbe3-f2f9-a024-4a10-baf57a245862": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Teal 900.mtli.nasset"
+    },
+    "fd4d3b97-0999-d334-4f1e-d6148aed301b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Sky 800.mesh.nasset/Sky 800.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fd9551eb-aa51-e19d-f5e3-d16500b6b2de": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Round Table.mesh.nasset/Round Table Material.purple-900.001.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "fe0b3234-fd16-a7d1-9cd8-bc2ebd076eb4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Spike Ball.mesh.nasset/Spike Ball Rose 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "febbf71d-1940-d2c5-f520-4f6d3bcfdb76": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/tx-icon.tex.nasset"
+    },
+    "fed5d99a-d638-c023-5d05-fd9fc203b3c5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Material.red-800.001.mtli.nasset"
+    },
+    "ff560698-9d75-0459-d22e-79c1c6582595": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Indigo 700.mesh.nasset/Indigo 700.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    }
+}
