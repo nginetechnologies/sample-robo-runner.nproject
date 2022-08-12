@@ -9,16 +9,25 @@
     "data_components": [],
     "children": [
         {
-            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "typeGuid": "97f5d985-8b59-4864-82d8-0856b85b8c68",
             "instanceGuid": "0707ac0a-00a1-45a1-9f5a-62e90f8d93e6",
             "data_components": [
                 {
+                    "typeGuid": "a718cdb2-ef62-47c4-a968-8862f78cc08c",
+                    "rotation": [
+                        180.0,
+                        0.0,
+                        0.0
+                    ]
+                },{
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Diamond Physics Body"
+                    "name": "Diamond Collectible"
                 },
                 {
                     "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
-                    "type": 0
+                    "type": 0,
+                    "layer": 3,
+                    "body_flags": 1
                 }
             ],
             "children": [
