@@ -1,16 +1,16 @@
 {
-    "guid": "4e9814c7-33e5-018a-6309-38dacff36257",
+    "guid": "d173250a-7b28-7c8f-5a9b-bbd83296c185",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "f9c0c08a-f66e-8313-3339-b4f938587421",
+    "instanceGuid": "278a5fea-f608-fb08-8040-69793152df0c",
     "data_components": [],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "0271df81-29e2-4016-19fc-6443b31009dc",
+            "instanceGuid": "c0fe3da0-8551-d453-f59c-f94fd1725fb1",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -24,21 +24,21 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "7f3066a4-038c-ecad-8cb5-96ada35570ca",
+                    "instanceGuid": "2777acaa-3b95-94be-ff51-526f194a654c",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Barrier 01 Material.orange-600.001 Collider"
+                            "name": "Barrier 01 Orange 600 Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "8209a66f-2bd3-fee5-b0c0-8a552a37f049",
+                            "instanceGuid": "46eb58e5-ba6f-5c46-40af-e9d15a894ab0",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Barrier 01 Material.orange-600.001"
+                                    "name": "Barrier 01 Orange 600"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -48,13 +48,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "d5deb88e-519e-c6a1-87ad-f2443ba8b1f2",
-                                "material_instance": "809521e8-bf41-29d6-a57b-73f0becf284e"
+                                "mesh": "34535bbe-1c96-6e3e-8353-b2e5e17848e8",
+                                "material_instance": "ec4f34b1-80c4-a46d-a1ab-ec975b947301"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "d5deb88e-519e-c6a1-87ad-f2443ba8b1f2"
+                        "mesh": "34535bbe-1c96-6e3e-8353-b2e5e17848e8"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -64,6 +64,6 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "4e9814c7-33e5-018a-6309-38dacff36257"
+        "scene": "d173250a-7b28-7c8f-5a9b-bbd83296c185"
     }
 }

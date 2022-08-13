@@ -1,5 +1,5 @@
 {
-    "guid": "0f45f552-789a-561b-47bc-f53aef59d70f",
+    "guid": "1dbcbac9-5ad6-f41a-0bf2-c49030312c5f",
     "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
     "material": "a897cdfa-a65f-4222-a5ab-d64df68c17b6",
     "push_constants": [
@@ -13,7 +13,7 @@
         },
         {
             "type": 1,
-            "value": 0.5
+            "value": 1.0
         }
     ]
 }

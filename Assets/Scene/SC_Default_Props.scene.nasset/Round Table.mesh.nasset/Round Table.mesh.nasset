@@ -1,16 +1,16 @@
 {
-    "guid": "2440e386-e3b0-c952-13d0-cd201144754d",
+    "guid": "17b51755-8033-976d-c210-4e49ed071869",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "ab8d4679-f163-ea9a-e80b-999b50141abd",
+    "instanceGuid": "cc1e6a26-41ae-ba33-4d27-ed6a867bb7bd",
     "data_components": [],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "938077d9-d3e7-f51d-cecc-1e06a042d55b",
+            "instanceGuid": "51a7ea9c-1e4d-799e-cd6b-2224b9a73c06",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -24,21 +24,21 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "4e8ce0a1-e486-eb7f-648d-56b2289bc81c",
+                    "instanceGuid": "9217a1a5-818c-b916-4877-a0529541dde6",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Round Table Material.purple-900.001 Collider"
+                            "name": "Round Table Sky 600 Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "8a348961-b4b6-9ab3-cd41-ae5a58e3fcb2",
+                            "instanceGuid": "92d0988a-843f-3237-fa20-9c90be405775",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Round Table Material.purple-900.001"
+                                    "name": "Round Table Sky 600"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -48,13 +48,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "fd9551eb-aa51-e19d-f5e3-d16500b6b2de",
-                                "material_instance": "266b1fed-773b-66d4-1414-722a1aac70ab"
+                                "mesh": "62f94263-ec57-79e6-dd3a-62765e8d5b18",
+                                "material_instance": "90a2a10c-059c-80f3-fa04-8bc909f652ab"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "fd9551eb-aa51-e19d-f5e3-d16500b6b2de"
+                        "mesh": "62f94263-ec57-79e6-dd3a-62765e8d5b18"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -62,21 +62,21 @@
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "42a0d76e-59b2-6653-2ca7-b01fb5185ef0",
+                    "instanceGuid": "41d1c709-c858-38b3-092a-277c2aea0e86",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Round Table Material.sky-600.001 Collider"
+                            "name": "Round Table Sky 900 Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "a3ad4e48-0db3-1cd4-7a3f-443b5639b1cf",
+                            "instanceGuid": "7793504a-2e51-c3d7-e81c-b28f409bf2fa",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Round Table Material.sky-600.001"
+                                    "name": "Round Table Sky 900"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -86,13 +86,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "1a6dcfe2-a690-6ebb-1b7e-630c9c188a01",
-                                "material_instance": "839d3ec1-c2f7-55d9-ba1b-32a8542f6afc"
+                                "mesh": "7107af95-453a-31a3-66c9-893c1e4a84b7",
+                                "material_instance": "4daa8c69-06a8-b09e-314a-e76e00b7fc34"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "1a6dcfe2-a690-6ebb-1b7e-630c9c188a01"
+                        "mesh": "7107af95-453a-31a3-66c9-893c1e4a84b7"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -100,21 +100,21 @@
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "39e86e81-1abd-9b49-60ed-282eb6fa1a91",
+                    "instanceGuid": "da8b6e2c-cb8b-b9c1-f898-bf8bc9355c14",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Round Table Material.sky-900.001 Collider"
+                            "name": "Round Table Sky 800 Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "8ab9e01c-ce65-099c-caed-98459ca75efb",
+                            "instanceGuid": "f02c046a-87e5-d8e7-2831-0bfb12a176c5",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Round Table Material.sky-900.001"
+                                    "name": "Round Table Sky 800"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -124,51 +124,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "eb66c8a4-dd1f-bdca-9fe7-4ba8bef71dea",
-                                "material_instance": "e13fa9f4-8c9e-bd03-d6ee-a8af6cce1dbb"
+                                "mesh": "5e6d7be4-527c-405d-ff29-478c49118b96",
+                                "material_instance": "4b48b885-0390-82aa-f254-8f621a431022"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "eb66c8a4-dd1f-bdca-9fe7-4ba8bef71dea"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
-                },
-                {
-                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "096e48e3-3f91-5754-36dc-7eb1ea7095da",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Round Table Material.sky-800.001 Collider"
-                        }
-                    ],
-                    "children": [
-                        {
-                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "fabd7bc7-1011-f61d-014c-d1269d28f1c4",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Round Table Material.sky-800.001"
-                                }
-                            ],
-                            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                "stages": [
-                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                ]
-                            },
-                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "024a1cb0-6bf7-06ad-407c-bc4ad36d650a",
-                                "material_instance": "5e03295d-9e12-f976-f847-02eb03caec02"
-                            }
-                        }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "024a1cb0-6bf7-06ad-407c-bc4ad36d650a"
+                        "mesh": "5e6d7be4-527c-405d-ff29-478c49118b96"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -178,6 +140,6 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "2440e386-e3b0-c952-13d0-cd201144754d"
+        "scene": "17b51755-8033-976d-c210-4e49ed071869"
     }
 }
