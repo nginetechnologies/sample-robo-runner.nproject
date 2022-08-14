@@ -1196,6 +1196,11 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Lime 500.mtli.nasset"
     },
+    "5257c0ab-8fff-ac58-3e6e-f0c7e9a879d4": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Lights.scene.nasset/SC_Default_Lights.scene.nasset"
+    },
     "52c74577-280e-5eeb-9a3e-fe8409b09348": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1472,11 +1477,6 @@
     "6126fab0-1694-c403-424f-d98ade4be2d3": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Yellow 700.mtli.nasset"
-    },
-    "62373623-2589-0ec2-9be8-f96c6b47a42a": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Default_Lights.scene.nasset/SC_Default_Lights.scene.nasset"
     },
     "62423802-ac09-363a-c2f4-5204fc552abd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1927,6 +1927,10 @@
     "78a0bc59-2eb0-2f3e-216d-94e12c4a0b4e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Pink 600.mtli.nasset"
+    },
+    "78de6c8d-2ebe-7688-274a-08b01e7d9ac5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Sky Procedural.mtli.nasset"
     },
     "7a10a735-7618-3241-8832-ad608619e3d4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",

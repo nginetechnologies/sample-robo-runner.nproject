@@ -1,9 +1,9 @@
 {
-    "guid": "62373623-2589-0ec2-9be8-f96c6b47a42a",
+    "guid": "5257c0ab-8fff-ac58-3e6e-f0c7e9a879d4",
     "source": "../SC_Default_Lights.fbx",
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "04584dfc-0de2-3980-db1e-ee3f9f4ff42c",
+    "instanceGuid": "26e87a2f-db8b-3ce5-77fa-9392a52c4508",
     "data_components": [
         {
             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -13,733 +13,7 @@
     "children": [
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "f3d81ebb-e556-d81c-d5e4-268d4987a994",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light Cyan SH"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    18.9953,
-                    0.0,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.2498,
-                "color": "#00bbff",
-                "intensity": 10000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "290c4e39-46b2-62a4-119d-40d7747b7c11",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light Magenta SH"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    13.9965,
-                    37.9906,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.2498,
-                "color": "#ff0024",
-                "intensity": 10000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "c1a583b9-0149-9241-4ba0-6836aeb61645",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light White"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    13.9965,
-                    13.9965,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.1248,
-                "color": "#ff",
-                "intensity": 4000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "3cc62409-7c8b-7511-064f-5bc6d091b61a",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light Cyan SH.001"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    27.993,
-                    33.9916,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.2498,
-                "color": "#00bbff",
-                "intensity": 10000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "4b90715c-6755-a9f6-88ed-a9bb780406c1",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light White.001"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    13.9965,
-                    25.9936,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.1248,
-                "color": "#ff",
-                "intensity": 4000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "b5984086-6947-a930-48fb-a24ca792995f",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light Magenta SH.001"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    2.9992,
-                    23.9941,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.2498,
-                "color": "#ff0024",
-                "intensity": 10000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "d3eeb03f-4035-cfe3-7681-0c73472dfd22",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light Magenta SH.002"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    30.9923,
-                    23.9941,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.2498,
-                "color": "#ff0024",
-                "intensity": 10000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "07ffc2ac-79e2-3af0-15ec-ebf0239e8398",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light White.002"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    25.9936,
-                    13.9965,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.1248,
-                "color": "#ff",
-                "intensity": 4000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "9d1198c5-327e-cd59-7dfd-be7049c8a73c",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light Cyan SH.002"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    31.992,
-                    0.0,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.2498,
-                "color": "#00bbff",
-                "intensity": 10000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "1c09694d-d46e-636d-8b10-e7bc8fa351ea",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light White.003"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    37.9906,
-                    13.9965,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.1248,
-                "color": "#ff",
-                "intensity": 4000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "65a9d782-eaec-2df3-b959-ba9f3d4904cf",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light Magenta SH.003"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    35.9911,
-                    36.9908,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.2498,
-                "color": "#ff0024",
-                "intensity": 10000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "122088f3-4ed9-ddc5-cd7b-e1b00b0844e6",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light White.004"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    36.9908,
-                    25.9936,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.1248,
-                "color": "#ff",
-                "intensity": 4000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "d7feec09-5829-6bc5-5b93-04c1febcae21",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light White.005"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    30.9923,
-                    32.9919,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.1248,
-                "color": "#ff",
-                "intensity": 4000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "7917ddb3-8890-d2b4-f586-a37f764f38a8",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light White.006"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    4.9987,
-                    13.9965,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.1248,
-                "color": "#ff",
-                "intensity": 4000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "05dfb226-7a2a-927f-9dd7-3843fda98bbc",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light Cyan SH.003"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    5.9984,
-                    0.0,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.2498,
-                "color": "#00bbff",
-                "intensity": 10000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "bea6e239-3165-d5d6-ddaf-e9a1b5a487cc",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light Cyan SH.004"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    24.8554,
-                    52.9224,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.2498,
-                "color": "#00bbff",
-                "intensity": 10000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "f2c35978-180f-d5a5-4aa3-1ac9ee453eba",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light Magenta SH.004"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    35.9911,
-                    54.4865,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.2498,
-                "color": "#ff0024",
-                "intensity": 10000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "a0e0c1d2-f239-7b3c-3fb3-5c2c30dfd4e3",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light White.007"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    13.9965,
-                    51.9873,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.1248,
-                "color": "#ff",
-                "intensity": 4000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "d7327264-00c9-5e2e-74dc-13fbcadc7d6e",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light Magenta SH.005"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    2.9992,
-                    49.9877,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.2498,
-                "color": "#ff0024",
-                "intensity": 10000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "8bc87289-2f31-0665-427d-d24d45ddb914",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light White.008"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    32.9919,
-                    41.9897,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.1248,
-                "color": "#ff",
-                "intensity": 4000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "11ddef3a-5247-6465-21f3-d82f9b30a1e1",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light White.009"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    3.999,
-                    38.9903,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.1248,
-                "color": "#ff",
-                "intensity": 4000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "208691ed-5a6f-fed3-f0a6-25ffc2edacce",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Light White.010"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    30.9923,
-                    58.9855,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0279,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.1248,
-                "color": "#ff",
-                "intensity": 4000.0
-            }
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "fbe457d9-a291-c0c0-ca89-b2f8e9580cf9",
+            "instanceGuid": "57e7d871-a28b-814e-cc82-6955fbf37deb",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -772,7 +46,7 @@
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "bb34e558-a532-035b-3203-6788295f9a28",
+            "instanceGuid": "ee2b07ef-d697-6ab6-132d-4ed50b1b58a2",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -805,7 +79,7 @@
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "7e68e39f-23b8-3d96-7326-3cce1605a335",
+            "instanceGuid": "01059586-ba65-2450-a839-78e9939132a7",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -838,7 +112,7 @@
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "be2c6ea8-2427-2b7f-3ba7-16091da78c20",
+            "instanceGuid": "24b7f4fd-cd72-ffa8-3f5f-4bc4834dfe6d",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -871,7 +145,7 @@
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "79fc90f8-efa1-8cf7-6a6c-5f147f5d2115",
+            "instanceGuid": "2bda5852-79dd-2a30-653c-2782d8ef9daa",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -904,7 +178,7 @@
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "d8bd628d-9f07-9736-1393-dc26797ca214",
+            "instanceGuid": "78fa4495-7191-bf40-c555-f43066b10a7b",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -937,7 +211,7 @@
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "275e6038-fbcb-2d4e-1f04-af8fbf6b72a6",
+            "instanceGuid": "f708379a-dee8-9d6d-da05-db2783f93c9d",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -970,7 +244,7 @@
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "41a16a4b-f0ec-3296-4d9b-25309b52d7bb",
+            "instanceGuid": "487aeddb-b154-4e40-9194-b00b27509ce4",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -1003,7 +277,7 @@
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "4215e255-bb5c-c478-0d3b-9e764423a9a4",
+            "instanceGuid": "816c43c8-57fb-f2ed-3212-be75f14293f0",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -1036,7 +310,7 @@
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "f74d85ba-e253-a0cd-7fe4-7ca7f7563dde",
+            "instanceGuid": "d90ed1a3-eed9-7202-7fe7-d537bc3d955a",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -1069,7 +343,7 @@
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "e173690e-dd71-82e3-95b6-ec84856a94a0",
+            "instanceGuid": "cf314d29-ce99-81b9-db6e-6bdae67cc6b5",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -1102,7 +376,7 @@
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "ad7de321-77ea-9ca1-5826-52ba87ac07ad",
+            "instanceGuid": "48496bba-63cf-833d-a747-5dd142f99308",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -1135,7 +409,7 @@
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "fbc3d6cc-06f9-93c1-53b2-b8742f577ebe",
+            "instanceGuid": "401f2fd5-3d53-be93-33c1-943bdc640d89",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -1168,7 +442,7 @@
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "4cf1155b-f442-7662-2df8-5020584a21ee",
+            "instanceGuid": "9ebeeb40-7621-767f-a8c8-da4b9d64cd88",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -1201,7 +475,7 @@
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "fbccf242-488a-50b4-5ddb-e7604dc1b390",
+            "instanceGuid": "ae46fc2f-5f7f-2e14-4e0a-997056d16131",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -1234,7 +508,7 @@
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "eafcd489-6eb4-9ae2-9821-6d883d739947",
+            "instanceGuid": "f8074bc8-4f90-ce89-1c3a-bbfad50e64e3",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -1267,7 +541,7 @@
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "a774a260-2ec8-d130-8e79-f56402ee1070",
+            "instanceGuid": "b50e79e0-b609-5417-d069-e83a2bc46370",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -1300,7 +574,7 @@
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "5214742a-91f0-f318-422e-f5edef3377c3",
+            "instanceGuid": "7ac72bbc-f031-37a8-c04b-6b2bc65f9981",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -1333,7 +607,7 @@
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "148cbb5d-ec06-e690-2dad-ad8eb53263f9",
+            "instanceGuid": "9b5edc0c-ef6f-58dc-4099-8cd1e5553c89",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -1366,7 +640,7 @@
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "cfdc7732-a81e-50c4-eaa5-a1d9306a40be",
+            "instanceGuid": "7961c1b2-93de-b9d2-5b91-bd7830d42975",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -1399,7 +673,7 @@
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "30fa5ba1-510a-7266-8218-28e45333178b",
+            "instanceGuid": "ed7a9ea2-adf2-05f7-c652-f4ec1f757199",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -1432,7 +706,7 @@
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "65991817-7c8b-6a55-e1a8-119d4e92f1bf",
+            "instanceGuid": "3690a3a5-0cac-1c7a-077d-883bec6acca1",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -1465,6 +739,6 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "62373623-2589-0ec2-9be8-f96c6b47a42a"
+        "scene": "5257c0ab-8fff-ac58-3e6e-f0c7e9a879d4"
     }
 }
