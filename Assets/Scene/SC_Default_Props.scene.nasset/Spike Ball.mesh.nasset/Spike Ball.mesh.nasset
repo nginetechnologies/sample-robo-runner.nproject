@@ -1,37 +1,30 @@
 {
-    "guid": "afe2e18c-8b83-49fa-31b2-5af78d5d1883",
+    "guid": "628238c9-05bf-8f1b-9605-33b77e6d7dfe",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "c99fa01d-3163-aab7-5530-814d7540261e",
+    "instanceGuid": "332b9ccf-c915-52d6-98e6-96c30ca388f3",
     "data_components": [],
     "children": [
         {
-<<<<<<< HEAD
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "c9d36cef-1b36-a669-dd8e-3b6518cd9eec",
-=======
-            "typeGuid": "bb15f0a1-1644-44b2-9f6c-4c09ec7c7370",
-            "instanceGuid": "a0936c2d-5796-d146-ea21-5481f0bab96a",
->>>>>>> 0b4190dc944d392276d11e3a4241e1eecaef6f6b
+            "instanceGuid": "5a0b27e8-cfe2-bfb4-99d6-e17de8fcac8c",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spike Ball Restart Game Sensor"
+                    "name": "Spike Ball Physics Body"
                 },
                 {
                     "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
-                    "type": 0,
-                    "layer": 3,
-                    "body_flags": 1
-		}
+                    "type": 0
+                }
             ],
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "58d2fe52-9640-f83f-6657-95434a3d70e5",
+                    "instanceGuid": "35a7b27d-a372-1ea2-bff4-ea1ab6aec110",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -41,7 +34,7 @@
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "dae897eb-7cac-76d7-b17d-808d85045ca7",
+                            "instanceGuid": "c337d2ee-511f-b540-ca63-3db91103e5c5",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -55,13 +48,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "acbc5bbc-0dc1-0d8d-ee6e-8de13f4f6e18",
+                                "mesh": "74c80f55-e853-2e7f-c26b-c4ee6d1ea682",
                                 "material_instance": "722d646d-3af5-32bd-2ad4-067aa491dd9c"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "acbc5bbc-0dc1-0d8d-ee6e-8de13f4f6e18"
+                        "mesh": "74c80f55-e853-2e7f-c26b-c4ee6d1ea682"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -69,7 +62,7 @@
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "46bc72fa-3849-1a00-fa55-a16b640a0938",
+                    "instanceGuid": "046d6b53-82c7-4c01-f98e-4bc787fcd220",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -79,7 +72,7 @@
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "e42f60b3-8cff-72b9-b0cf-4d0c4b6dc54c",
+                            "instanceGuid": "af321c3e-1c28-bb9a-f828-422c6f7e43a2",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -93,13 +86,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "2284b9fa-d7eb-dbdb-5f08-6c463cc9d923",
+                                "mesh": "bc557830-7e91-3875-0759-2a47200bf7aa",
                                 "material_instance": "d95c899f-9902-fed9-6b61-80681a883c96"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "2284b9fa-d7eb-dbdb-5f08-6c463cc9d923"
+                        "mesh": "bc557830-7e91-3875-0759-2a47200bf7aa"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -109,6 +102,6 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "afe2e18c-8b83-49fa-31b2-5af78d5d1883"
+        "scene": "628238c9-05bf-8f1b-9605-33b77e6d7dfe"
     }
 }
