@@ -1,11 +1,11 @@
 {
-    "guid": "650243c5-9174-a978-44a8-d66717ac4dfd",
+    "guid": "c969eb07-1430-9776-5d39-d2b98793b5e3",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "1628c553-f4ce-b872-7f14-070d5952e9e4",
+    "instanceGuid": "65524f22-7324-cbdd-24f1-cb845ab9ec5c",
     "data_components": [],
     "children": [
         {
@@ -19,7 +19,8 @@
                         0.0,
                         0.0
                     ]
-                },{
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Diamond Collectible"
                 },
@@ -33,7 +34,7 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "2628c79c-d80f-676d-ba9c-505ba01ca0ac",
+                    "instanceGuid": "b3c0804f-fd1a-2e26-921e-3c0c55ec370f",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -43,7 +44,7 @@
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "96e91fd3-3c9f-aa9d-6162-4c036dfc4408",
+                            "instanceGuid": "f47928d8-1a74-b085-9010-888c313c9dd9",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -57,13 +58,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "e153d2dd-bd82-91ed-a751-eb3b18c7423d",
-                                "material_instance": "7b85e5cc-be78-1e6d-08e0-97bb394bee80"
+                                "mesh": "a9da922e-54de-a4ee-4c2c-a6c4e7cbb7fb",
+                                "material_instance": "64422a24-9252-7ad2-019e-6503884737bf"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "e153d2dd-bd82-91ed-a751-eb3b18c7423d"
+                        "mesh": "a9da922e-54de-a4ee-4c2c-a6c4e7cbb7fb"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -73,6 +74,6 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "650243c5-9174-a978-44a8-d66717ac4dfd"
+        "scene": "c969eb07-1430-9776-5d39-d2b98793b5e3"
     }
 }

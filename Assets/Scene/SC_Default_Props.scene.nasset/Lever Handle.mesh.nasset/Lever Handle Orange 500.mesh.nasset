@@ -1,0 +1,55 @@
+{
+    "guid": "371f15bd-b688-1e1e-8793-ca797e87d12b",
+    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+    "instanceGuid": "ae3e4fcd-134d-c610-4278-d18872f70af3",
+    "data_components": [
+        {
+            "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+            "type": 0
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+            "instanceGuid": "f4303a0f-a2af-67bf-436c-757c4ca38fe1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mesh Collider"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "2048d5d3-03a8-9960-345d-9146bf001fd3",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Mesh"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "371f15bd-b688-1e1e-8793-ca797e87d12b",
+                        "material_instance": "fdc3ae62-5ff4-22b1-0bd3-c6f234fe45bb"
+                    }
+                }
+            ],
+            "508647ca-01f3-4930-9e33-4562692b719f": {
+                "mesh": "371f15bd-b688-1e1e-8793-ca797e87d12b"
+            },
+            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+            }
+        }
+    ],
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+    ]
+}
