@@ -9,16 +9,18 @@
     "data_components": [],
     "children": [
         {
-            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "5a0b27e8-cfe2-bfb4-99d6-e17de8fcac8c",
+            "typeGuid": "bb15f0a1-1644-44b2-9f6c-4c09ec7c7370",
+            "instanceGuid": "a0936c2d-5796-d146-ea21-5481f0bab96a",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spike Ball Physics Body"
+                    "name": "Spike Ball Restart Game Sensor"
                 },
                 {
                     "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
-                    "type": 0
+                    "type": 0,
+                    "layer": 3,
+                    "body_flags": 1
                 }
             ],
             "children": [
