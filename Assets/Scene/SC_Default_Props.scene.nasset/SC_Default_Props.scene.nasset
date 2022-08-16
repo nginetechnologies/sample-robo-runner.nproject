@@ -1583,56 +1583,6 @@
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "b09a89a6-9c6f-265a-77b7-c4c95c14af19",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Obstacle Hammer"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    28.6609,
-                    41.9897,
-                    4.9987
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    -90.0487
-                ]
-            },
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "d0701480-665b-9265-a470-ded827c394f1"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "f06d2965-6673-eba8-25fa-3753858ca739",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Obstacle Hammer.001"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    28.6609,
-                    44.9888,
-                    4.9987
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    -90.0487
-                ]
-            },
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "d0701480-665b-9265-a470-ded827c394f1"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "be69fdac-6dfa-59e1-65bb-aa684384b2c7",
             "data_components": [
                 {
@@ -3629,7 +3579,7 @@
                 "rotation": [
                     0.0,
                     -0.0,
-                    -90.0138
+                    90.0138
                 ]
             },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5643,56 +5593,6 @@
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "0d9a33ac-ea83-76f0-e9e1-61e5dfbcece0",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Obstacle Hammer"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    28.6609,
-                    41.9897,
-                    4.9987
-                ],
-                "rotation": [
-                    0.0,
-                    -0.0,
-                    -89.9789
-                ]
-            },
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "d0701480-665b-9265-a470-ded827c394f1"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "c5271080-2791-f987-4d53-280a989b143b",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Obstacle Hammer.001"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    28.6609,
-                    44.9889,
-                    4.9987
-                ],
-                "rotation": [
-                    0.0,
-                    -0.0,
-                    -89.9789
-                ]
-            },
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "d0701480-665b-9265-a470-ded827c394f1"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "08a8bf78-2ccc-c972-cc78-cdb77d1f94e2",
             "data_components": [
                 {
@@ -7669,56 +7569,6 @@
             },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "7158f97e-f376-c3f1-a5c7-0824d5dcee63"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "ee12a970-0bb5-24b1-b64a-92e7cdba265f",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Obstacle Hammer"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    28.6609,
-                    41.9897,
-                    4.9987
-                ],
-                "rotation": [
-                    0.0,
-                    -0.0,
-                    -89.9999
-                ]
-            },
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "d0701480-665b-9265-a470-ded827c394f1"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "e9a7fbef-31aa-abd7-9b7d-1e5419b8ec6d",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Obstacle Hammer.001"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    28.6609,
-                    44.989,
-                    4.9987
-                ],
-                "rotation": [
-                    0.0,
-                    -0.0,
-                    -89.9999
-                ]
-            },
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "d0701480-665b-9265-a470-ded827c394f1"
             }
         },
         {
