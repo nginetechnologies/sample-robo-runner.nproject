@@ -8,6 +8,51 @@
     "instanceGuid": "c0422d1a-c028-ccbf-a7e2-5cb1f86f64f2",
     "data_components": [],
     "children": [
+	{
+            "typeGuid": "bb15f0a1-1644-44b2-9f6c-4c09ec7c7370",
+            "instanceGuid": "397cbc25-1cf3-b45e-8749-a270a0c54a43",
+            "e875b43b-d558-405c-a957-39c5d0f00ab2": {
+                "overriddenMass": 0.0
+            },
+            "183d677a-b427-4b1d-a276-97b3e6681304": {
+                "mask": [
+                    "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "New Restart Game Area",
+                    "flags": 2
+                },
+				{
+					"typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+					"type": 0,
+					"layer": 3,
+					"body_flags": 1,
+					"maximumAngularVelocity": 2700.0
+				}
+
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "a0ca49f5-2f0a-6384-3e7e-0774b9e82831",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    },
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "43972084-595f-f4c6-04b3-6f5539d8e662"
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "New Mesh Collider"
+                        }
+                    ]
+                }
+            ]
+        },
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "90c1829d-049b-d282-db0e-d5c78618163e",
