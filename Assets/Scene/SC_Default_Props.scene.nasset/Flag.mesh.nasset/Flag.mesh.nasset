@@ -1,182 +1,341 @@
 {
     "guid": "bd7eaff2-7ac5-4d6c-01c4-80813979c323",
-    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-    "tags": [
-        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-    ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "instanceGuid": "116641c7-e9f2-4fcb-d2ec-ff77d0800659",
-    "data_components": [],
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 4096.0
+    },
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "fdbf1992-4f2b-afaf-2e32-b0a2180d2cca",
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Flag Physics Body"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "fdbf1992-4f2b-afaf-2e32-b0a2180d2cca"
                 },
                 {
                     "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
-                    "type": 0
+                    "type": 0,
+                    "layer": 0,
+                    "maximumAngularVelocity": 2700.0,
+                    "overriddenMass": 0.0
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Flag Physics Body"
                 }
             ],
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
                     "instanceGuid": "0fafa3c3-4899-5884-2c50-4057a2247977",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    },
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "2cce0ae2-ea98-84a7-9540-34b42339a55b"
+                    },
                     "data_components": [
                         {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "0fafa3c3-4899-5884-2c50-4057a2247977"
+                        },
+                        {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Flag Yellow 500 Collider"
+                            "name": "Flag Yellow 500 Collider",
+                            "flags": 4
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
                             "instanceGuid": "2f71d1be-429e-4f12-effc-73f2584ef339",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Flag Yellow 500"
-                                }
-                            ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
                                 "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
                                     "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                                 "mesh": "2cce0ae2-ea98-84a7-9540-34b42339a55b",
                                 "material_instance": "780d251e-33d3-d8a3-af07-5c15b439497d"
-                            }
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                    "tag": "13ca71b8-d868-4f7c-a0bb-c7585db11327",
+                                    "mask": [
+                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                    ]
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "2f71d1be-429e-4f12-effc-73f2584ef339"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Flag Yellow 500"
+                                }
+                            ]
                         }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "2cce0ae2-ea98-84a7-9540-34b42339a55b"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
+                    ]
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
                     "instanceGuid": "ae5c8112-7973-581f-a648-5ee6b418009f",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    },
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "60c30093-55ae-02a0-2534-17acc12a9676"
+                    },
                     "data_components": [
                         {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "ae5c8112-7973-581f-a648-5ee6b418009f"
+                        },
+                        {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Flag Gray 500 Collider"
+                            "name": "Flag Gray 500 Collider",
+                            "flags": 4
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
                             "instanceGuid": "374e0cb7-3303-a87e-4bbc-cee18e3c5cae",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Flag Gray 500"
-                                }
-                            ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
                                 "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
                                     "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                                 "mesh": "60c30093-55ae-02a0-2534-17acc12a9676",
                                 "material_instance": "9f751b61-67db-c613-5310-159eef3b3f2b"
-                            }
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                    "tag": "13ca71b8-d868-4f7c-a0bb-c7585db11327",
+                                    "mask": [
+                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                    ]
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "374e0cb7-3303-a87e-4bbc-cee18e3c5cae"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Flag Gray 500"
+                                }
+                            ]
                         }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "60c30093-55ae-02a0-2534-17acc12a9676"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
+                    ]
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
                     "instanceGuid": "634f4945-0132-8216-ad96-6cdaed244745",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    },
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "73ec7ac7-67d9-618f-e243-ab3d09e2d7fe"
+                    },
                     "data_components": [
                         {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "634f4945-0132-8216-ad96-6cdaed244745"
+                        },
+                        {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Flag Lime 500 Collider"
+                            "name": "Flag Lime 500 Collider",
+                            "flags": 4
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
                             "instanceGuid": "ac7c800f-b7d4-6527-63b1-fa459043fa61",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Flag Lime 500"
-                                }
-                            ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
                                 "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
                                     "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                                 "mesh": "73ec7ac7-67d9-618f-e243-ab3d09e2d7fe",
                                 "material_instance": "51e8c4ff-c706-f14b-8b36-e9bcf943b06e"
-                            }
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                    "tag": "13ca71b8-d868-4f7c-a0bb-c7585db11327",
+                                    "mask": [
+                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                    ]
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "ac7c800f-b7d4-6527-63b1-fa459043fa61"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Flag Lime 500"
+                                }
+                            ]
                         }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "73ec7ac7-67d9-618f-e243-ab3d09e2d7fe"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
+                    ]
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
                     "instanceGuid": "c361090c-a771-d3ea-56bb-309d6d3a9dee",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    },
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "2edbfb82-c17a-6b25-8c18-5146851cef68"
+                    },
                     "data_components": [
                         {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "c361090c-a771-d3ea-56bb-309d6d3a9dee"
+                        },
+                        {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Flag Pink 600 Collider"
+                            "name": "Flag Pink 600 Collider",
+                            "flags": 4
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
                             "instanceGuid": "04c0ccd3-0d52-4649-ece4-498259b5ce85",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Flag Pink 600"
-                                }
-                            ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
                                 "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
                                     "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                                 "mesh": "2edbfb82-c17a-6b25-8c18-5146851cef68",
                                 "material_instance": "78a0bc59-2eb0-2f3e-216d-94e12c4a0b4e"
-                            }
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                    "tag": "13ca71b8-d868-4f7c-a0bb-c7585db11327",
+                                    "mask": [
+                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                    ]
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "04c0ccd3-0d52-4649-ece4-498259b5ce85"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Flag Pink 600"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "bb15f0a1-1644-44b2-9f6c-4c09ec7c7370",
+                    "instanceGuid": "fd57019d-7fd4-588b-c898-5482c92555e8",
+                    "183d677a-b427-4b1d-a276-97b3e6681304": {
+                        "mask": [
+                            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+                        ]
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                            "type": 0,
+                            "layer": 3,
+                            "body_flags": 1,
+                            "maximumAngularVelocity": 2700.0,
+                            "overriddenMass": 0.0
+                        },
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "New Restart Game Rules Sensor"
                         }
                     ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "2edbfb82-c17a-6b25-8c18-5146851cef68"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
+                    "children": [
+                        {
+                            "typeGuid": "e81f4e62-fee0-4182-9c1a-a47c053b813f",
+                            "instanceGuid": "14a46eec-c96d-dba6-b7a6-1fe887a3f471",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.0,
+                                    0.0,
+                                    1.5624
+                                ],
+                                "scale": [
+                                    2.9119,
+                                    2.3009,
+                                    3.9058
+                                ]
+                            },
+                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                            },
+                            "e81f4e62-fee0-4182-9c1a-a47c053b813f": {
+                                "size": [
+                                    1.0
+                                ],
+                                "half_extent": [
+                                    1.0
+                                ]
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "New Box Collider"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
     ],
+    "default_camera": {
+        "position": [
+            -5.6333,
+            1.2233,
+            5.3141
+        ],
+        "rotation": [
+            -43.8225,
+            -0.0,
+            -102.7744
+        ],
+        "fieldOfView": 60.0,
+        "nearPlane": 0.1,
+        "farPlane": 128.0
+    },
+    "grid": {
+        "position": [
+            0.0,
+            0.0,
+            1.562
+        ],
+        "scale": [
+            -1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "bd7eaff2-7ac5-4d6c-01c4-80813979c323"
     }
