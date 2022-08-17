@@ -903,71 +903,6 @@
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "3c799bb1-dc28-05d8-2ea4-1b21aad2191d",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Stripe Paddle"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    8.9975,
-                    30.9923,
-                    -0.3998
-                ]
-            },
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a6091c82-aec4-b7ac-bc1b-30b41e130483"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "f1e7078c-399a-e5db-a0e1-f7f73dff0fd4",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Stripe Paddle.001"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    8.9975,
-                    30.9923,
-                    3.799
-                ],
-                "rotation": [
-                    179.9998,
-                    -0.0,
-                    0.0
-                ]
-            },
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a6091c82-aec4-b7ac-bc1b-30b41e130483"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "756252ac-ad67-24ee-8a89-640d98e445d2",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Stripe Paddle Post"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    8.9975,
-                    30.9923,
-                    0.0
-                ]
-            },
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "2093e444-ad01-8e6f-76c0-c70b0fc2a93b"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "11a4a170-e716-76ab-4b2e-57361657e29f",
             "data_components": [
                 {
@@ -2883,7 +2818,7 @@
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "4217fce5-496e-bc91-134e-a8f08a7d9c7d",
+            "instanceGuid": "03352c08-b70c-6200-0f6c-c2884478769f",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -2894,56 +2829,11 @@
                 "position": [
                     8.9976,
                     30.9923,
-                    -0.3998
-                ]
-            },
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a6091c82-aec4-b7ac-bc1b-30b41e130483"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "b653525f-6815-9553-bc88-a11dba7aee3f",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Stripe Paddle.001"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    8.9976,
-                    30.9923,
-                    3.799
-                ],
-                "rotation": [
-                    179.9998,
-                    -0.0,
                     0.0
                 ]
             },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a6091c82-aec4-b7ac-bc1b-30b41e130483"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "03352c08-b70c-6200-0f6c-c2884478769f",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Stripe Paddle Post"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    8.9976,
-                    30.9923,
-                    0.0
-                ]
-            },
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "2093e444-ad01-8e6f-76c0-c70b0fc2a93b"
+                "scene": "c0003045-4f20-43c7-b2da-e4d31fd0196b"
             }
         },
         {
@@ -4913,71 +4803,6 @@
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "33a51667-714b-8674-a5bb-9990358048fb",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Stripe Paddle"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    8.9977,
-                    30.9923,
-                    -0.3998
-                ]
-            },
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a6091c82-aec4-b7ac-bc1b-30b41e130483"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "7c098edd-0631-2ddf-cded-ef66882ec555",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Stripe Paddle.001"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    8.9977,
-                    30.9923,
-                    3.799
-                ],
-                "rotation": [
-                    179.9998,
-                    -0.0,
-                    0.0
-                ]
-            },
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a6091c82-aec4-b7ac-bc1b-30b41e130483"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "581dc32b-53f2-d76b-5af0-621f7e8b58fc",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Stripe Paddle Post"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    8.9977,
-                    30.9923,
-                    0.0
-                ]
-            },
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "2093e444-ad01-8e6f-76c0-c70b0fc2a93b"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "20e72c73-a236-32b2-02ae-c1ebe45e9313",
             "data_components": [
                 {
@@ -6889,71 +6714,6 @@
             },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "45fea3ba-f320-f91b-de18-f1291b9f13c8"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "5d4be7e4-d35d-3c6d-1186-1bd525d37f20",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Stripe Paddle"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    8.9978,
-                    30.9924,
-                    -0.3999
-                ]
-            },
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a6091c82-aec4-b7ac-bc1b-30b41e130483"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "2dcbd4c0-cc54-0000-2a18-4562beac45ff",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Stripe Paddle.001"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    8.9978,
-                    30.9924,
-                    3.799
-                ],
-                "rotation": [
-                    179.9999,
-                    -0.0,
-                    0.0
-                ]
-            },
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a6091c82-aec4-b7ac-bc1b-30b41e130483"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "46f7fa7d-e9a5-5e2f-e207-64034a98e5eb",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Stripe Paddle Post"
-                }
-            ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    8.9978,
-                    30.9924,
-                    0.0
-                ]
-            },
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "2093e444-ad01-8e6f-76c0-c70b0fc2a93b"
             }
         },
         {
