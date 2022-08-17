@@ -1710,6 +1710,10 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "6cd39741-58a0-4592-9963-cb5f75db3764": {
+        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
+        "path": "Assets/Physical Materials/Football.physmat.nasset"
+    },
     "6d0ab017-8399-4b5c-978e-99e5d0f1b248": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -2704,10 +2708,7 @@
     "ae55a825-459b-774b-5d92-121eea6a8840": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Obstacle Pole SM.mesh.nasset/Obstacle Pole SM.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Obstacle Pole SM.mesh.nasset/Obstacle Pole SM.mesh.nasset"
     },
     "ae5a75ee-14d9-7c99-d176-89035a7eeb25": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2897,10 +2898,7 @@
     "bd7eaff2-7ac5-4d6c-01c4-80813979c323": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Flag.mesh.nasset/Flag.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Flag.mesh.nasset/Flag.mesh.nasset"
     },
     "bda6b600-058e-04ad-699e-374fcfe4d6cd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3066,10 +3064,7 @@
     "c783632e-c060-b3d8-80d4-7e15517e36d3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Barrier 03.mesh.nasset/Barrier 03.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Barrier 03.mesh.nasset/Barrier 03.mesh.nasset"
     },
     "c937dc7c-30be-dea4-fad3-4cccbaae8689": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3214,10 +3209,7 @@
     "d0701480-665b-9265-a470-ded827c394f1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Obstacle Hammer.mesh.nasset/Obstacle Hammer.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Obstacle Hammer.mesh.nasset/Obstacle Hammer.mesh.nasset"
     },
     "d09ea5b8-2cfb-7078-c47f-269372985216": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3235,10 +3227,7 @@
     "d0f417f7-ea46-09cc-25ab-22dc5e0d7563": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Obstacle Pole LG.mesh.nasset/Obstacle Pole LG.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Obstacle Pole LG.mesh.nasset/Obstacle Pole LG.mesh.nasset"
     },
     "d297836b-7b86-6c23-b336-cd5b03c5a2a9": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -3871,10 +3860,7 @@
     "f7cf8b99-ebb1-0768-b61b-d2fa2d2e1b95": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Football.mesh.nasset/Football.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Football.mesh.nasset/Football.mesh.nasset"
     },
     "f8f22b50-2545-bf7d-e2d0-fe0b83d0d5ce": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
