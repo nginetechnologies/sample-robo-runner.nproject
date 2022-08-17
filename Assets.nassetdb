@@ -87,6 +87,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Default_Enviro.tex.nasset"
     },
+    "06032e44-ce54-7103-7f37-389ee1774d0b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Default_SkyboxBRDF.tex.nasset"
+    },
     "06ab0d65-987c-73f0-e076-203a4d7c7ba7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -534,10 +538,7 @@
     "248bae95-f7d7-9b88-8a84-90334371b60a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Default_Props.scene.nasset/SK Launchpad Static.mesh.nasset/SK Launchpad Static.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/SK Launchpad Static.mesh.nasset/SK Launchpad Static.mesh.nasset"
     },
     "258bdcef-e47b-98b0-3757-93f54f40ca1b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -846,10 +847,6 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "3858cb07-f48d-8318-be6e-be6e78824ada": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Default_SkyboxDiffuse.tex.nasset"
-    },
     "388098e1-5bfb-4aa2-39ac-502e5471c3de": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Purple 800.mtli.nasset"
@@ -1051,6 +1048,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "49783c7c-6a31-85e7-3bf3-6da21aed34f4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Default_SkyboxSpecular.tex.nasset"
+    },
     "4a2320ec-2854-b612-edb5-5ebb23dbe78a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1118,6 +1119,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "4ebb3032-052e-43f4-39ed-1a4f72fe6197": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Default_SkyboxDiffuse.tex.nasset"
     },
     "4effc89a-bc0d-3227-93cb-e5b72c5b24ae": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1304,10 +1309,6 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
-    },
-    "58ed3bd5-091f-dbde-1378-d0efc1b1a854": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Default_SkyboxBRDF.tex.nasset"
     },
     "596919b1-be59-4c3e-3c7f-9941fef6ea13": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3129,10 +3130,6 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
-    },
-    "cc722828-3176-aa31-2bf4-315624d6341d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Default_SkyboxSpecular.tex.nasset"
     },
     "cc8c982a-924b-1e04-9dae-8628448f1821": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
