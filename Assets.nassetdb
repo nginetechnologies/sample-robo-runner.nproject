@@ -252,6 +252,22 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "12404d1f-082a-f116-4a04-2edd7e0e342c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SM_Thruster.scene.nasset/Thruster Housing.mesh.nasset/Thruster Housing.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1243b480-abbf-b3cc-ac86-117dc55047bb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SM_Thruster.scene.nasset/Thruster Blades.mesh.nasset/Thruster Blades Gray 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "12ce4904-263f-c37c-68c3-678d54e9ad7b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Rose 600.mtli.nasset"
@@ -1072,6 +1088,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "4b3ff524-3399-56ba-fb54-741cfb43320d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SM_Treasure_Chest.scene.nasset/Treasure Base.mesh.nasset/Treasure Base Yellow 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "4b48b885-0390-82aa-f254-8f621a431022": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Sky 800.mtli.nasset"
@@ -1467,6 +1491,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "60996a6f-83cc-9d04-18a9-f305b911d836": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SM_Thruster.scene.nasset/Thruster Blades.mesh.nasset/Thruster Blades.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "60c30093-55ae-02a0-2534-17acc12a9676": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1478,6 +1510,11 @@
     "6126fab0-1694-c403-424f-d98ade4be2d3": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Yellow 700.mtli.nasset"
+    },
+    "613d923e-a89d-a4a5-8bf7-8745259a3554": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SM_Thruster.scene.nasset/SM_Thruster.scene.nasset"
     },
     "62423802-ac09-363a-c2f4-5204fc552abd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1623,10 +1660,26 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "66627044-8000-9385-3333-07b3554da6fd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SM_Treasure_Chest.scene.nasset/Treasure Base.mesh.nasset/Treasure Base Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "66fbb86a-0a0b-8bb5-68b8-3581434c151b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Scene/SC_Default_Props.scene.nasset/Round Table.mesh.nasset/Round Table Sky 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "66fc164f-7bbe-0f8e-6563-7b358bd24c7c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SM_Treasure_Chest.scene.nasset/Treasure Lid.mesh.nasset/Treasure Lid Green 500.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -1707,6 +1760,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Props.scene.nasset/Ring Violet.mesh.nasset/Ring Violet.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6c9b0a48-e96d-b4dd-a725-6a5a914a3a23": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SM_Treasure_Chest.scene.nasset/Treasure Base.mesh.nasset/Treasure Base.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1818,6 +1879,14 @@
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Violet 800.mesh.nasset/Violet 800.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "72a2f414-d21b-e1e7-819d-12af31dae92b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SM_Treasure_Chest.scene.nasset/Treasure Lid.mesh.nasset/Treasure Lid Yellow 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
     "73a284ee-0142-3b46-3fd3-f3602d4e06f7": {
@@ -2028,6 +2097,14 @@
     "7f2767d5-f2f6-c4f5-f2c6-8a7f8252bd65": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Fuschia 500.mtli.nasset"
+    },
+    "7fa0762c-a785-8fee-3091-67e144ea7a9f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SM_Thruster.scene.nasset/Thruster Housing.mesh.nasset/Thruster Housing Purple 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
     "80d68cec-e0ed-5be8-cf5e-eeeb05f11853": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2344,6 +2421,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Scene/SC_Default_Props.scene.nasset/Spawn Spiral Blue.mesh.nasset/Spawn Spiral Blue Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "99429514-00f6-e5c4-979f-31906f424abf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SM_Thruster.scene.nasset/Thruster Blades.mesh.nasset/Thruster Blades Purple 700.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -2706,6 +2791,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "adb28c2b-b505-d1b9-26b6-b17c9ce0b599": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SM_Thruster.scene.nasset/Thruster Housing.mesh.nasset/Thruster Housing Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "ae55a825-459b-774b-5d92-121eea6a8840": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2933,6 +3026,11 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "bffd4234-ade5-eba9-61f4-66448ef6cc63": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SM_Treasure_Chest.scene.nasset/SM_Treasure_Chest.scene.nasset"
+    },
     "c129b110-8096-7499-6669-23a7e1bb0c82": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -3067,6 +3165,14 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Props.scene.nasset/Barrier 03.mesh.nasset/Barrier 03.mesh.nasset"
     },
+    "c7f69700-4bb7-3c6e-0dd7-e128b0af377f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SM_Treasure_Chest.scene.nasset/Treasure Lid.mesh.nasset/Treasure Lid.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "c937dc7c-30be-dea4-fad3-4cccbaae8689": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3159,6 +3265,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Sky 600.mesh.nasset/Sky 600 Sky 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ce527602-4df8-e605-4255-195b3e885ea7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SM_Thruster.scene.nasset/Thruster Housing.mesh.nasset/Thruster Housing Cyan 500.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -3601,6 +3715,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Teal 800.mesh.nasset/Teal 800 Teal 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ebfa4ed3-972e-28bd-d977-6bf30b932f13": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SM_Treasure_Chest.scene.nasset/Treasure Lid.mesh.nasset/Treasure Lid Pink 700.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
