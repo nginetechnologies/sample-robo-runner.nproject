@@ -131,7 +131,7 @@
                                 },
                                 {
                                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                    "templateInstanceGuid": "75c2a281-875c-f6f3-506c-ac58bf83b0b4"
+                                    "templateInstanceGuid": "9582ca2a-606f-38bc-e76c-74f61bbad2f8"
                                 }
                             ],
                             "children": [
@@ -158,7 +158,7 @@
                                         },
                                         {
                                             "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                            "templateInstanceGuid": "7b8a64e4-9a04-ee09-6a62-106fabab9caf"
+                                            "templateInstanceGuid": "c8e732ea-9465-a16b-2b97-96d42c2242e5"
                                         }
                                     ]
                                 }
