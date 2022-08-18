@@ -16953,6 +16953,195 @@
                 "scene": "5fe8ec6f-0fc8-8c93-9e2c-70da975ce585"
             }
         },
+		{
+			"typeGuid": "DE8F8DA2-D37F-41DA-BC6E-580435FE605F",
+			 "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+				"position": [
+					-45,
+					14,
+					-3.4
+				],
+				"scale": [
+					0.5
+				]
+			},
+			"data_components": [
+				{
+					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+					"name": "Rising Platform"
+				}
+			],
+			"children": [
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "c3ff35e8-1098-8906-5a51-0c63f6864b1a",
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"flags": 16
+					},
+					"data_components": [
+						{
+							"typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+							"templateInstanceGuid": "c3ff35e8-1098-8906-5a51-0c63f6864b1a"
+						},
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Pressure Housing.002"
+						}
+					],
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "69487c71-6da5-a631-169b-143423a7918d"
+					}
+				},
+				{
+					"typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
+					"instanceGuid": "3aa70485-aa35-234d-c8b1-0d0865c20bcf",
+					"304ec37e-bce4-48b6-9c2e-6108738270ff": {
+						"spline": [
+							{
+								"position": [
+									0.0
+								],
+								"backward": [
+									0.0
+								],
+								"forward": [
+									-0.0041,
+									0.0013,
+									-0.5874
+								],
+								"up": [
+									0.0,
+									0.0,
+									1.0
+								],
+								"is_bezier": true
+							},
+							{
+								"position": [
+									-0.0109,
+									0.0034,
+									-1.7626
+								],
+								"backward": [
+									-0.0085,
+									0.0026,
+									-1.1749
+								],
+								"forward": [
+									-0.012,
+									0.0038,
+									-2.0694
+								],
+								"up": [
+									0.0,
+									0.0,
+									1.0002
+								],
+								"is_bezier": true
+							},
+							{
+								"position": [
+									-0.0109,
+									0.0034,
+									-2.6823
+								],
+								"backward": [
+									-0.0115,
+									0.0035,
+									-2.3759
+								],
+								"forward": [
+									-0.0109,
+									0.0034,
+									-2.6823
+								],
+								"up": [
+									0.0,
+									0.0,
+									1.0002
+								],
+								"is_bezier": true
+							}
+						],
+						"bounds": {
+							"minimum": [
+								-0.001
+							],
+							"maximum": [
+								0.001
+							]
+						}
+					},
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Spline"
+						}
+					]
+				},
+				{
+					"typeGuid": "DE8F8DA2-D37F-41DA-BC6E-580435FE605F",
+					"instanceGuid": "e17f7915-2364-449e-bd49-a9d007dd412b",
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+					   "position": [
+						   0,
+						   0,
+						   0.4
+					   ]
+				   },
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Platform"
+						},
+						{
+							"typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
+							"spline": {
+								"typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
+								"instanceGuid": "3aa70485-aa35-234d-c8b1-0d0865c20bcf"
+							},
+							"velocity": -1.0,
+							"mode": 2,
+							"activationMode": 0
+						}
+					],
+					"children": [
+						{
+							"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+							"instanceGuid": "0e4848f4-8ff0-d3f8-f278-4d00136650bf",
+							"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+								"flags": 16
+							},
+							"data_components": [
+								{
+									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+									"name": "Pressure Plate.002"
+								}
+							],
+							"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+								"scene": "efae5157-521a-9f4c-6a37-cdfdba974db0"
+							}
+						},
+						{
+							"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+							"instanceGuid": "5f847ad8-5113-ae3f-bdaa-7b45ab2f0a14",
+							"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+								"flags": 16
+							},
+							"data_components": [
+								{
+									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+									"name": "Pressure Plate.003"
+								}
+							],
+							"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+								"scene": "eb765b24-c085-2c6d-a019-0ff3804c4956"
+							}
+						}
+					]
+				}
+			]
+		},
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "23e144c8-16c7-641d-c37c-af939a8809b4",
@@ -16976,34 +17165,6 @@
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "a5899144-3c97-1854-6df7-e81bc09629d9"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "c3ff35e8-1098-8906-5a51-0c63f6864b1a",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -44.9888,
-                    13.9965,
-                    -3.3991
-                ],
-                "scale": [
-                    0.5
-                ],
-                "flags": 16
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c3ff35e8-1098-8906-5a51-0c63f6864b1a"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Housing.002"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "69487c71-6da5-a631-169b-143423a7918d"
             }
         },
         {
@@ -17085,72 +17246,6 @@
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "81794b77-18af-6a69-acfe-dab17d3b75b8"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "0e4848f4-8ff0-d3f8-f278-4d00136650bf",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -44.9888,
-                    13.9965,
-                    -2.9992
-                ],
-                "scale": [
-                    0.5
-                ],
-                "flags": 16
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "0e4848f4-8ff0-d3f8-f278-4d00136650bf"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Plate.002"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "efae5157-521a-9f4c-6a37-cdfdba974db0"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "5f847ad8-5113-ae3f-bdaa-7b45ab2f0a14",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -44.9405,
-                    13.9812,
-                    -2.5261
-                ],
-                "scale": [
-                    0.5
-                ],
-                "flags": 16
-            },
-            "data_components": [
-                {
-                    "typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
-                    "spline": {
-                        "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
-                        "instanceGuid": "3aa70485-aa35-234d-c8b1-0d0865c20bcf"
-                    },
-                    "velocity": -1.0,
-                    "mode": 2,
-                    "activationMode": 0
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "5f847ad8-5113-ae3f-bdaa-7b45ab2f0a14"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Plate.003"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "eb765b24-c085-2c6d-a019-0ff3804c4956"
             }
         },
         {
@@ -19468,104 +19563,6 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Spline3"
-                }
-            ]
-        },
-        {
-            "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
-            "instanceGuid": "3aa70485-aa35-234d-c8b1-0d0865c20bcf",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -44.9556,
-                    13.9861,
-                    -3.1637
-                ]
-            },
-            "304ec37e-bce4-48b6-9c2e-6108738270ff": {
-                "spline": [
-                    {
-                        "position": [
-                            0.0
-                        ],
-                        "backward": [
-                            0.0
-                        ],
-                        "forward": [
-                            -0.0041,
-                            0.0013,
-                            -0.5874
-                        ],
-                        "up": [
-                            0.0,
-                            0.0,
-                            1.0
-                        ],
-                        "is_bezier": true
-                    },
-                    {
-                        "position": [
-                            -0.0109,
-                            0.0034,
-                            -1.7626
-                        ],
-                        "backward": [
-                            -0.0085,
-                            0.0026,
-                            -1.1749
-                        ],
-                        "forward": [
-                            -0.012,
-                            0.0038,
-                            -2.0694
-                        ],
-                        "up": [
-                            0.0,
-                            0.0,
-                            1.0002
-                        ],
-                        "is_bezier": true
-                    },
-                    {
-                        "position": [
-                            -0.0109,
-                            0.0034,
-                            -2.6823
-                        ],
-                        "backward": [
-                            -0.0115,
-                            0.0035,
-                            -2.3759
-                        ],
-                        "forward": [
-                            -0.0109,
-                            0.0034,
-                            -2.6823
-                        ],
-                        "up": [
-                            0.0,
-                            0.0,
-                            1.0002
-                        ],
-                        "is_bezier": true
-                    }
-                ],
-                "bounds": {
-                    "minimum": [
-                        -0.001
-                    ],
-                    "maximum": [
-                        0.001
-                    ]
-                }
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "3aa70485-aa35-234d-c8b1-0d0865c20bcf"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spline Platform 1"
                 }
             ]
         },
