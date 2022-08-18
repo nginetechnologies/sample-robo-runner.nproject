@@ -115,6 +115,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "078edd91-11af-7155-2fcb-758bdcbbf9e1": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Capsule_Man/Material Instances/Black.mtli.nasset"
+    },
     "07ca471a-f9a3-6581-0648-921f95f9d7aa": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -130,6 +134,11 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "0911330b-82d0-cb8b-190c-c1e09080fbe7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Capsule_Man/SK_Capsule_Man.scene.nasset/SK_Capsule_Man.scene.nasset"
     },
     "09494682-177a-bc2b-d332-9f9c5f20775b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -623,6 +632,14 @@
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Yellow 800.mesh.nasset/Yellow 800.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2926ac93-1ec6-5d4a-434d-05e6d8586f27": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Capsule_Man/SK_Capsule_Man.scene.nasset/SK Capsule Player.mesh.nasset/SK Capsule Player Body.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
     "294fb233-a6f2-2113-dfb5-f6ed626aef83": {
@@ -1507,6 +1524,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "611cb1ae-3d1b-64c0-92ef-8613d3bc098a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Capsule_Man/SK_Capsule_Man.scene.nasset/SK Capsule Player.mesh.nasset/SK Capsule Player Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "6126fab0-1694-c403-424f-d98ade4be2d3": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Yellow 700.mtli.nasset"
@@ -1579,6 +1604,11 @@
     "64422a24-9252-7ad2-019e-6503884737bf": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Cyan 500.mtli.nasset"
+    },
+    "646ba057-4425-4c7d-9ce6-b3f5e89b4380": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Capsule_Man/SK_Capsule_Man.scene.nasset/SK Capsule Player.mesh.nasset/Animations/Jump_End.anim.nasset"
     },
     "64707f86-b794-8006-eeb7-d9966559c0c4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1869,6 +1899,11 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "7213a898-b6f3-44d6-b43f-45738d775fe0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Capsule_Man/SK_Capsule_Man.scene.nasset/SK Capsule Player.mesh.nasset/Animations/Jump_Start.anim.nasset"
+    },
     "722d646d-3af5-32bd-2ad4-067aa491dd9c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Rose 500.mtli.nasset"
@@ -2046,6 +2081,11 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "7cd2fdb3-8613-4135-af05-bbed8c997f78": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Capsule_Man/SK_Capsule_Man.scene.nasset/SK Capsule Player.mesh.nasset/Animations/Idle.anim.nasset"
+    },
     "7da5e6d6-6a30-a196-f30e-cfdaaefcc8a3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2093,6 +2133,11 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "7f05242f-1d62-31e2-a03f-5ab18109a380": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Capsule_Man/SK_Capsule_Man.scene.nasset/SK Capsule Player.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "7f2767d5-f2f6-c4f5-f2c6-8a7f8252bd65": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -2194,6 +2239,11 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "89baa1fd-133e-44da-a56c-a47d2967effd": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Capsule_Man/SK_Capsule_Man.scene.nasset/SK Capsule Player.mesh.nasset/Animations/Jump_Loop.anim.nasset"
+    },
     "89efbf1d-5e64-cacb-eb23-0892bf2e1b0d": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Lime 900.mtli.nasset"
@@ -2241,6 +2291,11 @@
     "8da40f6b-f326-50f1-2de9-1b83d1cd4d83": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Pink 700.mtli.nasset"
+    },
+    "8edf3903-0497-40a1-b7a3-ba45cf43adcb": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Capsule_Man/SK_Capsule_Man.scene.nasset/SK Capsule Player.mesh.nasset/Animations/Walk.anim.nasset"
     },
     "8f28799b-60f1-fcec-3d01-484e6a6c5d23": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2345,6 +2400,10 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "958cb854-e388-ee6f-5c5e-e9516412cda6": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Capsule_Man/Material Instances/Body.mtli.nasset"
     },
     "96059680-8978-22da-8061-2927bed28cb4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -2473,6 +2532,11 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Violet 800.mtli.nasset"
     },
+    "9b6c31ba-0ffe-7043-a8d5-0a46a80c1ce4": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Capsule_Man/SK_Capsule_Man.scene.nasset/SK Capsule Player.mesh.nasset/SK Capsule Player Black.meshskin.nasset"
+    },
     "9becca26-98ee-a097-7a41-deaa76df446d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2541,6 +2605,12 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "9f744dcf-9e80-4620-8a7b-fb1b406c93d4": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Player/Player_Capsule_Man.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
     "9f751b61-67db-c613-5310-159eef3b3f2b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Gray 500.mtli.nasset"
@@ -2596,6 +2666,14 @@
     "a130b5ef-ae6e-895e-6aa4-581f479b139f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Orange 700.mtli.nasset"
+    },
+    "a165af33-edea-c61b-ae50-e351df2392d2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Capsule_Man/SK_Capsule_Man.scene.nasset/SK Capsule Player.mesh.nasset/SK Capsule Player.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
     "a17815e2-f97f-9024-fbb8-a66b80222136": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -2888,6 +2966,11 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "b5b4f019-ff9a-43dd-b8d0-9c205747d3eb": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Capsule_Man/SK_Capsule_Man.scene.nasset/SK Capsule Player.mesh.nasset/Animations/Run.anim.nasset"
+    },
     "b67b2fe7-723d-8cb5-b7a7-78c71d1037ba": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3030,6 +3113,11 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SM_Treasure_Chest.scene.nasset/SM_Treasure_Chest.scene.nasset"
+    },
+    "c0003045-4f20-43c7-b2da-e4d31fd0196b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Stripe Paddle.scene.nasset"
     },
     "c129b110-8096-7499-6669-23a7e1bb0c82": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
@@ -3626,6 +3714,11 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "e5e63e26-698d-ba77-14b7-5c50cd28be04": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Capsule_Man/SK_Capsule_Man.scene.nasset/SK Capsule Player.mesh.nasset/SK Capsule Player Body.meshskin.nasset"
+    },
     "e615abd2-3e18-8df9-ffe8-cc167404e863": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4088,10 +4181,5 @@
     "ffe3bd7c-c633-9f98-4793-d112e5fbf5b6": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Indigo 500.mtli.nasset"
-    },
-    "c0003045-4f20-43c7-b2da-e4d31fd0196b": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/SC_Default_Props.scene.nasset/Stripe Paddle.scene.nasset"
     }
 }

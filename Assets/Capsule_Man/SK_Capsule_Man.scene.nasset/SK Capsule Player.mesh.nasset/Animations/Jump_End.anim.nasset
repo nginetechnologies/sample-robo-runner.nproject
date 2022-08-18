@@ -1,0 +1,17 @@
+{
+    "guid": "646ba057-4425-4c7d-9ce6-b3f5e89b4380",
+    "source": "../../../A_Jump_End.fbx",
+    "skeleton": "7f05242f-1d62-31e2-a03f-5ab18109a380",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "812745f0-2f9d-f1c0-08cf-a9f0dbb5d9c6",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "7f05242f-1d62-31e2-a03f-5ab18109a380"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "646ba057-4425-4c7d-9ce6-b3f5e89b4380"
+        }
+    ]
+}
