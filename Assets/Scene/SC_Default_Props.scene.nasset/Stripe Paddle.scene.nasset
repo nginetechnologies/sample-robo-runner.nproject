@@ -2,10 +2,6 @@
 	"guid": "c0003045-4f20-43c7-b2da-e4d31fd0196b",
 	"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
 	"instanceGuid": "c98c124f-4051-4147-b35f-b655e37bbee5",
-	"data_components": [{
-			"typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
-		}
-	],
 	"children": [{
 			"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
 			"instanceGuid": "3c799bb1-dc28-05d8-2ea4-1b21aad2191d",
