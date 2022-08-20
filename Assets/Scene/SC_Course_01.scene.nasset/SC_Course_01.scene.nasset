@@ -16953,392 +16953,627 @@
                 "scene": "5fe8ec6f-0fc8-8c93-9e2c-70da975ce585"
             }
         },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "23e144c8-16c7-641d-c37c-af939a8809b4",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -36.9906,
-                    13.9965,
-                    1.2996
-                ],
-                "flags": 16
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "23e144c8-16c7-641d-c37c-af939a8809b4"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Housing.001"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a5899144-3c97-1854-6df7-e81bc09629d9"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "c3ff35e8-1098-8906-5a51-0c63f6864b1a",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -44.9888,
-                    13.9965,
-                    -3.3991
-                ],
-                "scale": [
-                    0.5
-                ],
-                "flags": 16
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c3ff35e8-1098-8906-5a51-0c63f6864b1a"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Housing.002"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "69487c71-6da5-a631-169b-143423a7918d"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "54680bd0-30e8-220d-0818-d86788faad9a",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -49.9877,
-                    13.9965,
-                    -3.3991
-                ],
-                "scale": [
-                    0.5
-                ],
-                "flags": 16
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "54680bd0-30e8-220d-0818-d86788faad9a"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Housing.003"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "69487c71-6da5-a631-169b-143423a7918d"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "45617942-5d43-e02a-6993-12af2b52cf13",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -54.9864,
-                    13.9965,
-                    -3.3991
-                ],
-                "scale": [
-                    0.5
-                ],
-                "flags": 16
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "45617942-5d43-e02a-6993-12af2b52cf13"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Housing.004"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "69487c71-6da5-a631-169b-143423a7918d"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "6be62e2e-0fa1-491d-4fad-65208828eae1",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -36.9906,
-                    13.9965,
-                    1.2996
-                ],
-                "flags": 16
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6be62e2e-0fa1-491d-4fad-65208828eae1"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Plate.001"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "81794b77-18af-6a69-acfe-dab17d3b75b8"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "0e4848f4-8ff0-d3f8-f278-4d00136650bf",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -44.9888,
-                    13.9965,
-                    -2.9992
-                ],
-                "scale": [
-                    0.5
-                ],
-                "flags": 16
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "0e4848f4-8ff0-d3f8-f278-4d00136650bf"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Plate.002"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "efae5157-521a-9f4c-6a37-cdfdba974db0"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "5f847ad8-5113-ae3f-bdaa-7b45ab2f0a14",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -44.9405,
-                    13.9812,
-                    -2.5261
-                ],
-                "scale": [
-                    0.5
-                ],
-                "flags": 16
-            },
-            "data_components": [
-                {
-                    "typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
-                    "spline": {
-                        "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
-                        "instanceGuid": "3aa70485-aa35-234d-c8b1-0d0865c20bcf"
-                    },
-                    "velocity": -1.0,
-                    "mode": 2,
-                    "activationMode": 0
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "5f847ad8-5113-ae3f-bdaa-7b45ab2f0a14"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Plate.003"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "eb765b24-c085-2c6d-a019-0ff3804c4956"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "a3c37e93-6b6d-6b1b-9f29-2195684e8599",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -49.9877,
-                    13.9965,
-                    -2.8991
-                ],
-                "scale": [
-                    0.5
-                ],
-                "flags": 16
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a3c37e93-6b6d-6b1b-9f29-2195684e8599"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Plate.004"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "efae5157-521a-9f4c-6a37-cdfdba974db0"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "60264692-5ffc-21b9-cb4d-53e2af4fa868",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -54.9864,
-                    13.9965,
-                    -2.8991
-                ],
-                "scale": [
-                    0.5
-                ],
-                "flags": 16
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "60264692-5ffc-21b9-cb4d-53e2af4fa868"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Plate.005"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "efae5157-521a-9f4c-6a37-cdfdba974db0"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "d70c5c8f-53a4-2203-b3ce-9da9d1b1b215",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -23.9941,
-                    8.9975,
-                    0.8245
-                ],
-                "flags": 16
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d70c5c8f-53a4-2203-b3ce-9da9d1b1b215"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Round Table.001"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "f66abe05-9666-5679-d009-fddd08aa6094"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "e358d1e7-5bea-e0cf-d89a-ceebde8e4789",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -23.9941,
-                    18.9953,
-                    0.8245
-                ],
-                "flags": 16
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e358d1e7-5bea-e0cf-d89a-ceebde8e4789"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Round Table.002"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "f66abe05-9666-5679-d009-fddd08aa6094"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "1bae72e5-cd2b-c5f3-b91d-4d6a1f27f2a7",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -49.9582,
-                    13.9881,
-                    0.4935
-                ],
-                "scale": [
-                    0.5,
-                    0.5,
-                    1.7
-                ],
-                "flags": 16
-            },
-            "data_components": [
-                {
-                    "typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
-                    "spline": {
-                        "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
-                        "instanceGuid": "a00c248f-ad50-5a71-de29-3bd896b4a017"
-                    },
-                    "velocity": -1.0,
-                    "mode": 2,
-                    "activationMode": 0
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1bae72e5-cd2b-c5f3-b91d-4d6a1f27f2a7"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Round Table.004"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "62920267-7fcd-55bf-d09f-d367f1ced8e5"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "b6e3e6f5-49ef-d9ae-d7ef-9140032cacd2",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -54.9592,
-                    13.9895,
-                    -3.4549
-                ],
-                "scale": [
-                    0.5,
-                    0.5,
-                    1.7
-                ],
-                "flags": 16
-            },
-            "data_components": [
-                {
-                    "typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
-                    "spline": {
-                        "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
-                        "instanceGuid": "296c207d-06d5-41e4-d1f9-7f47c1319b54"
-                    },
-                    "velocity": -1.0,
-                    "mode": 2,
-                    "activationMode": 0
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b6e3e6f5-49ef-d9ae-d7ef-9140032cacd2"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Round Table.005"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "1709aada-0cb2-075d-9471-dc6c36de6268"
-            }
-        },
+		{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "d70c5c8f-53a4-2203-b3ce-9da9d1b1b215",
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							-23.9941,
+							8.9975,
+							0.8245
+						],
+						"flags": 16
+					},
+					"data_components": [
+						{
+							"typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+							"templateInstanceGuid": "d70c5c8f-53a4-2203-b3ce-9da9d1b1b215"
+						},
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Round Table.001"
+						}
+					],
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "f66abe05-9666-5679-d009-fddd08aa6094"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "e358d1e7-5bea-e0cf-d89a-ceebde8e4789",
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							-23.9941,
+							18.9953,
+							0.8245
+						],
+						"flags": 16
+					},
+					"data_components": [
+						{
+							"typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+							"templateInstanceGuid": "e358d1e7-5bea-e0cf-d89a-ceebde8e4789"
+						},
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Round Table.002"
+						}
+					],
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "f66abe05-9666-5679-d009-fddd08aa6094"
+					}
+				},
+		{
+			"typeGuid": "DE8F8DA2-D37F-41DA-BC6E-580435FE605F",
+			 "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+				"position": [
+					-45,
+					14,
+					-3.4
+				],
+				"scale": [
+					0.5
+				]
+			},
+			"data_components": [
+				{
+					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+					"name": "Rising Platform"
+				}
+			],
+			"children": [
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "c3ff35e8-1098-8906-5a51-0c63f6864b1a",
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"flags": 16
+					},
+					"data_components": [
+						{
+							"typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+							"templateInstanceGuid": "c3ff35e8-1098-8906-5a51-0c63f6864b1a"
+						},
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Base"
+						}
+					],
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "69487c71-6da5-a631-169b-143423a7918d"
+					}
+				},
+				{
+					"typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
+					"instanceGuid": "3aa70485-aa35-234d-c8b1-0d0865c20bcf",
+					"304ec37e-bce4-48b6-9c2e-6108738270ff": {
+						"spline": [
+							{
+								"position": [
+									0.0
+								],
+								"backward": [
+									0.0
+								],
+								"forward": [
+									-0.0041,
+									0.0013,
+									-0.5874
+								],
+								"up": [
+									0.0,
+									0.0,
+									1.0
+								],
+								"is_bezier": true
+							},
+							{
+								"position": [
+									-0.0109,
+									0.0034,
+									-1.7626
+								],
+								"backward": [
+									-0.0085,
+									0.0026,
+									-1.1749
+								],
+								"forward": [
+									-0.012,
+									0.0038,
+									-2.0694
+								],
+								"up": [
+									0.0,
+									0.0,
+									1.0002
+								],
+								"is_bezier": true
+							},
+							{
+								"position": [
+									-0.0109,
+									0.0034,
+									-2.6823
+								],
+								"backward": [
+									-0.0115,
+									0.0035,
+									-2.3759
+								],
+								"forward": [
+									-0.0109,
+									0.0034,
+									-2.6823
+								],
+								"up": [
+									0.0,
+									0.0,
+									1.0002
+								],
+								"is_bezier": true
+							}
+						],
+						"bounds": {
+							"minimum": [
+								-0.001
+							],
+							"maximum": [
+								0.001
+							]
+						}
+					},
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Spline"
+						}
+					]
+				},
+				{
+					"typeGuid": "DE8F8DA2-D37F-41DA-BC6E-580435FE605F",
+					"instanceGuid": "e17f7915-2364-449e-bd49-a9d007dd412b",
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+					   "position": [
+						   0,
+						   0,
+						   0.4
+					   ]
+				   },
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Platform"
+						},
+						{
+							"typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
+							"spline": {
+								"typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
+								"instanceGuid": "3aa70485-aa35-234d-c8b1-0d0865c20bcf"
+							},
+							"velocity": -1.0,
+							"mode": 2,
+							"activationMode": 0
+						}
+					],
+					"children": [
+						{
+							"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+							"instanceGuid": "0e4848f4-8ff0-d3f8-f278-4d00136650bf",
+							"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+								"flags": 16
+							},
+							"data_components": [
+								{
+									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+									"name": "Pipe"
+								}
+							],
+							"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+								"scene": "efae5157-521a-9f4c-6a37-cdfdba974db0"
+							}
+						},
+						{
+							"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+							"instanceGuid": "5f847ad8-5113-ae3f-bdaa-7b45ab2f0a14",
+							"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+								"flags": 16
+							},
+							"data_components": [
+								{
+									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+									"name": "Plate"
+								}
+							],
+							"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+								"scene": "eb765b24-c085-2c6d-a019-0ff3804c4956"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"typeGuid": "DE8F8DA2-D37F-41DA-BC6E-580435FE605F",
+			 "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+				"position": [
+					-50,
+					14,
+					-3.4
+				],
+				"scale": [
+					0.5
+				]
+			},
+			"data_components": [
+				{
+					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+					"name": "Rising Platform"
+				}
+			],
+			"children": [
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"flags": 16
+					},
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Base"
+						}
+					],
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "69487c71-6da5-a631-169b-143423a7918d"
+					}
+				},
+				{
+					"typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
+					"instanceGuid": "070aa524-ebed-4d4e-86b3-3f72b2e1e850",
+					"304ec37e-bce4-48b6-9c2e-6108738270ff": {
+						"spline": [
+							{
+								"position": [
+									0.0
+								],
+								"backward": [
+									0.0
+								],
+								"forward": [
+									-0.0041,
+									0.0013,
+									-0.5874
+								],
+								"up": [
+									0.0,
+									0.0,
+									1.0
+								],
+								"is_bezier": true
+							},
+							{
+								"position": [
+									-0.0109,
+									0.0034,
+									-1.7626
+								],
+								"backward": [
+									-0.0085,
+									0.0026,
+									-1.1749
+								],
+								"forward": [
+									-0.012,
+									0.0038,
+									-2.0694
+								],
+								"up": [
+									0.0,
+									0.0,
+									1.0002
+								],
+								"is_bezier": true
+							},
+							{
+								"position": [
+									-0.0109,
+									0.0034,
+									-2.6823
+								],
+								"backward": [
+									-0.0115,
+									0.0035,
+									-2.3759
+								],
+								"forward": [
+									-0.0109,
+									0.0034,
+									-2.6823
+								],
+								"up": [
+									0.0,
+									0.0,
+									1.0002
+								],
+								"is_bezier": true
+							}
+						],
+						"bounds": {
+							"minimum": [
+								-0.001
+							],
+							"maximum": [
+								0.001
+							]
+						}
+					},
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Spline"
+						}
+					]
+				},
+				{
+					"typeGuid": "DE8F8DA2-D37F-41DA-BC6E-580435FE605F",
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+					   "position": [
+						   0,
+						   0,
+						   -2
+					   ]
+				   },
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Platform"
+						},
+						{
+							"typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
+							"spline": {
+								"typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
+								"instanceGuid": "070aa524-ebed-4d4e-86b3-3f72b2e1e850"
+							},
+							"velocity": -1.0,
+							"mode": 2,
+							"activationMode": 0
+						}
+					],
+					"children": [
+						{
+							"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+							"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+								"flags": 16
+							},
+							"data_components": [
+								{
+									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+									"name": "Pillar"
+								}
+							],
+							"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+								"scene": "efae5157-521a-9f4c-6a37-cdfdba974db0"
+							}
+						},
+						{
+							"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+							"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+								"position": [
+									0,
+									0,
+									8
+								],
+								"scale": [
+									1,
+									1,
+									1.7
+								],
+								"flags": 16
+							},
+							"data_components": [
+								{
+									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+									"name": "Plate"
+								}
+							],
+							"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+								"scene": "62920267-7fcd-55bf-d09f-d367f1ced8e5"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"typeGuid": "DE8F8DA2-D37F-41DA-BC6E-580435FE605F",
+			 "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+				"position": [
+					-55,
+					14,
+					-3.4
+				],
+				"scale": [
+					0.5
+				]
+			},
+			"data_components": [
+				{
+					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+					"name": "Rising Platform"
+				}
+			],
+			"children": [
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"flags": 16
+					},
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Base"
+						}
+					],
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "69487c71-6da5-a631-169b-143423a7918d"
+					}
+				},
+				{
+					"typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
+					"instanceGuid": "532c7d10-315e-42a7-b7fc-c12ea313e1b3",
+					"304ec37e-bce4-48b6-9c2e-6108738270ff": {
+						"spline": [
+							{
+								"position": [
+									0.0
+								],
+								"backward": [
+									0.0
+								],
+								"forward": [
+									-0.0041,
+									0.0013,
+									-0.5874
+								],
+								"up": [
+									0.0,
+									0.0,
+									1.0
+								],
+								"is_bezier": true
+							},
+							{
+								"position": [
+									-0.0109,
+									0.0034,
+									-1.7626
+								],
+								"backward": [
+									-0.0085,
+									0.0026,
+									-1.1749
+								],
+								"forward": [
+									-0.012,
+									0.0038,
+									-2.0694
+								],
+								"up": [
+									0.0,
+									0.0,
+									1.0002
+								],
+								"is_bezier": true
+							},
+							{
+								"position": [
+									-0.0109,
+									0.0034,
+									-2.6823
+								],
+								"backward": [
+									-0.0115,
+									0.0035,
+									-2.3759
+								],
+								"forward": [
+									-0.0109,
+									0.0034,
+									-2.6823
+								],
+								"up": [
+									0.0,
+									0.0,
+									1.0002
+								],
+								"is_bezier": true
+							}
+						],
+						"bounds": {
+							"minimum": [
+								-0.001
+							],
+							"maximum": [
+								0.001
+							]
+						}
+					},
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Spline"
+						}
+					]
+				},
+				{
+					"typeGuid": "DE8F8DA2-D37F-41DA-BC6E-580435FE605F",
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+					   "position": [
+						   0,
+						   0,
+						   0.5
+					   ]
+				   },
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Platform"
+						},
+						{
+							"typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
+							"spline": {
+								"typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
+								"instanceGuid": "532c7d10-315e-42a7-b7fc-c12ea313e1b3"
+							},
+							"velocity": -1.0,
+							"mode": 2,
+							"activationMode": 0
+						}
+					],
+					"children": [
+						{
+							"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+							"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+								"flags": 16
+							},
+							"data_components": [
+								{
+									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+									"name": "Pillar"
+								}
+							],
+							"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+								"scene": "efae5157-521a-9f4c-6a37-cdfdba974db0"
+							}
+						},
+						{
+							"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+							"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+								"position": [
+									0,
+									0,
+									8
+								],
+								"scale": [
+									1,
+									1,
+									1.7
+								],
+								"flags": 16
+							},
+							"data_components": [
+								{
+									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+									"name": "Plate"
+								}
+							],
+							"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+								"scene": "1709aada-0cb2-075d-9471-dc6c36de6268"
+							}
+						}
+					]
+				}
+			]
+		},
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "feb954ef-46ca-dfe2-413e-8a5150a739b6",
@@ -19468,248 +19703,6 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Spline3"
-                }
-            ]
-        },
-        {
-            "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
-            "instanceGuid": "3aa70485-aa35-234d-c8b1-0d0865c20bcf",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -44.9556,
-                    13.9861,
-                    -3.1637
-                ]
-            },
-            "304ec37e-bce4-48b6-9c2e-6108738270ff": {
-                "spline": [
-                    {
-                        "position": [
-                            0.0
-                        ],
-                        "backward": [
-                            0.0
-                        ],
-                        "forward": [
-                            -0.0041,
-                            0.0013,
-                            -0.5874
-                        ],
-                        "up": [
-                            0.0,
-                            0.0,
-                            1.0
-                        ],
-                        "is_bezier": true
-                    },
-                    {
-                        "position": [
-                            -0.0109,
-                            0.0034,
-                            -1.7626
-                        ],
-                        "backward": [
-                            -0.0085,
-                            0.0026,
-                            -1.1749
-                        ],
-                        "forward": [
-                            -0.012,
-                            0.0038,
-                            -2.0694
-                        ],
-                        "up": [
-                            0.0,
-                            0.0,
-                            1.0002
-                        ],
-                        "is_bezier": true
-                    },
-                    {
-                        "position": [
-                            -0.0109,
-                            0.0034,
-                            -2.6823
-                        ],
-                        "backward": [
-                            -0.0115,
-                            0.0035,
-                            -2.3759
-                        ],
-                        "forward": [
-                            -0.0109,
-                            0.0034,
-                            -2.6823
-                        ],
-                        "up": [
-                            0.0,
-                            0.0,
-                            1.0002
-                        ],
-                        "is_bezier": true
-                    }
-                ],
-                "bounds": {
-                    "minimum": [
-                        -0.001
-                    ],
-                    "maximum": [
-                        0.001
-                    ]
-                }
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "3aa70485-aa35-234d-c8b1-0d0865c20bcf"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spline Platform 1"
-                }
-            ]
-        },
-        {
-            "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
-            "instanceGuid": "a00c248f-ad50-5a71-de29-3bd896b4a017",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -49.9631,
-                    13.9896,
-                    1.0017
-                ]
-            },
-            "304ec37e-bce4-48b6-9c2e-6108738270ff": {
-                "spline": [
-                    {
-                        "position": [
-                            0.0
-                        ],
-                        "backward": [
-                            0.0
-                        ],
-                        "forward": [
-                            -0.0051,
-                            0.0013,
-                            -0.3332
-                        ],
-                        "up": [
-                            0.0,
-                            0.0,
-                            1.0
-                        ],
-                        "is_bezier": true
-                    },
-                    {
-                        "position": [
-                            -0.012,
-                            0.0034,
-                            -0.9998
-                        ],
-                        "backward": [
-                            -0.0102,
-                            0.0027,
-                            -0.6664
-                        ],
-                        "forward": [
-                            -0.0142,
-                            0.004,
-                            -1.3681
-                        ],
-                        "up": [
-                            0.0,
-                            0.0,
-                            1.0002
-                        ],
-                        "is_bezier": true
-                    },
-                    {
-                        "position": [
-                            -0.012,
-                            0.0034,
-                            -2.1052
-                        ],
-                        "backward": [
-                            -0.012,
-                            0.0034,
-                            -1.7367
-                        ],
-                        "forward": [
-                            -0.012,
-                            0.0034,
-                            -2.5687
-                        ],
-                        "up": [
-                            0.0,
-                            0.0,
-                            1.0002
-                        ],
-                        "is_bezier": true
-                    },
-                    {
-                        "position": [
-                            -0.012,
-                            0.0034,
-                            -3.4958
-                        ],
-                        "backward": [
-                            -0.012,
-                            0.0034,
-                            -3.0322
-                        ],
-                        "forward": [
-                            -0.012,
-                            0.0034,
-                            -3.605
-                        ],
-                        "up": [
-                            0.0,
-                            0.0,
-                            1.0002
-                        ],
-                        "is_bezier": true
-                    },
-                    {
-                        "position": [
-                            -0.012,
-                            0.0034,
-                            -3.8236
-                        ],
-                        "backward": [
-                            -0.012,
-                            0.0034,
-                            -3.7144
-                        ],
-                        "forward": [
-                            -0.012,
-                            0.0034,
-                            -3.8236
-                        ],
-                        "up": [
-                            0.0,
-                            0.0,
-                            1.0002
-                        ],
-                        "is_bezier": true
-                    }
-                ],
-                "bounds": {
-                    "minimum": [
-                        -0.001
-                    ],
-                    "maximum": [
-                        0.001
-                    ]
-                }
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a00c248f-ad50-5a71-de29-3bd896b4a017"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spline Platform 2"
                 }
             ]
         },
