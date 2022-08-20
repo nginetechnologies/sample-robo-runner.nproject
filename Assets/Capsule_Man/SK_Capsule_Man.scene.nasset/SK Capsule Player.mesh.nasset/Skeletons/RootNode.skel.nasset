@@ -10,31 +10,31 @@
     "joints": {
         "01281b26-1f11-587e-00c3-e3a89b911bd6": {
             "name": "MiddleFinger2_R",
-            "index": 37
+            "index": 39
         },
         "0327bf5c-142f-df6a-cf3c-3c9735c1461d": {
             "name": "Neck",
-            "index": 8
+            "index": 10
         },
         "0512ffc7-0b1f-637c-1664-9da2d4eb825f": {
             "name": "PinkyFinger2_L",
-            "index": 15
+            "index": 17
         },
         "10cb82a2-c18c-cd62-f049-d18643a3e74f": {
             "name": "Shoulder_R",
-            "index": 25
+            "index": 27
         },
         "15edcfb1-3f3a-5c46-5033-a6f7010b9328": {
             "name": "SK_Capsule_Player",
-            "index": 1
+            "index": 3
         },
         "2a6ddb58-12a3-28e1-647a-d87b8d5d5132": {
             "name": "PinkyFinger2_R",
-            "index": 30
+            "index": 32
         },
         "2bb595c1-2b45-7506-825e-1364005406f8": {
             "name": "Thumb1_R",
-            "index": 33
+            "index": 35
         },
         "3cb8f093-22ce-f934-3fe5-8f49d09e55e8": {
             "name": "RootNode",
@@ -42,159 +42,163 @@
         },
         "443d192e-2f7a-57ba-6ce1-96d56ee190ac": {
             "name": "MiddleFinger3_L",
-            "index": 23
+            "index": 25
         },
         "458a7e78-76b6-bfca-4cfa-5362cf37c305": {
             "name": "Thumb3_L",
-            "index": 20
+            "index": 22
         },
         "45bfdaab-b703-406b-0bc7-9f9fe7479d3f": {
             "name": "PinkyFinger4_L",
-            "index": 17
+            "index": 19
         },
         "5bf3ea61-7934-f54e-dfde-d82715032ee4": {
             "name": "Hips",
-            "index": 5
+            "index": 7
         },
         "5eab074a-c520-029d-fc79-6b618d78c078": {
             "name": "PoleTarget_L",
-            "index": 44
+            "index": 46
         },
         "6ea828ef-e856-5191-aea3-c7cfa50b99f4": {
             "name": "MiddleFinger1_R",
-            "index": 36
+            "index": 38
         },
         "70e6c176-b318-fd59-079d-05144c8f4957": {
             "name": "MiddleFinger3_R",
-            "index": 38
+            "index": 40
         },
         "794ea4ec-5f75-4d90-78f5-f666270dbecb": {
             "name": "Head",
-            "index": 9
+            "index": 11
         },
         "8a6bd966-db9f-dd4c-a3fb-f5c4146d3334": {
             "name": "PinkyFinger3_L",
-            "index": 16
+            "index": 18
         },
         "91c377ba-f407-1cef-6236-84c01e176907": {
             "name": "MiddleFinger1_L",
-            "index": 21
+            "index": 23
         },
         "91d12084-14b8-c90d-6452-e03dc3f90e28": {
             "name": "UpperArm_L",
-            "index": 11
+            "index": 13
         },
         "929aafa4-7934-5633-f4b6-743720b9c762": {
             "name": "PinkyFinger1_L",
-            "index": 14
+            "index": 16
         },
         "92a988b3-8767-0a01-9f3a-89d957ecf835": {
             "name": "Thumb1_L",
-            "index": 18
+            "index": 20
         },
         "94176127-7a9c-a460-3369-6f25c35e046a": {
             "name": "Thumb2_L",
-            "index": 19
+            "index": 21
+        },
+        "991d07d6-d2c3-4b76-b987-49b9939de8c9": {
+            "name": "Alien",
+            "index": 1
         },
         "9929d18f-d6f1-1ce0-c188-461811dce878": {
             "name": "MiddleFinger2_L",
-            "index": 22
+            "index": 24
         },
         "9c964e4f-1549-331b-91d9-753994bcdfec": {
             "name": "Thumb2_R",
-            "index": 34
+            "index": 36
         },
         "9d8410c7-810c-1dd8-716a-c9d7c2de4cc5": {
             "name": "UpperArm_R",
-            "index": 26
+            "index": 28
         },
         "9ddc831f-3ce2-1391-ab90-42dec9c9dea3": {
             "name": "LowerArm_R",
-            "index": 27
+            "index": 29
         },
         "9ec75ff5-585f-a335-f9cc-e51de28cbf78": {
             "name": "Palm_L",
-            "index": 13
+            "index": 15
         },
         "a014fa96-e422-84af-edf8-867080d361dd": {
             "name": "MiddleFinger4_L",
-            "index": 24
+            "index": 26
         },
         "a3873549-a443-d9cb-71de-984b6c34567c": {
             "name": "Root",
-            "index": 2
+            "index": 4
         },
         "a5f04ef4-8ade-04d3-90f2-ea56720a2685": {
             "name": "Foot_R",
-            "index": 45
+            "index": 47
         },
         "ac7a5f1d-0e7f-fed7-638f-13b50ec97d31": {
             "name": "Abdomen",
-            "index": 6
+            "index": 8
         },
         "b2f021da-543b-d053-54fa-ba3f70bc2eda": {
             "name": "LowerArm_L",
-            "index": 12
+            "index": 14
         },
         "b6405811-fdf9-5a13-8716-68013e383051": {
             "name": "LowerLeg_R",
-            "index": 43
+            "index": 45
         },
         "bb18712b-b271-2e30-df01-945a0416eb7f": {
             "name": "MiddleFinger4_R",
-            "index": 39
+            "index": 41
         },
         "c1e402a6-90f5-344e-2b04-300bbe27c032": {
             "name": "PinkyFinger4_R",
-            "index": 32
+            "index": 34
         },
         "c855bb37-1396-1c06-1a78-43652c9f2e8f": {
             "name": "Torso",
-            "index": 7
+            "index": 9
         },
         "cde954b5-735f-1df8-b783-7d0a2cd5968c": {
             "name": "Thumb3_R",
-            "index": 35
+            "index": 37
         },
         "e182dab0-f08a-0647-22a9-14f38549b5cf": {
             "name": "Shoulder_L",
-            "index": 10
+            "index": 12
         },
         "e526a36b-1697-3f2e-0d0f-758e22ba9f16": {
             "name": "Palm_R",
-            "index": 28
+            "index": 30
         },
         "e9b2cdf0-98fe-304b-2417-051bef41622f": {
             "name": "PinkyFinger3_R",
-            "index": 31
+            "index": 33
         },
         "eed157cb-4e7e-3ea9-6c43-3f26d8fe13c0": {
             "name": "Body",
-            "index": 4
+            "index": 6
         },
         "f0be38fe-8d01-b380-e465-59894c458639": {
             "name": "UpperLeg_L",
-            "index": 40
+            "index": 42
         },
         "f26e33ed-9b6e-9e31-5fed-61fd4e230ebc": {
             "name": "UpperLeg_R",
-            "index": 42
+            "index": 44
         },
         "f54647ff-c9cf-280a-ca50-f4b389c7ca33": {
             "name": "PinkyFinger1_R",
-            "index": 29
+            "index": 31
         },
         "f62470e9-89cf-48a9-4724-ca04eadacf28": {
             "name": "LowerLeg_L",
-            "index": 41
+            "index": 43
         },
         "fa35ca74-8b22-6d74-b7ff-f1acad61f066": {
             "name": "Foot_L",
-            "index": 3
+            "index": 5
         },
         "ff5b2321-ce64-7a83-0ee4-a0a09da019df": {
             "name": "PoleTarget_R",
-            "index": 46
+            "index": 48
         }
     }
 }

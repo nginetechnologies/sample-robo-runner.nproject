@@ -83,6 +83,14 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "054be63e-1bdc-a833-fee1-724fe09bda01": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Round Table.mesh.nasset/Round Table.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "055f6f29-1cc7-29e9-cfb7-bb30efd267fe": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -114,6 +122,14 @@
     "06032e44-ce54-7103-7f37-389ee1774d0b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Default_SkyboxBRDF.tex.nasset"
+    },
+    "0641edce-0b5f-394c-c332-61c44abf51be": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Seesaw Plank.mesh.nasset/Seesaw Plank.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
     "06ab0d65-987c-73f0-e076-203a4d7c7ba7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -301,6 +317,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "120b05d2-3b6f-bdcb-64ef-d46c8af71275": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Seesaw Base.mesh.nasset/Seesaw Base Purple 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "12404d1f-082a-f116-4a04-2edd7e0e342c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -430,6 +454,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Green 600.mesh.nasset/Green 600 Green 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "19c6f649-3998-cb8a-cea7-d00cf5dcf538": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Spiral.mesh.nasset/Spiral Yellow 600.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -576,6 +608,14 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "20ca203c-b325-5b95-98b1-427ab124c92d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Football.mesh.nasset/Football Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "20f6d767-0a61-da84-05cd-552c877fc84d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -718,6 +758,14 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "2751ef66-85c4-3853-8d9d-74000761d86b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Seesaw Plank.mesh.nasset/Seesaw Plank Orange 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "27cd9c6f-c90a-d60c-6d50-542eede3a816": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -730,10 +778,26 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Gray 700.mtli.nasset"
     },
+    "27eaba66-67c9-f91f-b574-522a8ecb97ca": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Pressure Plate.mesh.nasset/Pressure Plate.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "28944901-a306-328d-daac-8813fb629572": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Yellow 800.mesh.nasset/Yellow 800.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2901caaa-7ca6-54e4-2b57-bd11d179e9bd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Block Tile.mesh.nasset/Block Tile.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -895,6 +959,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "31ec4e81-ae99-4bea-e66f-1e1de5dc6e42": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Block Tile.mesh.nasset/Block Tile Grid.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "32814630-45ea-ac18-f473-4eb35fabfe4a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -930,6 +1002,14 @@
     "35923d9b-d9a3-72dd-97d3-fcd6c9290307": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Pink 900.mtli.nasset"
+    },
+    "35e7afd6-9050-41bd-fd3d-97bf85eef491": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Capsule_Man/SK_Capsule_Man.scene.nasset/SK Capsule Player.mesh.nasset/SK Capsule Player Eyes.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
     "35f3b1e0-2157-bc81-099c-8d147c877204": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1108,6 +1188,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "3f2368a7-63cc-94ef-d55b-f70ac44d8a26": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Flag.mesh.nasset/Flag Lime 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "3f39a667-e2e4-ca14-d5b8-c9685b8af265": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1116,10 +1204,26 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "3f62c252-5c00-498b-1946-53469dca7286": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Seesaw Plank.mesh.nasset/Seesaw Plank Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "3f6e52d4-b050-345f-6d94-8ccd8540e7d1": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Black.meshskin.nasset"
+    },
+    "407bf087-c025-0f57-9fdb-95fa26444a06": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Saw.mesh.nasset/Saw Purple 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
     "41b8e153-5cc8-1188-83c0-dc729d5c5442": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1135,6 +1239,14 @@
         "path": "Assets/Scene/SC_Course_01.scene.nasset/Obstacle Pole SM.mesh.nasset/Obstacle Pole SM Green 500.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "41f871bf-5658-add0-aef8-8075f0dd5bc2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Icon.mesh.nasset/Icon.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "42ca0f09-32b1-baf0-60fc-b504235b69b2": {
@@ -1329,6 +1441,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "4eb2cab7-744b-adc2-b132-d0bd24a88be3": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Capsule_Man/Material Instances/pasted  M Kenney Animal Attachments.mtli.nasset"
+    },
     "4ebb3032-052e-43f4-39ed-1a4f72fe6197": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Default_SkyboxDiffuse.tex.nasset"
@@ -1349,6 +1465,14 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "4f51df2b-fae6-b5c3-5478-bae46f3693c3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Round Table.mesh.nasset/Round Table Sky 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "5020929a-8497-c2cb-2a75-8a3adf13c02d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1363,6 +1487,14 @@
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Lime 900.mesh.nasset/Lime 900.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "502a3304-6309-c648-521d-82389951c405": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Obstacle Hammer.mesh.nasset/Obstacle Hammer Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
     "5085fd6d-a14d-5c7a-bf77-13389161e5cb": {
@@ -1439,6 +1571,14 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "52fa3a51-4070-768d-6027-73a09ddd7abc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Platform Ramp.mesh.nasset/Platform Ramp Platform.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "532d3e10-d573-ef37-e1b3-bf772adfdfe0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1463,6 +1603,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Scene/SC_Default_Props.scene.nasset/Coin.mesh.nasset/Coin Lime 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "552a4a3d-cdd3-1d0d-a20e-14cfa4681443": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Scale Legs.mesh.nasset/Scale Legs Green 500.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -1540,9 +1688,25 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "58aa62ac-0dbb-ed18-2b4a-1fea2b579c09": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Spiral.mesh.nasset/Spiral.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "596919b1-be59-4c3e-3c7f-9941fef6ea13": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Thumbnails/SK Robot Export White.mesh.nasset.tex.nasset"
+    },
+    "596be617-c8d3-d0b7-1edc-921fefbe654e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Obstacle Pole Center.mesh.nasset/Obstacle Pole Center Yellow 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
     "59d3f3db-d083-f122-6d8e-2555890ffb33": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1652,6 +1816,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "5dd10b52-ab9f-70e0-2828-f37a74ca91dd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Round Table.mesh.nasset/Round Table Sky 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "5df5f53e-5b27-b560-26f6-e8895a68bb4d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Robot/Material Instances/Thumbnails/Black.mtli.nasset.tex.nasset"
@@ -1693,6 +1865,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Course_01.scene.nasset/Pillar SM.mesh.nasset/Pillar SM.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "600c42b0-8249-9709-66ac-27c631fb15cf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Flag.mesh.nasset/Flag.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1746,6 +1926,14 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SM_Thruster.scene.nasset/SM_Thruster.scene.nasset"
     },
+    "61812fd2-4f3d-2162-a574-c6ac6c00e93f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Round Table.mesh.nasset/Round Table Sky 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "62423802-ac09-363a-c2f4-5204fc552abd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1782,6 +1970,14 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "62a972ac-7d67-31e8-5086-c66b22aff067": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Obstacle Pole Center.mesh.nasset/Obstacle Pole Center.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "62bf795b-5dda-f65b-d9f2-6255684f635d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1794,6 +1990,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Scene/SC_Course_01.scene.nasset/Block Tile.mesh.nasset/Block Tile Grid.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6349ec77-3752-0cc8-8ece-923a7f8cc1b1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Spiral.mesh.nasset/Spiral Teal 500.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -1877,6 +2081,14 @@
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Yellow 600.mesh.nasset/Yellow 600.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "65d4f51e-02d8-63e3-3c45-79b63b354c99": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Flag.mesh.nasset/Flag Gray 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
     "65e25bd1-eb30-bdc1-e00d-47539f87ed93": {
@@ -2096,6 +2308,14 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "7055b4c5-1254-d0c9-66bf-6cf2d8289dd8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Scale Connector.mesh.nasset/Scale Connector Orange 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "70d17080-6027-fbbb-4741-cabb0d2e9623": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2169,6 +2389,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "73bd83da-e87f-30e0-52b4-71a49eff46eb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Scale Legs.mesh.nasset/Scale Legs Purple 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "73c307f0-c47b-a495-2ec7-38a3486443bd": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Blue 600.mtli.nasset"
@@ -2179,6 +2407,14 @@
         "path": "Assets/Scene/SC_Default_Props.scene.nasset/Flag.mesh.nasset/Flag Lime 500.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "73f68669-0e19-3a21-e3e0-2b0bbc2d327a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Fan Blade.mesh.nasset/Fan Blade.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "74526cd2-f81f-93ad-3131-8f0ce90c6b2a": {
@@ -2286,6 +2522,14 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Sky Procedural.mtli.nasset"
     },
+    "7937d6fe-106d-6976-cb72-994c2afa85f3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Seesaw Base.mesh.nasset/Seesaw Base Orange 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "7a10a735-7618-3241-8832-ad608619e3d4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2298,6 +2542,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Violet 600.mesh.nasset/Violet 600 Violet 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7ab37789-6f42-4438-363e-83af665b87af": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Pillar SM.mesh.nasset/Pillar SM Purple 900.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -2420,6 +2672,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "7fffb845-c17f-b9f9-06cb-dad37cc82196": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Scale Legs.mesh.nasset/Scale Legs Orange 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "80d68cec-e0ed-5be8-cf5e-eeeb05f11853": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/Textures/T_Striped_Lines_D.tex.nasset"
@@ -2470,6 +2730,14 @@
         "path": "Assets/Scene/SC_Default_Props.scene.nasset/Cannon.mesh.nasset/Cannon Green 500.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "83c506aa-baf3-9d1e-a6a9-6c7ec74e8427": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Platform Ramp.mesh.nasset/Platform Ramp.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "872381e1-388a-caa1-2656-a19c73527068": {
@@ -2700,6 +2968,14 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Blue 700.mtli.nasset"
     },
+    "964e8976-5ffe-b302-d787-ae49db9b0515": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Pressure Housing.mesh.nasset/Pressure Housing.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "966c1a36-ecda-b098-c030-aa39a420602b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Rose 800.mtli.nasset"
@@ -2846,6 +3122,14 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "9c4d50b6-7d59-9645-bc27-992d8d9e808b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Football.mesh.nasset/Football Lime 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "9c6d1ade-ea17-5ce3-735c-1c109b26a4bc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2888,6 +3172,14 @@
         "path": "Assets/Scene/SC_Default_Props.scene.nasset/Seesaw Plank.mesh.nasset/Seesaw Plank Green 500.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9e25916c-9ffc-4c59-5174-d03186e94fb8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Scale Legs.mesh.nasset/Scale Legs.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "9f2402a7-fe8f-8eb6-0898-d05f73ccbd0b": {
@@ -2993,10 +3285,34 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "a213fc7d-8139-ccdc-6ecd-8eef280de374": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Platform Ramp.mesh.nasset/Platform Ramp Gray 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a22914fd-10df-eb35-e88d-ee3852f6fb33": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Obstacle Hammer.mesh.nasset/Obstacle Hammer.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "a2b0bb9a-56d9-2bef-a346-89351f027840": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Scene/SC_Course_01.scene.nasset/Round Table.002.mesh.nasset/Round Table.002 Violet 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a2c7a8aa-14d5-0758-0ed9-df66f2ffc832": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Pressure Plate.mesh.nasset/Pressure Plate Yellow 500.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -3150,6 +3466,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "aabeea4e-9720-8fbc-f35c-2debaab636fa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Diamond.mesh.nasset/Diamond.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "ab212b2f-3bb5-c21d-f4cd-7bb0d5b7db9d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3204,6 +3528,14 @@
         "path": "Assets/Scene/SC_Course_01.scene.nasset/Platform Ramp.mesh.nasset/Platform Ramp.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ace4971d-91fa-6bd0-29bb-8113afbacd5b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Seesaw Plank.mesh.nasset/Seesaw Plank Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
     "ad927871-53c3-2597-57ee-178111d766c6": {
@@ -3283,6 +3615,11 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "b398e502-4391-ebcc-709c-dd5b96e68778": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/SC_Course_02.scene.nasset"
+    },
     "b3ac7e13-3ee0-bc79-785e-62cc435aeed6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3315,6 +3652,14 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "b47550dd-07c6-9f75-2ded-4ef0d0c97299": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Saw.mesh.nasset/Saw Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "b5b4f019-ff9a-43dd-b8d0-9c205747d3eb": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -3326,6 +3671,14 @@
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Sky 500.mesh.nasset/Sky 500 Sky 500.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b6b269b1-c93b-892c-0e80-e0ff6186a4a4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Saw.mesh.nasset/Saw.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "b7206dbf-5b66-845c-d5f9-e5e92f133551": {
@@ -3340,12 +3693,25 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "b7a27f3f-2624-fb4a-fc55-384c2b91230c": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Capsule_Man/SK_Capsule_Man.scene.nasset/SK Capsule Player.mesh.nasset/SK Capsule Player Eyes.meshskin.nasset"
+    },
     "b7f1920e-39df-990c-aad4-f82d75d83fe1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Red 800.mesh.nasset/Red 800 Red 800.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b97212b0-1f18-3346-7928-8b70a47a1948": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Barrier 01.mesh.nasset/Barrier 01.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "b989619e-bf7a-89c7-91f2-e2490455e201": {
@@ -3428,6 +3794,10 @@
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Eyes.meshskin.nasset"
+    },
+    "bd29ed12-2468-8a3a-608f-3b2684773f27": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Capsule_Man/Material Instances/Eyes.mtli.nasset"
     },
     "bd7eaff2-7ac5-4d6c-01c4-80813979c323": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3585,6 +3955,14 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "c59b6cd4-8a41-6db0-074d-ad91d9ec2f18": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Barrier 01.mesh.nasset/Barrier 01 Orange 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "c6b0c961-6b96-27ca-f97f-c37dae648bc2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3714,6 +4092,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "cd5ac16d-3721-8782-f470-16d5dbbbfacd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Icon.mesh.nasset/Icon Icon.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "cd80d615-ac16-9b87-1995-4b3128cc899f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3786,6 +4172,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "cfb7323b-b7bf-6012-15cd-7ea376005547": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Fan Blade.mesh.nasset/Fan Blade Purple 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "d02fa07c-c167-7809-59af-8e64270fae4c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3817,6 +4211,14 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Props.scene.nasset/Obstacle Pole LG.mesh.nasset/Obstacle Pole LG.mesh.nasset"
     },
+    "d1f8edbb-025e-b2ef-2132-ec154ad5a059": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Flag.mesh.nasset/Flag Pink 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "d297836b-7b86-6c23-b336-cd5b03c5a2a9": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Amber 900.mtli.nasset"
@@ -3835,6 +4237,14 @@
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Gray 700.mesh.nasset/Gray 700.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d47680a5-b8c6-c426-4e92-94d7afc4f902": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Obstacle Hammer.mesh.nasset/Obstacle Hammer Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
     "d49e441a-c4fd-1fb7-2ac0-29398095aed5": {
@@ -3874,6 +4284,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Purple 800.mesh.nasset/Purple 800 Purple 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d6290498-6800-fc6a-b194-dd3e0fbb8df3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Pressure Housing.mesh.nasset/Pressure Housing Blue 800.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -3935,6 +4353,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "daac644e-9fe1-4ea3-96c4-7d48d518575b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Scale Connector.mesh.nasset/Scale Connector.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "dabbb127-d417-55bc-e4d7-5cb3fa6f569a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3991,6 +4417,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "dea39cf1-5ee8-402c-1f42-3be1bfec30d5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Pillar SM.mesh.nasset/Pillar SM.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "df0e50ef-a8cd-7d03-0442-81d350c7447c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4045,6 +4479,14 @@
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Blue 800.mesh.nasset/Blue 800.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e1d758da-103e-00f4-f739-d140f11888fa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Flag.mesh.nasset/Flag Yellow 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
     "e23d2de2-5e4a-d2fb-747f-74591239947d": {
@@ -4304,6 +4746,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "ee6ed6ad-92f7-a965-d3bb-c078a490df1f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Diamond.mesh.nasset/Diamond Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "efae5157-521a-9f4c-6a37-cdfdba974db0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -4406,6 +4856,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "f23a1da5-de07-b815-1cb5-c7fe14c6dcf0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Capsule_Man/SK_Capsule_Man.scene.nasset/SK Capsule Player.mesh.nasset/SK Capsule Player pasted  M Kenney Animal Attachments.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "f26cee31-9186-6802-9565-9d7b7f1e633a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4441,6 +4899,14 @@
     "f319ad7c-bd31-7d40-63ab-4c525b7e6de4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Fuschia 800.mtli.nasset"
+    },
+    "f32f8874-a16f-4f32-294b-5a5bdf1b3fa2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Football.mesh.nasset/Football.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
     "f3a32d25-e0df-3edc-29c5-b3c237bffbd5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4500,6 +4966,14 @@
         "path": "Assets/Scene/SC_Default_Props.scene.nasset/Fan.mesh.nasset/Fan Green 500.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f5f8253f-21b3-83b0-3c13-b55c5288f875": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Seesaw Base.mesh.nasset/Seesaw Base.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "f5f837f9-d0da-c9a4-11a7-a092e8445dab": {
@@ -4585,6 +5059,14 @@
         "path": "Assets/Scene/SC_Default_Props.scene.nasset/Cog.mesh.nasset/Cog.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fba7c08a-c2c6-68c1-e39f-d58e5c3bbcac": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Course_02.scene.nasset/Obstacle Pole Center.mesh.nasset/Obstacle Pole Center Gray 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
     "fbcc5186-46da-4c1a-d702-a30da15da747": {
