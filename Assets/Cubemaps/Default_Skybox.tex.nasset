@@ -8,6 +8,7 @@
     ],
     "preset": 9,
     "usage_flags": 6,
+    "flags": 16,
     "array_size": 6,
     "bc_data": {
         "format": 143,
