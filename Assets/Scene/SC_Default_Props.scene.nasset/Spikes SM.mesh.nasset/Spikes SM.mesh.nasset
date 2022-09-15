@@ -10,7 +10,7 @@
     "children": [
 	 {
             "typeGuid": "bb15f0a1-1644-44b2-9f6c-4c09ec7c7370",
-            "instanceGuid": "d3bfcc5f-bb72-4e0f-8899-909f6154bc1a",
+            "instanceGuid": "8338A707-F642-4F40-A8B3-69BBB5C9D1C7",
             "e875b43b-d558-405c-a957-39c5d0f00ab2": {
                 "overriddenMass": 0.0
             },
@@ -37,7 +37,7 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "a4bd5494-3593-4243-996c-60cf561f6cbd",
+                    "instanceGuid": "4510C705-77C7-4BD3-913F-8B8096CB839F",
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
                     },
