@@ -1,12 +1,14 @@
 {
-    "guid": "9f751b61-67db-c613-5310-159eef3b3f2b",
+    "guid": "a4b461cc-564a-bb28-0e52-9688e8648316",
     "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-    "material": "a897cdfa-a65f-4222-a5ab-d64df68c17b6",
-    "push_constants": [
+    "material": "ac0befd3-fdfd-491c-a266-f5a5a1ebd6b5",
+    "descriptor_contents": [
         {
-            "type": 0,
-            "color": "#252a37"
-        },
+            "texture": "f2f75147-d0ac-4d4c-5744-ccb965131c22",
+            "address_mode": 0
+        }
+    ],
+    "push_constants": [
         {
             "type": 1,
             "value": 0.0
