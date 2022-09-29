@@ -7,9 +7,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Step SM.mesh.nasset/Step SM.mesh.nasset",
+        "thumbnail": "8180aea1-83a7-9677-74d0-28e3f68e8040",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "016f624b-003f-8c8a-d407-5a1d622d0db4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Lime 600.mtli.nasset.tex.nasset"
     },
     "0311f76d-77ee-b7b8-d437-813a94abaea3": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -19,6 +24,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Outer Block.mesh.nasset/Outer Block.mesh.nasset",
+        "thumbnail": "a251b483-5cf2-5f43-8985-0038b669ffda",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -47,6 +53,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Round Table.001.mesh.nasset/Round Table.001.mesh.nasset",
+        "thumbnail": "c0c72955-d91b-2a76-28c9-5b2aca8d89b5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -87,6 +94,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Obstacle Pole Center.mesh.nasset/Obstacle Pole Center.mesh.nasset",
+        "thumbnail": "71a8460d-76df-bc89-21dc-39296a995caa",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -96,6 +104,10 @@
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/Asset Zoo.scene.nasset"
     },
+    "0fac0b7b-cbd4-25b5-3c9e-107e0251a89e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Spiral.mesh.nasset/Thumbnails/Spiral.mesh.nasset.tex.nasset"
+    },
     "117d318b-8f67-3a2d-20e2-8fb2d5e98312": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -103,6 +115,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "11b75683-73d1-b17e-a1b7-ab5f3851e51b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Saw.mesh.nasset/Thumbnails/Saw.mesh.nasset.tex.nasset"
     },
     "1515e7e4-b29f-4a4e-849f-e7a85f634639": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
@@ -121,6 +137,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pressure Housing.001.mesh.nasset/Pressure Housing.001.mesh.nasset",
+        "thumbnail": "e572e954-2020-d3c7-9238-7fc80799c595",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -128,6 +145,10 @@
     "1abc7b96-dd19-e5e7-a8f5-b02157e6fc6c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Yellow 600.mtli.nasset"
+    },
+    "1b6dd9be-1be1-6c84-764f-a6588fdee897": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Platform Ramp.mesh.nasset/Thumbnails/Platform Ramp.mesh.nasset.tex.nasset"
     },
     "1b97c987-330a-b72b-4cdf-9c7fb40e0c2e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -152,6 +173,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "1c9ce938-07ed-8b56-db05-3f8e66db6278": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Round Table.002.mesh.nasset/Thumbnails/Round Table.002.mesh.nasset.tex.nasset"
     },
     "1d924228-9590-9a40-9fb1-a95a2153b6b7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -206,6 +231,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "25c3520f-266a-e4c8-043f-fcf8443d0d67": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Icon.mesh.nasset/Thumbnails/Icon.mesh.nasset.tex.nasset"
     },
     "25cf799a-060f-4dcf-8993-c95c01cf5735": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -266,6 +295,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Step LRG.mesh.nasset/Step LRG.mesh.nasset",
+        "thumbnail": "510ff49c-80e4-0314-45c9-d775ed2f5cd2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -299,6 +329,18 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "39ea45fe-b292-a2ed-d8d7-153850a172ce": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Sky 600.mtli.nasset.tex.nasset"
+    },
+    "3bd7bba4-7886-79d8-163d-bfb3e6e17b9d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Scale Connector.mesh.nasset/Thumbnails/Scale Connector.mesh.nasset.tex.nasset"
+    },
+    "3c09fb23-bf91-50d5-0e8c-9e29ed830fb8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Round Table.mesh.nasset/Thumbnails/Round Table.mesh.nasset.tex.nasset"
+    },
     "3d50147c-a821-908c-d79e-1d35ea1490d8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -328,6 +370,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pressure Housing.mesh.nasset/Pressure Housing.mesh.nasset",
+        "thumbnail": "c7999ce7-368d-e805-d986-5a9c79d1139f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -344,9 +387,17 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "4dc292ba-59e8-92f5-30f4-c738c98c247f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Lime 500.mtli.nasset.tex.nasset"
+    },
     "4ebb3032-052e-43f4-39ed-1a4f72fe6197": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Default_SkyboxDiffuse.tex.nasset"
+    },
+    "502578d5-d033-e286-ed4e-71268f47ac97": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pressure Plate.001.mesh.nasset/Thumbnails/Pressure Plate.001.mesh.nasset.tex.nasset"
     },
     "5085fd6d-a14d-5c7a-bf77-13389161e5cb": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -355,6 +406,10 @@
     "50a19902-1c2f-eedd-6b2d-5dbad1dd0b09": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Teal 500.mtli.nasset"
+    },
+    "510ff49c-80e4-0314-45c9-d775ed2f5cd2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Step LRG.mesh.nasset/Thumbnails/Step LRG.mesh.nasset.tex.nasset"
     },
     "5140d990-3a99-7bf4-803d-e44fe8f740f2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -373,6 +428,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Round Table.002.mesh.nasset/Round Table.002.mesh.nasset",
+        "thumbnail": "1c9ce938-07ed-8b56-db05-3f8e66db6278",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -381,6 +437,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pillar SM.mesh.nasset/Pillar SM.mesh.nasset",
+        "thumbnail": "fb335115-c753-90ad-beb2-031902a5f4b9",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -401,6 +458,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Obstacle Hammer.mesh.nasset/Obstacle Hammer.mesh.nasset",
+        "thumbnail": "b174519b-3d5d-988b-e32a-47029ecdbc83",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -474,6 +532,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Torus.mesh.nasset/Torus.mesh.nasset",
+        "thumbnail": "b10b1a56-f4fb-c2cd-24f7-8a3d9d718515",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -482,6 +541,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Spikes Quad.mesh.nasset/Spikes Quad.mesh.nasset",
+        "thumbnail": "d8067cbc-3565-dffe-d019-be16a0df2406",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -490,6 +550,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Diamond.mesh.nasset/Diamond.mesh.nasset",
+        "thumbnail": "d6843c0d-73f3-6308-a23f-971ee2c3d620",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -506,6 +567,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Spiral.mesh.nasset/Spiral.mesh.nasset",
+        "thumbnail": "0fac0b7b-cbd4-25b5-3c9e-107e0251a89e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -526,9 +588,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pressure Plate.mesh.nasset/Pressure Plate.mesh.nasset",
+        "thumbnail": "dacca5e8-acc8-c642-90cb-7f04d6504e1b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "6bfa9f43-de59-130c-3bc7-9ec34aa60a15": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Pink 500.mtli.nasset.tex.nasset"
     },
     "6cd39741-58a0-4592-9963-cb5f75db3764": {
         "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
@@ -551,6 +618,14 @@
         "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
         "path": "Assets/Physical Materials/Box.physmat.nasset"
     },
+    "71a8460d-76df-bc89-21dc-39296a995caa": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Obstacle Pole Center.mesh.nasset/Thumbnails/Obstacle Pole Center.mesh.nasset.tex.nasset"
+    },
+    "74071785-08d3-07e7-89a1-44ec7c6ea4d7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Barrier 01.mesh.nasset/Thumbnails/Barrier 01.mesh.nasset.tex.nasset"
+    },
     "75ef0394-5757-6e92-a020-e2359d96a21d": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Robot/Material Instances/Main.mtli.nasset",
@@ -566,11 +641,13 @@
     },
     "7bde99d2-3385-0ecb-c547-396a00254a64": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Violet 900.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Violet 900.mtli.nasset",
+        "thumbnail": "ae254e0b-89a0-0b13-14ba-751d00f469fc"
     },
     "7ca4227c-dccd-9d62-bf35-314b271052ee": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Lime 600.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Lime 600.mtli.nasset",
+        "thumbnail": "016f624b-003f-8c8a-d407-5a1d622d0db4"
     },
     "7ddf2c37-acea-4476-fe45-b47f416496a3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -592,6 +669,10 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Violet 800.mtli.nasset"
     },
+    "8041036b-9a8d-acec-a981-70ac87c8bbb6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Seesaw Base.mesh.nasset/Thumbnails/Seesaw Base.mesh.nasset.tex.nasset"
+    },
     "8093751a-fda4-b8fe-6fbf-a745084737e9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -599,6 +680,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "8180aea1-83a7-9677-74d0-28e3f68e8040": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Step SM.mesh.nasset/Thumbnails/Step SM.mesh.nasset.tex.nasset"
     },
     "828d389f-d95c-807a-5292-0348194976d9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -614,7 +699,8 @@
     },
     "83a7206a-9379-95b7-d7d9-898400251d74": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Lime 500.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Lime 500.mtli.nasset",
+        "thumbnail": "4dc292ba-59e8-92f5-30f4-c738c98c247f"
     },
     "84553b99-bca9-7e6e-d764-167a819c82e0": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -628,6 +714,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Scale Connector.mesh.nasset/Scale Connector.mesh.nasset",
+        "thumbnail": "3bd7bba4-7886-79d8-163d-bfb3e6e17b9d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -680,6 +767,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "92101e5a-c706-d3f0-a171-4802eccd887d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Block Tile.mesh.nasset/Thumbnails/Block Tile.mesh.nasset.tex.nasset"
+    },
     "94317776-32db-60fc-d9df-5f32b9d97d85": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -715,6 +806,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Seesaw Base.mesh.nasset/Seesaw Base.mesh.nasset",
+        "thumbnail": "8041036b-9a8d-acec-a981-70ac87c8bbb6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -723,14 +815,20 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Fan Blade.mesh.nasset/Fan Blade.mesh.nasset",
+        "thumbnail": "ab40db4c-b3b1-26b7-baef-a27b40f1301e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "9d413f9a-3cf2-b82b-9979-47999d7f0897": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Scale Legs.mesh.nasset/Thumbnails/Scale Legs.mesh.nasset.tex.nasset"
     },
     "9e39be7a-3f88-aa78-2697-0face9ad1aae": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Crate.mesh.nasset/Crate.mesh.nasset",
+        "thumbnail": "aa06d6d6-e08d-310b-1e84-9c19e4dd0c11",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -739,6 +837,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Obstacle Pole LG.mesh.nasset/Obstacle Pole LG.mesh.nasset",
+        "thumbnail": "cef6794b-8c29-3e21-bd9f-f3e8c8c7b62f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -767,10 +866,15 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "a251b483-5cf2-5f43-8985-0038b669ffda": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Outer Block.mesh.nasset/Thumbnails/Outer Block.mesh.nasset.tex.nasset"
+    },
     "a26125cc-2bd2-46d7-f594-f4155832eeb9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Block Tile.mesh.nasset/Block Tile.mesh.nasset",
+        "thumbnail": "92101e5a-c706-d3f0-a171-4802eccd887d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -808,9 +912,21 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Gray 800.mtli.nasset"
     },
+    "aa06d6d6-e08d-310b-1e84-9c19e4dd0c11": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Crate.mesh.nasset/Thumbnails/Crate.mesh.nasset.tex.nasset"
+    },
+    "ab40db4c-b3b1-26b7-baef-a27b40f1301e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Fan Blade.mesh.nasset/Thumbnails/Fan Blade.mesh.nasset.tex.nasset"
+    },
     "abc375ce-a687-d530-a9d7-02088c7085e4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Sky 900.mtli.nasset"
+    },
+    "ae254e0b-89a0-0b13-14ba-751d00f469fc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Violet 900.mtli.nasset.tex.nasset"
     },
     "ae5e2e48-d906-cb8f-7200-f334f6f6c881": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -824,18 +940,28 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Obstacle Pole SM.mesh.nasset/Obstacle Pole SM.mesh.nasset",
+        "thumbnail": "f6f5a63d-11f2-0791-c4a9-93ad22097caa",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "b10b1a56-f4fb-c2cd-24f7-8a3d9d718515": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Torus.mesh.nasset/Thumbnails/Torus.mesh.nasset.tex.nasset"
     },
     "b13988cb-a4b9-4427-451d-bb0a1a42c5dd": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Teal 900.mtli.nasset"
     },
+    "b174519b-3d5d-988b-e32a-47029ecdbc83": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Obstacle Hammer.mesh.nasset/Thumbnails/Obstacle Hammer.mesh.nasset.tex.nasset"
+    },
     "b404cf13-5321-2a97-14f6-961d808d014e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pressure Plate.004.mesh.nasset/Pressure Plate.004.mesh.nasset",
+        "thumbnail": "dafab4dd-b171-fd6c-b658-7c7d2d29a883",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -852,6 +978,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Barrier 01.mesh.nasset/Barrier 01.mesh.nasset",
+        "thumbnail": "74071785-08d3-07e7-89a1-44ec7c6ea4d7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -864,6 +991,10 @@
     "be2300a6-793f-e277-d493-c063c4e0e497": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Platform.mtli.nasset"
+    },
+    "c0c72955-d91b-2a76-28c9-5b2aca8d89b5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Round Table.001.mesh.nasset/Thumbnails/Round Table.001.mesh.nasset.tex.nasset"
     },
     "c129b110-8096-7499-6669-23a7e1bb0c82": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
@@ -878,6 +1009,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Saw.mesh.nasset/Saw.mesh.nasset",
+        "thumbnail": "11b75683-73d1-b17e-a1b7-ab5f3851e51b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -886,6 +1018,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Icon.mesh.nasset/Icon.mesh.nasset",
+        "thumbnail": "25c3520f-266a-e4c8-043f-fcf8443d0d67",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -914,9 +1047,25 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "c7999ce7-368d-e805-d986-5a9c79d1139f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pressure Housing.mesh.nasset/Thumbnails/Pressure Housing.mesh.nasset.tex.nasset"
+    },
     "c88b678a-dab8-abea-f789-ded0608657f6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/Textures/T_Platform_Dark_D.tex.nasset"
+    },
+    "cb468975-7265-af2b-b602-0d9e4946099c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Step MED.mesh.nasset/Thumbnails/Step MED.mesh.nasset.tex.nasset"
+    },
+    "cc2a6ad5-f490-647f-f49e-4d0c390242c5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Football.mesh.nasset/Thumbnails/Football.mesh.nasset.tex.nasset"
+    },
+    "cef6794b-8c29-3e21-bd9f-f3e8c8c7b62f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Obstacle Pole LG.mesh.nasset/Thumbnails/Obstacle Pole LG.mesh.nasset.tex.nasset"
     },
     "cf02d391-017c-4d56-0709-f7cae8b6bebd": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -934,13 +1083,15 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Football.mesh.nasset/Football.mesh.nasset",
+        "thumbnail": "cc2a6ad5-f490-647f-f49e-4d0c390242c5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "d1f91e20-ae67-b0f7-6cc5-e7985077cc8d": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Blue 600.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Blue 600.mtli.nasset",
+        "thumbnail": "e1ca53cf-e983-122e-60e8-03ac8baf7329"
     },
     "d22fa983-73b5-bb3c-014c-72f84d70da5a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -959,6 +1110,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Seesaw Plank.mesh.nasset/Seesaw Plank.mesh.nasset",
+        "thumbnail": "e2b6f153-c88d-76c0-0b88-4d4d389552c2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -968,13 +1120,22 @@
         "path": "Assets/Robot/Material Instances/Black.mtli.nasset",
         "thumbnail": "5df5f53e-5b27-b560-26f6-e8895a68bb4d"
     },
+    "d6843c0d-73f3-6308-a23f-971ee2c3d620": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Diamond.mesh.nasset/Thumbnails/Diamond.mesh.nasset.tex.nasset"
+    },
     "d733e478-6db8-7108-a809-9c0f8ba901d8": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Sky 600.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Sky 600.mtli.nasset",
+        "thumbnail": "39ea45fe-b292-a2ed-d8d7-153850a172ce"
     },
     "d77bcb2b-8bec-6feb-f2e3-17d4c1bbc859": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Pink 900.mtli.nasset"
+    },
+    "d8067cbc-3565-dffe-d019-be16a0df2406": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Spikes Quad.mesh.nasset/Thumbnails/Spikes Quad.mesh.nasset.tex.nasset"
     },
     "d8d01ab5-7c37-52ba-3508-7d8da15afd46": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -988,10 +1149,19 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Icon.mtli.nasset"
     },
+    "dacca5e8-acc8-c642-90cb-7f04d6504e1b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pressure Plate.mesh.nasset/Thumbnails/Pressure Plate.mesh.nasset.tex.nasset"
+    },
+    "dafab4dd-b171-fd6c-b658-7c7d2d29a883": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pressure Plate.004.mesh.nasset/Thumbnails/Pressure Plate.004.mesh.nasset.tex.nasset"
+    },
     "dc80ea37-bfec-e0c5-39e2-af2cf88debb2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Platform Ramp.mesh.nasset/Platform Ramp.mesh.nasset",
+        "thumbnail": "1b6dd9be-1be1-6c84-764f-a6588fdee897",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1008,9 +1178,18 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Rose 700.mtli.nasset"
     },
+    "e1ca53cf-e983-122e-60e8-03ac8baf7329": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/Blue 600.mtli.nasset.tex.nasset"
+    },
     "e2810030-77ba-e3ff-6d1b-de7891ecfcae": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Pink 500.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Pink 500.mtli.nasset",
+        "thumbnail": "6bfa9f43-de59-130c-3bc7-9ec34aa60a15"
+    },
+    "e2b6f153-c88d-76c0-0b88-4d4d389552c2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Seesaw Plank.mesh.nasset/Thumbnails/Seesaw Plank.mesh.nasset.tex.nasset"
     },
     "e4841b0e-3719-5da2-a610-87145ff6e28b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1028,6 +1207,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "e572e954-2020-d3c7-9238-7fc80799c595": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pressure Housing.001.mesh.nasset/Thumbnails/Pressure Housing.001.mesh.nasset.tex.nasset"
+    },
     "e66dc846-ae81-ffa8-4e16-20a88cf124bd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1040,6 +1223,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Round Table.mesh.nasset/Round Table.mesh.nasset",
+        "thumbnail": "3c09fb23-bf91-50d5-0e8c-9e29ed830fb8",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1073,6 +1257,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pressure Plate.001.mesh.nasset/Pressure Plate.001.mesh.nasset",
+        "thumbnail": "502578d5-d033-e286-ed4e-71268f47ac97",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1114,6 +1299,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Flag.mesh.nasset/Flag.mesh.nasset",
+        "thumbnail": "fc3b63ee-2095-b73c-9af6-041257b11191",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1134,6 +1320,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Step MED.mesh.nasset/Step MED.mesh.nasset",
+        "thumbnail": "cb468975-7265-af2b-b602-0d9e4946099c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1146,6 +1333,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "f6f5a63d-11f2-0791-c4a9-93ad22097caa": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Obstacle Pole SM.mesh.nasset/Thumbnails/Obstacle Pole SM.mesh.nasset.tex.nasset"
+    },
     "f8782a34-cc21-79cc-daf8-c0e0a1289d3e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Gray 900.mtli.nasset"
@@ -1154,6 +1345,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Scale Legs.mesh.nasset/Scale Legs.mesh.nasset",
+        "thumbnail": "9d413f9a-3cf2-b82b-9979-47999d7f0897",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1177,6 +1369,14 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "fb335115-c753-90ad-beb2-031902a5f4b9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Pillar SM.mesh.nasset/Thumbnails/Pillar SM.mesh.nasset.tex.nasset"
+    },
+    "fc3b63ee-2095-b73c-9af6-041257b11191": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Default_Enviro.scene.nasset/Flag.mesh.nasset/Thumbnails/Flag.mesh.nasset.tex.nasset"
     },
     "fe80a3db-f06c-5bf7-61f5-a70eadeabf3e": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
