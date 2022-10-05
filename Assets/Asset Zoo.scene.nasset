@@ -34810,389 +34810,308 @@
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
             "instanceGuid": "36ef0a55-9d5a-ad46-61b3-8371ac7f15d5",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -60.985,
-                    51.9873,
-                    19.9951
-                ],
-                "rotation": [
-                    90.0165,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
-                    "f141b823-5844-4fbc-b106-0635ff52199c"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.05,
-                "color": "#00bbff",
-                "intensity": 10000.0
-            },
             "data_components": [
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-                    "mask": [
-                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
-                    ]
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "36ef0a55-9d5a-ad46-61b3-8371ac7f15d5"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Light Cyan SH 01"
                 }
-            ]
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -61.0,
+                    52.0,
+                    20.0
+                ],
+                "rotation": [
+                    89.9999,
+                    -0.0,
+                    179.9999
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.2499,
+                "color": "#00bbff",
+                "intensity": 10000.0,
+                "influenceRadius": 774.5966
+            }
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
             "instanceGuid": "52da5eb7-08b2-f0a5-22be-30e93f7e52a5",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -76.9812,
-                    53.9868,
-                    5.9984
-                ],
-                "rotation": [
-                    90.0165,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
-                    "f141b823-5844-4fbc-b106-0635ff52199c"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.05,
-                "color": "#ff0024",
-                "intensity": 10000.0
-            },
             "data_components": [
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-                    "mask": [
-                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
-                    ]
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "52da5eb7-08b2-f0a5-22be-30e93f7e52a5"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Light Magenta 01"
                 }
-            ]
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -77.0,
+                    54.0,
+                    6.0
+                ],
+                "rotation": [
+                    89.9999,
+                    -0.0,
+                    179.9999
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.2499,
+                "color": "#ff0024",
+                "intensity": 10000.0,
+                "influenceRadius": 774.5966
+            }
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
             "instanceGuid": "5d9b8e9f-cbf3-a760-4832-7a9c5c3e2cf2",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -68.9831,
-                    61.9847,
-                    26.9934
-                ],
-                "rotation": [
-                    90.0165,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
-                    "f141b823-5844-4fbc-b106-0635ff52199c"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.05,
-                "color": "#ff",
-                "intensity": 4000.0
-            },
             "data_components": [
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-                    "mask": [
-                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
-                    ]
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "5d9b8e9f-cbf3-a760-4832-7a9c5c3e2cf2"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Light White.013"
                 }
-            ]
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -69.0,
+                    62.0,
+                    27.0
+                ],
+                "rotation": [
+                    89.9999,
+                    -0.0,
+                    179.9999
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.1249,
+                "color": "#ff",
+                "intensity": 4000.0,
+                "influenceRadius": 316.2277
+            }
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
             "instanceGuid": "07f5790e-a425-9285-a01d-ff2e5529afc3",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -68.9831,
-                    101.9749,
-                    35.9911
-                ],
-                "rotation": [
-                    90.0165,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
-                    "f141b823-5844-4fbc-b106-0635ff52199c"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.05,
-                "color": "#ff",
-                "intensity": 4000.0
-            },
             "data_components": [
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-                    "mask": [
-                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
-                    ]
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "07f5790e-a425-9285-a01d-ff2e5529afc3"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Light White.014"
                 }
-            ]
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -69.0,
+                    102.0,
+                    36.0
+                ],
+                "rotation": [
+                    89.9999,
+                    -0.0,
+                    179.9999
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.1249,
+                "color": "#ff",
+                "intensity": 4000.0,
+                "influenceRadius": 316.2277
+            }
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
             "instanceGuid": "03aac09d-b0f0-527d-2f5c-b17d6f1e582a",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -23.9941,
-                    13.9965,
-                    10.9973
-                ],
-                "rotation": [
-                    90.0165,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
-                    "f141b823-5844-4fbc-b106-0635ff52199c"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.05,
-                "color": "#00bbff",
-                "intensity": 10000.0
-            },
             "data_components": [
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-                    "mask": [
-                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
-                    ]
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "03aac09d-b0f0-527d-2f5c-b17d6f1e582a"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Light Cyan SH 02"
                 }
-            ]
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -24.0,
+                    14.0,
+                    11.0
+                ],
+                "rotation": [
+                    89.9999,
+                    -0.0,
+                    179.9999
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.2499,
+                "color": "#00bbff",
+                "intensity": 10000.0,
+                "influenceRadius": 774.5966
+            }
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
             "instanceGuid": "ebeaa01e-2b23-24ad-fda4-a9b8ff7bd3cf",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -47.9882,
-                    13.9965,
-                    7.998
-                ],
-                "rotation": [
-                    90.0165,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
-                    "f141b823-5844-4fbc-b106-0635ff52199c"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.05,
-                "color": "#00bbff",
-                "intensity": 10000.0
-            },
             "data_components": [
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-                    "mask": [
-                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
-                    ]
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ebeaa01e-2b23-24ad-fda4-a9b8ff7bd3cf"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Light Cyan SH 00"
                 }
-            ]
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -48.0,
+                    14.0,
+                    8.0
+                ],
+                "rotation": [
+                    89.9999,
+                    -0.0,
+                    179.9999
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.2499,
+                "color": "#00bbff",
+                "intensity": 10000.0,
+                "influenceRadius": 774.5966
+            }
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
             "instanceGuid": "30754577-62b6-0326-3e97-895c111027da",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -66.9835,
-                    23.9941,
-                    9.9975
-                ],
-                "rotation": [
-                    90.0165,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
-                    "f141b823-5844-4fbc-b106-0635ff52199c"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.05,
-                "color": "#00bbff",
-                "intensity": 10000.0
-            },
             "data_components": [
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-                    "mask": [
-                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
-                    ]
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "30754577-62b6-0326-3e97-895c111027da"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Light Cyan SH 03"
                 }
-            ]
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -67.0,
+                    24.0,
+                    10.0
+                ],
+                "rotation": [
+                    89.9999,
+                    -0.0,
+                    179.9999
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.2499,
+                "color": "#00bbff",
+                "intensity": 10000.0,
+                "influenceRadius": 774.5966
+            }
         },
         {
             "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
             "instanceGuid": "23d0bea5-e8a6-df53-b3d4-6d0860312bf7",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -67.9832,
-                    5.9584,
-                    13.9965
-                ],
-                "rotation": [
-                    90.0165,
-                    -0.0,
-                    -180.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
-                    "f141b823-5844-4fbc-b106-0635ff52199c"
-                ]
-            },
-            "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.05,
-                "color": "#ff0024",
-                "intensity": 10000.0
-            },
             "data_components": [
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-                    "mask": [
-                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
-                    ]
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "23d0bea5-e8a6-df53-b3d4-6d0860312bf7"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Light Magenta 02"
                 }
-            ]
-        },
-        {
-            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-            "instanceGuid": "b690329f-88bd-615a-8af4-fc54157183b7",
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -2.9992,
-                    13.9965,
-                    8.9977
+                    -68.0,
+                    5.96,
+                    14.0
                 ],
                 "rotation": [
-                    90.0165,
+                    89.9999,
                     -0.0,
-                    -180.0
+                    179.9999
                 ]
             },
             "9f750482-b822-4d4b-be6a-9c135c614328": {
                 "stages": [
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
-                    "f141b823-5844-4fbc-b106-0635ff52199c"
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
                 ]
             },
             "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                "radius": 0.05,
-                "color": "#ff",
-                "intensity": 4000.0
-            },
+                "radius": 0.2499,
+                "color": "#ff0024",
+                "intensity": 10000.0,
+                "influenceRadius": 774.5966
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "b690329f-88bd-615a-8af4-fc54157183b7",
             "data_components": [
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-                    "mask": [
-                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
-                    ]
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b690329f-88bd-615a-8af4-fc54157183b7"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Light White.011"
                 }
-            ]
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.0,
+                    14.0,
+                    9.0
+                ],
+                "rotation": [
+                    89.9999,
+                    -0.0,
+                    179.9999
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.1249,
+                "color": "#ff",
+                "intensity": 4000.0,
+                "influenceRadius": 316.2277
+            }
         },
         {
             "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
