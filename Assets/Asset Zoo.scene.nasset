@@ -31705,30 +31705,6 @@
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "01df1e70-5a83-9ec5-295e-ede4d82a15f3",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -36.9906,
-                    13.9965,
-                    1.1993
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "01df1e70-5a83-9ec5-295e-ede4d82a15f3"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Housing.001"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "47f85cb9-fbf8-9724-3470-477cbc87e783"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "6098790f-a4ab-eb3b-4bd8-b4764a442844",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
@@ -31806,30 +31782,6 @@
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "1ab1bd01-1ad9-da27-6c86-c3dd6c0f1098"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "0a020d69-cef8-027d-a249-0796f8bf4a18",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -36.9906,
-                    13.9965,
-                    1.1993
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "0a020d69-cef8-027d-a249-0796f8bf4a18"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Plate.001"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "6b34c484-1455-6481-c2ac-c6043f656441"
             }
         },
         {
@@ -34707,60 +34659,6 @@
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "55744772-91d8-1ac9-5b23-6d26d47b184d"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "787216d1-8508-5180-0a18-64948c22a3df",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -76.9812,
-                    57.9858,
-                    1.0994
-                ],
-                "scale": [
-                    1.5
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "787216d1-8508-5180-0a18-64948c22a3df"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Housing.005"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "47f85cb9-fbf8-9724-3470-477cbc87e783"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "dfdd0e0d-8cd5-b36a-4e84-21f36e82712f",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -76.9812,
-                    57.9858,
-                    1.0994
-                ],
-                "scale": [
-                    1.5
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "dfdd0e0d-8cd5-b36a-4e84-21f36e82712f"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Plate.006"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "6b34c484-1455-6481-c2ac-c6043f656441"
             }
         },
         {
