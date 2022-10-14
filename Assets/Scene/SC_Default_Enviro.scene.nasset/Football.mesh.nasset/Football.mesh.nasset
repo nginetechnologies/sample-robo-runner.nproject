@@ -1,108 +1,173 @@
 {
     "guid": "d1847e97-7934-191e-acd6-54dfd12f535e",
-    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-    "tags": [
-        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-    ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "instanceGuid": "2dbd0b07-e13f-7c16-4287-e5cc2d3896dc",
-    "data_components": [],
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 4096.0
+    },
+    "data_components": [
+        {
+            "typeGuid": "05a7011d-a220-49f2-98df-81b32be3c0fd",
+            "camera_settings": {
+                "typeGuid": "9ae0e145-86b4-4e47-afda-697bbd008922",
+                "9ae0e145-86b4-4e47-afda-697bbd008922": {
+                    "fieldOfView": 60.0,
+                    "nearPlane": 0.1,
+                    "farPlane": 128.0
+                }
+            },
+            "transform": {
+                "position": [
+                    -3.0281,
+                    -5.0259,
+                    0.6098
+                ],
+                "rotation": [
+                    -10.0576,
+                    -0.0,
+                    -33.6313
+                ]
+            },
+            "grid_settings": {
+                "typeGuid": "ecc5ac5d-5450-4808-97b1-e25d91462d96",
+                "ecc5ac5d-5450-4808-97b1-e25d91462d96": {
+                    "transform": {
+                        "scale": [
+                            -1.0,
+                            -1.0,
+                            1.0
+                        ]
+                    }
+                }
+            }
+        }
+    ],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "73fa0faf-c5c4-e0ef-55a2-8b2743fbc55d",
             "data_components": [
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "73fa0faf-c5c4-e0ef-55a2-8b2743fbc55d"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Football Physics Body"
                 },
                 {
                     "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
-                    "type": 0
+                    "type": 2,
+                    "layer": 1,
+                    "maximumAngularVelocity": 2700.0,
+                    "overriddenMass": 0.0
                 }
             ],
             "children": [
                 {
-                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "cf147196-865d-fc08-0e91-da2a4fe0316d",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Football Lime 600 Collider"
-                        }
-                    ],
-                    "children": [
-                        {
-                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "3341ac0a-2ff8-4b06-2aed-ebbb2a911e6f",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Football Lime 600"
-                                }
-                            ],
-                            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                "stages": [
-                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                ]
-                            },
-                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "f56a7ae2-77d5-eb9e-507c-0f893ab70c5f",
-                                "material_instance": "7ca4227c-dccd-9d62-bf35-314b271052ee"
-                            }
-                        }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "f56a7ae2-77d5-eb9e-507c-0f893ab70c5f"
+                    "typeGuid": "2c2ae148-5dc3-48b3-b1d6-d81913078fe5",
+                    "instanceGuid": "0aa9ddcd-26e4-6f4e-7557-28dacc4a60eb",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "scale": [
+                            2.5
+                        ]
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
-                },
-                {
-                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "ebf0517a-50e4-29ce-ab2b-e17aedf8b733",
+                    },
+                    "2c2ae148-5dc3-48b3-b1d6-d81913078fe5": {
+                        "radius": 0.5
+                    },
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Football Cyan 500 Collider"
+                            "name": "New Sphere Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
                             "instanceGuid": "bc1ed430-415e-4538-505f-5c5cc0e21557",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Football Cyan 500"
-                                }
-                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "scale": [
+                                    0.3995,
+                                    0.398,
+                                    0.4013
+                                ]
+                            },
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
                                 "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
                                     "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                                 "mesh": "5fd8cc8f-6d4e-508e-73be-149ab653f54f",
                                 "material_instance": "c2eada2f-acad-09a0-5077-2804ee404c62"
-                            }
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                    "mask": [
+                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                    ]
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "bc1ed430-415e-4538-505f-5c5cc0e21557"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Football Cyan 500"
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "3341ac0a-2ff8-4b06-2aed-ebbb2a911e6f",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "scale": [
+                                    0.3995,
+                                    0.398,
+                                    0.4013
+                                ]
+                            },
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f56a7ae2-77d5-eb9e-507c-0f893ab70c5f",
+                                "material_instance": "7ca4227c-dccd-9d62-bf35-314b271052ee"
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                    "mask": [
+                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                    ]
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "3341ac0a-2ff8-4b06-2aed-ebbb2a911e6f"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Football Lime 600"
+                                }
+                            ]
                         }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "5fd8cc8f-6d4e-508e-73be-149ab653f54f"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
+                    ]
                 }
             ]
         }
     ],
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "d1847e97-7934-191e-acd6-54dfd12f535e"
-    },
-    "thumbnailGuid": "cc2a6ad5-f490-647f-f49e-4d0c390242c5"
+    }
 }

@@ -1,31 +1,155 @@
 {
     "guid": "c364f048-860f-267f-b2fa-f6a377824a70",
-    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-    "tags": [
-        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-    ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "instanceGuid": "63c27552-3bb3-a904-0461-72efb632f5e8",
-    "data_components": [],
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 4096.0
+    },
+    "data_components": [
+        {
+            "typeGuid": "05a7011d-a220-49f2-98df-81b32be3c0fd",
+            "camera_settings": {
+                "typeGuid": "9ae0e145-86b4-4e47-afda-697bbd008922",
+                "9ae0e145-86b4-4e47-afda-697bbd008922": {
+                    "fieldOfView": 60.0,
+                    "nearPlane": 0.1,
+                    "farPlane": 128.0
+                }
+            },
+            "transform": {
+                "position": [
+                    -5.6516,
+                    -2.9336,
+                    0.6294
+                ],
+                "rotation": [
+                    3.231,
+                    -0.0,
+                    -44.3366
+                ]
+            },
+            "grid_settings": {
+                "typeGuid": "ecc5ac5d-5450-4808-97b1-e25d91462d96",
+                "ecc5ac5d-5450-4808-97b1-e25d91462d96": {
+                    "transform": {
+                        "scale": [
+                            -1.0,
+                            -1.0,
+                            1.0
+                        ]
+                    }
+                }
+            }
+        }
+    ],
     "children": [
+        {
+            "typeGuid": "bb15f0a1-1644-44b2-9f6c-4c09ec7c7370",
+            "instanceGuid": "3138dc7d-354c-14e4-9f6a-ff2cc4b76bd5",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    0.0,
+                    -87.6823,
+                    0.0
+                ],
+                "scale": [
+                    1.7092,
+                    1.6331,
+                    0.5142
+                ]
+            },
+            "183d677a-b427-4b1d-a276-97b3e6681304": {
+                "mask": [
+                    "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "New Restart Game Rules Sensor"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0,
+                    "layer": 3,
+                    "body_flags": 5,
+                    "maximumAngularVelocity": 2700.0,
+                    "overriddenMass": 0.0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "b16da720-3f5f-4fe8-9f04-81d600ba7324",
+                    "instanceGuid": "7427456c-8c9b-223b-98f6-cf3f1d3df7a6",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    },
+                    "b16da720-3f5f-4fe8-9f04-81d600ba7324": {
+                        "radius": 0.5,
+                        "half_height": 1.0
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "New Cylinder Collider"
+                        }
+                    ]
+                }
+            ]
+        },
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "bfd1ac43-be13-137f-3fee-ec68ba50d1f2",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    -178.8578,
+                    -0.0,
+                    0.0
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "bfd1ac43-be13-137f-3fee-ec68ba50d1f2"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Saw Physics Body"
                 },
                 {
                     "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
-                    "type": 0
+                    "type": 0,
+                    "layer": 0,
+                    "maximumAngularVelocity": 2700.0,
+                    "overriddenMass": 0.0
+                },
+                {
+                    "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
+                    "velocity": 360.0,
+                    "rotationAxis": [
+                        0.0,
+                        1.0,
+                        0.0
+                    ],
+                    "rotationLimit": "0-0",
+                    "mode": 0
                 }
             ],
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
                     "instanceGuid": "72fa4d5b-9aab-116b-ca4d-95018254614d",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    },
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "e4841b0e-3719-5da2-a610-87145ff6e28b"
+                    },
                     "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "72fa4d5b-9aab-116b-ca4d-95018254614d"
+                        },
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "Saw Purple 800 Collider"
@@ -35,35 +159,50 @@
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
                             "instanceGuid": "ff2223cd-4bed-b0ea-6798-e5018345109e",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Saw Purple 800"
-                                }
-                            ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
                                 "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
                                     "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                                 "mesh": "e4841b0e-3719-5da2-a610-87145ff6e28b",
                                 "material_instance": "89ebe4e4-98d2-fea4-c79e-016275e61798"
-                            }
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                    "mask": [
+                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                    ]
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "ff2223cd-4bed-b0ea-6798-e5018345109e"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Saw Purple 800"
+                                }
+                            ]
                         }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "e4841b0e-3719-5da2-a610-87145ff6e28b"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
+                    ]
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
                     "instanceGuid": "5a625d4b-bf21-ca4e-81c5-5f22ad1dffd0",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    },
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "eab84f8e-c579-6fb5-39af-61a91b10ed01"
+                    },
                     "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "5a625d4b-bf21-ca4e-81c5-5f22ad1dffd0"
+                        },
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "Saw Cyan 500 Collider"
@@ -73,36 +212,41 @@
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
                             "instanceGuid": "19457191-4ca1-54ed-93c2-b0d693f73873",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Saw Cyan 500"
-                                }
-                            ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
                                 "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
                                     "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                                 "mesh": "eab84f8e-c579-6fb5-39af-61a91b10ed01",
                                 "material_instance": "c2eada2f-acad-09a0-5077-2804ee404c62"
-                            }
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                    "mask": [
+                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                    ]
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "19457191-4ca1-54ed-93c2-b0d693f73873"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Saw Cyan 500"
+                                }
+                            ]
                         }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "eab84f8e-c579-6fb5-39af-61a91b10ed01"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
+                    ]
                 }
             ]
         }
     ],
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "c364f048-860f-267f-b2fa-f6a377824a70"
-    },
-    "thumbnailGuid": "11b75683-73d1-b17e-a1b7-ab5f3851e51b"
+    }
 }
