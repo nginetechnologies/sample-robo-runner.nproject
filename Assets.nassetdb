@@ -123,7 +123,8 @@
     "1515e7e4-b29f-4a4e-849f-e7a85f634639": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
-        "thumbnail": "f0504132-0ec7-41ce-897c-e75b5519e43f"
+        "thumbnail": "f0504132-0ec7-41ce-897c-e75b5519e43f",
+        "tags": [ "f5777f96-a43c-4ebd-872a-1eeda5719aaf" ]
     },
     "15ba81c4-af59-c2a5-6f7a-11f22f49e333": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
