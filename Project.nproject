@@ -1,6 +1,7 @@
 {
     "name": "Robo Runner",
     "guid": "1515e7e4-b29f-4a4e-849f-e7a85f634639",
+    "database_guid": "4745615d-ec42-41cc-93c6-a8010add040a",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
