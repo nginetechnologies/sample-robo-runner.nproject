@@ -1,5 +1,9 @@
 {
     "guid": "4745615d-ec42-41cc-93c6-a8010add040a",
+    "4745615d-ec42-41cc-93c6-a8010add040af": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
     "01214578-9879-e361-67ed-946a3c08b1d8": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Blue 900.mtli.nasset"
