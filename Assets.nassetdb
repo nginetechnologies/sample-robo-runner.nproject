@@ -8,7 +8,10 @@
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Robo Runner",
-        "thumbnail": "8079cffd-8615-d679-248f-ad13f782a0fe"
+        "thumbnail": "8079cffd-8615-d679-248f-ad13f782a0fe",
+        "tags": [
+            "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
+        ]
     },
     "4745615d-ec42-41cc-93c6-a8010add040a": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
