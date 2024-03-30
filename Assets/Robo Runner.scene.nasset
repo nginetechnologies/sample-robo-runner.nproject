@@ -16,57 +16,27 @@
             "instanceGuid": "3007bcaa-22bf-42e5-d85a-b0ec8e2678f8",
             "data_components": [
                 {
-                    "typeGuid": "f1dad7f0-0053-4a05-af00-0cc2a88f1913",
-                    "asset": "ca38d06e-ea90-404e-af3d-749c406c6c09"
-                },
-                {
-                    "typeGuid": "a45076cb-ff23-4203-b378-c9c1e4eb98a6"
+                    "typeGuid": "0eac250f-0917-43ea-871f-b6ae73ececf9"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "3007bcaa-22bf-42e5-d85a-b0ec8e2678f8"
                 },
                 {
-                    "typeGuid": "b60ddb15-deda-47d5-a53b-7a7289bc8ae3"
-                },
-                {
-                    "typeGuid": "0eac250f-0917-43ea-871f-b6ae73ececf9"
-                },
-                {
                     "typeGuid": "22dce412-2016-4019-8392-90ff0294a32e"
                 },
                 {
+                    "typeGuid": "a45076cb-ff23-4203-b378-c9c1e4eb98a6"
+                },
+                {
                     "typeGuid": "7adde0df-a07d-45dc-999e-80066aed55a9"
-                }
-            ]
-        },
-        {
-            "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
-            "instanceGuid": "4b6ab931-fc71-4e73-711d-2d719c8024e5",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -22.8152,
-                    81.6406,
-                    0.2894
-                ]
-            },
-            "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
-                "asset": "db0cbf88-51a9-423c-b382-fe6851fbf60c"
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spawn Point"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4b6ab931-fc71-4e73-711d-2d719c8024e5"
+                    "typeGuid": "f1dad7f0-0053-4a05-af00-0cc2a88f1913",
+                    "asset": "ca38d06e-ea90-404e-af3d-749c406c6c09"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-                    "mask": [
-                        "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
-                    ]
+                    "typeGuid": "b60ddb15-deda-47d5-a53b-7a7289bc8ae3"
                 }
             ]
         },
@@ -91,12 +61,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spawn Point"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "7a2bf010-8c5c-7e6e-99f1-4bec0ed62290"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -140,12 +110,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Directional Light"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "1c81c42d-a5e8-27a9-797a-558be14d25aa"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Light"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -183,12 +153,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Environment Light"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "f42e334f-2024-a810-3376-af9cc9838b78"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -213,12 +183,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Directional Gravity"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "7f934797-d999-6fdc-1119-4bc48aaec6ca"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Gravity"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
@@ -245,12 +215,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Skysphere"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "c2f995e7-e649-26a6-c7ca-3a0bd14356e7"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skysphere"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -287,17 +257,17 @@
                 "rotation": [
                     0,
                     0,
-                    89.9995
+                    89.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Hazard 02"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "7ad85228-a1c6-7cef-77d9-54e660d53865"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hazard 02"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -316,17 +286,17 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9995
+                    -179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Road Corner"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "99cf44d8-480c-8afd-e912-9b2b6f39b2d4"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road Corner"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -345,17 +315,17 @@
                 "rotation": [
                     0,
                     0,
-                    -89.9995
+                    -89.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Road Entry"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "c1134ccc-9579-7e8d-2c79-93dd668d4a2d"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road Entry"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -374,17 +344,17 @@
                 "rotation": [
                     0,
                     0,
-                    -89.9995
+                    -89.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ramp 01.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "2b48aaf5-e8be-0a16-8c2e-964a6c1ec115"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ramp 01.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -403,17 +373,17 @@
                 "rotation": [
                     0,
                     0,
-                    89.9995
+                    89.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Road Straight Single.002"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "5305093f-a5c5-4f8e-23f8-53c41caa2799"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road Straight Single.002"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -432,17 +402,17 @@
                 "rotation": [
                     0,
                     0,
-                    -89.9995
+                    -89.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Road T Junction"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "d8592f64-17a6-9790-d51f-3247ec5e15fb"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road T Junction"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -461,17 +431,17 @@
                 "rotation": [
                     0,
                     0,
-                    -89.9995
+                    -89.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ramp 02.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "c9bebff2-cc0f-c8c6-7873-eb19c13810eb"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ramp 02.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -490,12 +460,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pit Large"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "e083b06e-5498-18a6-9ac1-4852554c40f7"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pit Large"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -514,12 +484,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spike Double Pit"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "0a08be83-4b62-9d03-e761-52e11d07155a"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spike Double Pit"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -538,12 +508,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ramp Connector"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "079818c9-4085-a929-cc9f-650897af29eb"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ramp Connector"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -562,12 +532,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ramp Base"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "9b4eb512-bf16-81b2-4ccf-688cb0e2c295"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ramp Base"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -586,12 +556,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Wall Stairs.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "8c3c89d8-b7ea-5c28-8b6a-6408dd691fff"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Stairs.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -610,12 +580,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Wall"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "ca1c570b-3800-5728-7faa-5fa67f8cd578"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -634,12 +604,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Road Half"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "68301fc8-45fd-8686-69e1-6143160971c6"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road Half"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -658,17 +628,17 @@
                 "rotation": [
                     0,
                     0,
-                    89.9995
+                    89.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spike Pit.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "b5934d7a-e94d-4c1e-10f7-a16a947b911d"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spike Pit.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -685,19 +655,19 @@
                     4
                 ],
                 "rotation": [
-                    -89.9996,
+                    -89.9995,
                     0,
-                    89.9995
+                    89.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Wall Long"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "64ee2161-1525-0a4f-154c-7f257ece133d"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Long"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -716,12 +686,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Cube.003"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "9c79d4b0-db0c-4180-c1c4-3b7263699f53"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cube.003"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -740,17 +710,17 @@
                 "rotation": [
                     -19.9995,
                     0,
-                    -179.9995
+                    -179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ledge Short"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "7eb96f10-343c-cf6b-64f6-3fea2c51ce59"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ledge Short"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -769,12 +739,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Wall Base"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "9e69965d-63d5-66a9-ed20-d5d091ac1df9"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Base"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -793,12 +763,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Wall Base.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "502f5fc1-546e-dafe-c6f9-b0c0059dae7e"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Base.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -817,12 +787,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Floor 01"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "d64746d8-2622-1cb4-4a12-14f788ca121c"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Floor 01"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -841,12 +811,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Floor 02"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "f11ccd03-3d1c-587f-aa64-0a9b06d93f16"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Floor 02"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -865,17 +835,17 @@
                 "rotation": [
                     -19.9995,
                     0,
-                    -179.9995
+                    -179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ledge Long.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "7d52dbcd-e567-7cf1-5260-61ba333bd54e"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ledge Long.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -894,12 +864,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Wall Top"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "e1ecfb30-2923-c3d2-9732-247cf429e2ca"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Top"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -918,17 +888,17 @@
                 "rotation": [
                     -19.9995,
                     0,
-                    -179.9995
+                    -179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ledge Long.002"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "fb570643-addb-9751-3564-c74481efe28b"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ledge Long.002"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -947,17 +917,17 @@
                 "rotation": [
                     -19.9995,
                     0,
-                    -179.9995
+                    -179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ledge Long"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "113ce791-3766-7caa-bc3e-c7b32a5439c9"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ledge Long"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -976,17 +946,17 @@
                 "rotation": [
                     0,
                     0,
-                    -89.9995
+                    -89.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Road Straight Double.002"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "749aa990-750c-1124-725d-37d15b22ac04"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road Straight Double.002"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1005,17 +975,17 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9995
+                    -179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ramp Connector.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "29138843-2f16-1e78-7dda-daf87cf2e38a"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ramp Connector.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1034,12 +1004,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Road.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "5d6d9d2c-ecc6-9acd-fd87-34e3dfc3d7c7"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1058,12 +1028,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Road Half.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "33c565d7-21b0-747c-9936-f9adeeaa3532"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road Half.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1082,12 +1052,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Road.002"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "92dd30a9-1530-6df9-325e-af9198c4a38c"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road.002"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1106,12 +1076,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Road Straight Single"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "63dec66c-c7c4-8206-6661-314eccd4bc4f"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road Straight Single"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1130,12 +1100,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Road Straight Double.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "45672653-b0d4-8472-1c59-923c452da906"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road Straight Double.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1154,17 +1124,17 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9995
+                    -179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Road Straight Single.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "12db14ab-a5ac-d094-f5e3-2445190bc86c"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road Straight Single.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1183,17 +1153,17 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9995
+                    -179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Road Corner.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "fc83d1dc-280b-c586-fcd9-3cd7a995a08a"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road Corner.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1210,19 +1180,19 @@
                     3
                 ],
                 "rotation": [
-                    -89.9995,
+                    -89.9994,
                     0,
-                    179.9995
+                    179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Wall Long.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "71ed7258-0739-7c7f-6068-c06e8761b452"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Long.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1239,19 +1209,19 @@
                     3
                 ],
                 "rotation": [
-                    -89.9995,
+                    -89.9994,
                     0,
-                    179.9995
+                    179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Wall Long.002"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "2d083824-310a-2ec0-b03e-0d5629df6e6f"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Long.002"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1270,17 +1240,17 @@
                 "rotation": [
                     0,
                     0,
-                    89.9995
+                    89.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Road Straight Double"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "1966742b-c68b-87fc-e4b5-d7ae302a9ea0"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road Straight Double"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1299,12 +1269,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ramp 01.002"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "1995fae0-7206-c9ac-784c-ed50a66308ad"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ramp 01.002"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1323,12 +1293,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ramp 01.003"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "334de5ca-a9ff-005e-a1b5-796f17f92904"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ramp 01.003"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1347,12 +1317,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ramp 01.004"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "db003509-0acc-6083-e1e5-33a5ffeebc2c"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ramp 01.004"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1371,12 +1341,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Road Small.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "f5a60592-791c-4aab-a46c-0c65b7250b16"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road Small.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1395,12 +1365,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Road Small"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "6f49743f-32dc-0781-2ebb-bfc161ed264f"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road Small"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1419,17 +1389,17 @@
                 "rotation": [
                     0,
                     0,
-                    -89.9995
+                    -89.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Road"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "f53c9bef-595e-001f-f1b2-dc8dd0837c69"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1448,17 +1418,17 @@
                 "rotation": [
                     0,
                     0,
-                    89.9995
+                    89.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spike Pit.003"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "2f40bda6-bb91-825a-cd52-a1a2815b675f"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spike Pit.003"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1477,12 +1447,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Wall Stairs"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "646ebc15-80d3-0f76-96a1-e11e0fe8cf70"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Stairs"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1501,12 +1471,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Cube.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "be8bf677-7f54-53cf-3f81-92caed57f411"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cube.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1525,17 +1495,17 @@
                 "rotation": [
                     0,
                     0,
-                    89.9995
+                    89.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spike Pit.002"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "934954d5-41c7-cf12-4ef0-de6123e2f7bb"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spike Pit.002"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1554,12 +1524,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Cube.002"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "2664b68a-6c91-9229-84a5-0a6f1fbdec8c"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cube.002"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1578,17 +1548,17 @@
                 "rotation": [
                     0,
                     0,
-                    89.9995
+                    89.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spike Pit"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "471b0f62-a5af-e1a6-dc35-72ec4c42b7f2"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spike Pit"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1607,12 +1577,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Cube"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "95c29cfa-6b48-ac7d-6c54-6b6384e72c24"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cube"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1631,17 +1601,17 @@
                 "rotation": [
                     0,
                     0,
-                    -89.9995
+                    -89.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ramp 02"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "798956cf-6099-0591-9d9c-492d9359feb7"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ramp 02"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1660,17 +1630,17 @@
                 "rotation": [
                     0,
                     0,
-                    -89.9995
+                    -89.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ramp 01"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "ad5a0757-24cf-c49b-5c9b-09fa1c15c103"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ramp 01"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1689,12 +1659,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Obstacle Pole Center"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "b8d5c06a-c400-8bc6-06ef-42a44b691e6f"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Obstacle Pole Center"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1713,17 +1683,17 @@
                 "rotation": [
                     0,
                     0,
-                    -53.6292
+                    86.3366
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Obstacle Pole Large.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "a59c47ee-234d-cb1a-f37d-91ea8df9ab74"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Obstacle Pole Large.001"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -1773,21 +1743,21 @@
                 "rotation": [
                     0,
                     0,
-                    -95.7322
+                    66.2368
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Obstacle Pole Small"
-                },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "f56574a7-ac52-cf98-6d59-cba0d13c1824"
                 },
                 {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Obstacle Pole Small"
+                },
+                {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
-                    "velocity": -45,
+                    "velocity": 45,
                     "rotationAxis": [
                         0,
                         0,
@@ -1827,18 +1797,14 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -71.15,
-                    -13.8906,
-                    4.3331
+                    -13.8905,
+                    4.8244
                 ],
                 "scale": [
                     2
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pillar.002"
-                },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "dbcc1cf2-5252-0992-86c5-a966caf4bbdd"
@@ -1853,6 +1819,10 @@
                     "override": false,
                     "applyRotation": false,
                     "mode": 2
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pillar.002"
                 }
             ],
             "children": [
@@ -1885,18 +1855,14 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -76.55,
-                    -13.8906,
-                    4.3331
+                    -13.8905,
+                    4.8244
                 ],
                 "scale": [
                     2
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pillar.003"
-                },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "c7ec7eda-4d00-b03e-4a1c-a761aca15c3d"
@@ -1911,6 +1877,10 @@
                     "override": false,
                     "applyRotation": false,
                     "mode": 2
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pillar.003"
                 }
             ],
             "children": [
@@ -1943,18 +1913,14 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -74.15,
-                    -16.2906,
-                    4.5002
+                    -16.2905,
+                    4.7634
                 ],
                 "scale": [
                     2
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pillar.004"
-                },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "cc45ee2e-4211-8ab5-d8a7-83d49bf5089b"
@@ -1969,6 +1935,10 @@
                     "override": false,
                     "applyRotation": false,
                     "mode": 2
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pillar.004"
                 }
             ],
             "children": [
@@ -2001,18 +1971,14 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -74.15,
-                    -10.8907,
-                    3.9799
+                    -10.8906,
+                    4.3921
                 ],
                 "scale": [
                     2
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pillar.001"
-                },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "98852c5e-c7f5-1235-56e6-1e5ad3e5fe96"
@@ -2027,6 +1993,10 @@
                     "override": false,
                     "applyRotation": false,
                     "mode": 2
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pillar.001"
                 }
             ],
             "children": [
@@ -2065,17 +2035,17 @@
                 "rotation": [
                     0,
                     0,
-                    -26.8148
+                    43.1682
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Round Table.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "b2a9d5ff-728d-f854-ffd4-9391d6e57909"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Round Table.001"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -2119,18 +2089,14 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -119,
-                    -27.9998,
-                    2.2614
+                    -27.9997,
+                    0.6124
                 ],
                 "scale": [
                     2
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Step Large"
-                },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "27e55b06-23c8-e8ac-f8c0-06361b7f3855"
@@ -2145,6 +2111,10 @@
                     "override": false,
                     "applyRotation": false,
                     "mode": 2
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Step Large"
                 }
             ],
             "children": [
@@ -2177,18 +2147,14 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -109,
-                    -37.9998,
-                    3.7339
+                    -37.9997,
+                    2.1743
                 ],
                 "scale": [
                     2
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Step Medium"
-                },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "660e4c67-2f14-2e2a-c452-4e64f6495b07"
@@ -2203,6 +2169,10 @@
                     "override": false,
                     "applyRotation": false,
                     "mode": 2
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Step Medium"
                 }
             ],
             "children": [
@@ -2235,18 +2205,14 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -119,
-                    -48,
-                    2.4959
+                    -47.9999,
+                    3.2787
                 ],
                 "scale": [
                     2
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Step Small"
-                },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "62b893a3-ba77-bb65-ed06-97359fe73851"
@@ -2261,6 +2227,10 @@
                     "override": false,
                     "applyRotation": false,
                     "mode": 2
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Step Small"
                 }
             ],
             "children": [
@@ -2297,9 +2267,9 @@
                     45.9999
                 ],
                 "rotation": [
-                    -108.9252,
+                    31.0405,
                     0,
-                    89.9997
+                    89.9998
                 ],
                 "scale": [
                     3.9999
@@ -2307,12 +2277,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Obstacle Hammer.002"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "927b049a-8bf6-e8e6-60da-7d9712c634fc"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Obstacle Hammer.002"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -2360,9 +2330,9 @@
                     19
                 ],
                 "rotation": [
-                    -179.9995,
+                    -179.9994,
                     0,
-                    -179.9995
+                    -179.9994
                 ],
                 "scale": [
                     2
@@ -2370,12 +2340,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Obstacle Pole Center.003"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "1579a435-71fb-399b-46d0-a750a821a7b4"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Obstacle Pole Center.003"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2397,12 +2367,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pillar.005"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "0d299973-801e-5ea4-72f0-d45bf8126fe3"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pillar.005"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2424,12 +2394,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pillar.006"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "e8112ae8-7aa1-dcda-d90f-e257a3bfe7b0"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pillar.006"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2451,12 +2421,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pillar.008"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "507e151f-95d2-eb62-90a3-d7cd79b11c95"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pillar.008"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2478,12 +2448,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pillar.009"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "9462e75d-4031-33dc-dab3-5b9aa38f4061"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pillar.009"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2505,12 +2475,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pillar.007"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "a92c3830-dca3-e716-6dde-9a3774964a0c"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pillar.007"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2532,12 +2502,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pillar"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "e1c13bff-82ff-f031-6195-e5d5e6dc837e"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pillar"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2556,7 +2526,7 @@
                 "rotation": [
                     0,
                     0,
-                    -151.9988
+                    75.9809
                 ],
                 "scale": [
                     1.9996
@@ -2564,12 +2534,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Round Table.003"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "50d90844-ff5d-3712-bff2-858ff980ffcf"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Round Table.003"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -2619,7 +2589,7 @@
                 "rotation": [
                     0,
                     0,
-                    -89.2977
+                    138.6819
                 ],
                 "scale": [
                     1.9996
@@ -2627,12 +2597,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Round Table"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "e87ca42a-67b9-8cf6-1c42-d285bc9e9023"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Round Table"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -2680,9 +2650,9 @@
                     16
                 ],
                 "rotation": [
-                    -63.6695,
+                    76.2963,
                     0,
-                    -89.9998
+                    -89.9996
                 ],
                 "scale": [
                     2.9997
@@ -2690,12 +2660,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Saw"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "c15e55f0-bab1-c1c1-5383-5ff77532fdce"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Saw"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -2745,7 +2715,7 @@
                 "rotation": [
                     0,
                     0,
-                    179.9995
+                    179.9994
                 ],
                 "scale": [
                     4
@@ -2753,12 +2723,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Scale Connector.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "547d27f2-f80a-0476-1ffa-889e0bdce169"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Scale Connector.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2777,7 +2747,7 @@
                 "rotation": [
                     0,
                     0,
-                    179.9995
+                    179.9994
                 ],
                 "scale": [
                     4
@@ -2785,12 +2755,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Scale Connector"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "99bbb62c-3dd1-a344-7abe-252bf5cf6824"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Scale Connector"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2812,12 +2782,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Scale Legs.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "ea41b738-d563-7d8e-b11c-7f9794a03aa1"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Scale Legs.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2836,7 +2806,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9995
+                    -179.9994
                 ],
                 "scale": [
                     4
@@ -2844,12 +2814,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Scale Legs"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "feee52f3-c1cb-7dec-714b-b5e31f769dae"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Scale Legs"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2868,7 +2838,7 @@
                 "rotation": [
                     0,
                     0,
-                    -89.9995
+                    -89.9994
                 ],
                 "scale": [
                     0.75
@@ -2876,12 +2846,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Seesaw Base"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "74fd4fba-9b87-815a-7b6e-8d4d59a255ad"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Seesaw Base"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2898,9 +2868,9 @@
                     14
                 ],
                 "rotation": [
-                    -179.2171,
+                    -179.217,
                     0,
-                    -90
+                    -89.9999
                 ],
                 "scale": [
                     0.75
@@ -2908,12 +2878,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Seesaw Plank"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "7c7863c9-1147-1785-cb07-1d5801a33d36"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Seesaw Plank"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2932,12 +2902,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spikes Large"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "4fe827bc-141f-d05a-ca40-401aa67da0b2"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spikes Large"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2956,12 +2926,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spikes Half"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "e8934d9d-707f-2fd7-0d3b-f49ca49379a4"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spikes Half"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2983,12 +2953,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Housing.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "5bf266b1-f75b-1e75-409d-9e930c2b313c"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pressure Housing.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3010,12 +2980,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Housing.006"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "847fde55-2fa3-29f4-2c8c-3851d5358258"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pressure Housing.006"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3037,12 +3007,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Housing.007"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "bcf23d65-dcea-f9b9-b810-d006d41ea2fa"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pressure Housing.007"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3056,17 +3026,13 @@
                 "position": [
                     -49,
                     0,
-                    -3.9706
+                    -5.0317
                 ],
                 "scale": [
                     0.5
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Plate 03"
-                },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "1d0ac695-160f-a1d4-2675-18db0200e136"
@@ -3081,6 +3047,10 @@
                     "override": false,
                     "applyRotation": false,
                     "mode": 2
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pressure Plate 03"
                 }
             ],
             "children": [
@@ -3114,17 +3084,13 @@
                 "position": [
                     -54,
                     0,
-                    -3.3844
+                    -5.1476
                 ],
                 "scale": [
                     0.5
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Plate 01.001"
-                },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "67b64255-a1f5-830d-9344-49470e70ceb2"
@@ -3139,6 +3105,10 @@
                     "override": false,
                     "applyRotation": false,
                     "mode": 2
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pressure Plate 01.001"
                 }
             ],
             "children": [
@@ -3172,17 +3142,13 @@
                 "position": [
                     -59,
                     0,
-                    -2.6637
+                    -5.1143
                 ],
                 "scale": [
                     0.5
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Plate 02.001"
-                },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "08722a0b-be11-e33e-5bd2-9f13bc092288"
@@ -3197,6 +3163,10 @@
                     "override": false,
                     "applyRotation": false,
                     "mode": 2
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pressure Plate 02.001"
                 }
             ],
             "children": [
@@ -3235,12 +3205,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Road End"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "8fe9512d-528a-57f2-ea3d-c9e3adc970f1"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road End"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3253,18 +3223,14 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -109,
-                    -15.9998,
-                    5.0662
+                    -15.9997,
+                    2.9387
                 ],
                 "scale": [
                     0.5
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Plate 01"
-                },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "15e84ba5-e2d9-06d3-96e3-5399d59cc485"
@@ -3279,6 +3245,10 @@
                     "override": false,
                     "applyRotation": false,
                     "mode": 2
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pressure Plate 01"
                 }
             ],
             "children": [
@@ -3311,18 +3281,14 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -119,
-                    -15.9998,
-                    3.2268
+                    -15.9997,
+                    1.4635
                 ],
                 "scale": [
                     0.5
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pressure Plate 02"
-                },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "b0332c3c-eae7-6545-b8a6-6e37c20edaf0"
@@ -3337,6 +3303,10 @@
                     "override": false,
                     "applyRotation": false,
                     "mode": 2
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pressure Plate 02"
                 }
             ],
             "children": [
@@ -3375,12 +3345,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spikes Large.002"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "ab900e93-eed1-7836-a45f-ad4a3a1edb2d"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spikes Large.002"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3399,12 +3369,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spikes Large.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "0a5ffb59-d54d-95fc-7b75-6702d93f0cdb"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spikes Large.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3417,13 +3387,13 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -92,
-                    117.0498,
+                    117.0497,
                     14.6
                 ],
                 "rotation": [
-                    90,
+                    89.9999,
                     0,
-                    -103.2965
+                    -126.3563
                 ],
                 "scale": [
                     14.9996
@@ -3431,12 +3401,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Fan Blade.002"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "dfa2ecea-0048-f05f-32af-39b12ab1821f"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fan Blade.002"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -3484,9 +3454,9 @@
                     19
                 ],
                 "rotation": [
-                    -179.9995,
+                    -179.9994,
                     0,
-                    -179.9995
+                    -179.9994
                 ],
                 "scale": [
                     2
@@ -3494,12 +3464,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Obstacle Pole Center.002"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "ad254921-195e-a45f-a499-16869e5d845c"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Obstacle Pole Center.002"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3518,17 +3488,17 @@
                 "rotation": [
                     0,
                     0,
-                    -27.1021
+                    42.592
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Obstacle Pole Large.002"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "579f3326-3f60-763c-20e1-e16e5412d81f"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Obstacle Pole Large.002"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -3578,17 +3548,17 @@
                 "rotation": [
                     0,
                     0,
-                    -96.7349
+                    17.0811
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Obstacle Pole Small.002"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "fd626eee-6356-d9f4-f17b-fafd018039c5"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Obstacle Pole Small.002"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -3638,17 +3608,17 @@
                 "rotation": [
                     0,
                     0,
-                    -27.1021
+                    42.592
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Round Table.002"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "bb253996-0a03-690f-b450-53c6dc172c5b"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Round Table.002"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -3698,12 +3668,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Obstacle Pole Center.004"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "15d061d8-7a87-8097-4411-60245b5a77c4"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Obstacle Pole Center.004"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3722,17 +3692,17 @@
                 "rotation": [
                     0,
                     0,
-                    -27.1021
+                    42.592
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Obstacle Pole Large"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "8a2fe2e0-9121-3afe-7f22-b65b7a1f33f8"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Obstacle Pole Large"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -3782,21 +3752,21 @@
                 "rotation": [
                     0,
                     0,
-                    -58.2621
+                    67.9216
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Obstacle Pole Small.001"
-                },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "cc3d746f-54f7-2fef-f2ce-31f0cfc442bb"
                 },
                 {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Obstacle Pole Small.001"
+                },
+                {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
-                    "velocity": 15,
+                    "velocity": -15,
                     "rotationAxis": [
                         0,
                         0,
@@ -3842,17 +3812,17 @@
                 "rotation": [
                     0,
                     0,
-                    -27.1021
+                    42.592
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Round Table.004"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "3b55ea75-ee59-0789-90de-0ebfe518d62e"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Round Table.004"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -3902,12 +3872,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Obstacle Pole Center.005"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "c39ed9b2-ba87-c11a-e05f-3f2c5db76460"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Obstacle Pole Center.005"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3926,17 +3896,17 @@
                 "rotation": [
                     0,
                     0,
-                    -89.9995
+                    -89.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Road End.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "32041926-6208-0fc1-84df-e18d6c25157b"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Road End.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3955,12 +3925,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Hazard 01"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "fe5b133c-8b41-4a9f-7a72-fc1a190fa5be"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hazard 01"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3974,10 +3944,10 @@
                 "position": [
                     -50,
                     3,
-                    -3
+                    -6
                 ],
                 "rotation": [
-                    89.9997,
+                    89.9996,
                     0,
                     0
                 ],
@@ -4042,12 +4012,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spline"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "fc43a5f2-0086-fbdb-2255-bed6ef201fb3"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spline"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
@@ -4059,7 +4029,7 @@
             "instanceGuid": "9cc96424-c855-eb78-b734-28650237db58",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -12.5151,
+                    -12.515,
                     0,
                     0
                 ],
@@ -4071,12 +4041,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "HazardSensor"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "9cc96424-c855-eb78-b734-28650237db58"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "HazardSensor"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
@@ -4096,7 +4066,7 @@
                     4
                 ],
                 "rotation": [
-                    89.9997,
+                    89.9996,
                     0,
                     0
                 ],
@@ -4161,12 +4131,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spline 2"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "74db305f-bb5a-2899-74b3-0104b9abe4a4"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spline 2"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
@@ -4190,12 +4160,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "HazardSensor 2"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "4d4f05d3-1203-e85f-91b7-4451eecdf78a"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "HazardSensor 2"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
@@ -4222,12 +4192,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "HazardSensor 3"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "88df426a-437e-1114-2056-675761d75b67"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "HazardSensor 3"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
@@ -4254,12 +4224,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "HazardSensor 4"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "8ac14b98-26e3-f366-2553-0b368e3da184"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "HazardSensor 4"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
@@ -4286,12 +4256,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "HazardSensor 6"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "f5286780-d823-aa8e-5b54-5177549149ee"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "HazardSensor 6"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
@@ -4318,12 +4288,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "HazardSensor 7"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "2502ad10-9aef-caaf-88fd-70a8b17e7ad0"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "HazardSensor 7"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
@@ -4350,12 +4320,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "HazardSensor 8"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "856b4f54-bcb9-4fb9-0005-4950f940d19b"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "HazardSensor 8"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
@@ -4377,7 +4347,7 @@
                 "rotation": [
                     0,
                     0,
-                    -89.9997
+                    -89.9996
                 ],
                 "scale": [
                     2.4749
@@ -4385,12 +4355,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Flag"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "6430ff36-fa67-873f-97f9-a448ef2aa5ba"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Flag"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4414,12 +4384,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "HazardSensor 9"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "89b9d5e9-65f8-18cd-b083-b2b3771ea6bb"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "HazardSensor 9"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
@@ -4436,10 +4406,10 @@
                 "position": [
                     -119,
                     -31,
-                    3
+                    1
                 ],
                 "rotation": [
-                    89.9997,
+                    89.9996,
                     0,
                     0
                 ],
@@ -4504,12 +4474,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spline 3"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "cd3c9f63-c24e-92d7-46e8-e4b2f54d62a7"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spline 3"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
@@ -4523,10 +4493,10 @@
                 "position": [
                     -109,
                     -41,
-                    3
+                    1
                 ],
                 "rotation": [
-                    89.9997,
+                    89.9996,
                     0,
                     0
                 ],
@@ -4562,7 +4532,7 @@
                             ],
                             "backward": [
                                 0,
-                                1.3331,
+                                1.333,
                                 0
                             ],
                             "forward": [
@@ -4591,12 +4561,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spline 4"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "5cf2c4f9-3815-17d5-209f-89902ddff46c"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spline 4"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
@@ -4613,7 +4583,7 @@
                     3
                 ],
                 "rotation": [
-                    89.9997,
+                    89.9996,
                     0,
                     0
                 ],
@@ -4678,12 +4648,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spline 5"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "73c8ff38-19b4-5c0f-9155-74137884901c"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spline 5"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
@@ -4697,10 +4667,10 @@
                 "position": [
                     -119,
                     -19,
-                    4
+                    1
                 ],
                 "rotation": [
-                    89.9997,
+                    89.9996,
                     0,
                     0
                 ],
@@ -4765,12 +4735,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spline 6"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "f4c04f19-b378-dc4d-e9d3-f7c1d636861e"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spline 6"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
@@ -4794,12 +4764,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "DamageSensor"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "5a47c3c0-587c-12e5-f9bb-9f872c9a3786"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "DamageSensor"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
@@ -4821,17 +4791,17 @@
                 "rotation": [
                     -19.9995,
                     0,
-                    -179.9995
+                    -179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ledge Long 3"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "113ce791-3766-7caa-bc3e-c7b32a5439c9"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ledge Long 3"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4850,17 +4820,17 @@
                 "rotation": [
                     -19.9995,
                     0,
-                    -179.9995
+                    -179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ledge Short 2"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "7eb96f10-343c-cf6b-64f6-3fea2c51ce59"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ledge Short 2"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4879,13 +4849,16 @@
                 "rotation": [
                     0,
                     0,
-                    -115.3639
+                    68.1465
                 ]
             },
             "data_components": [
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "693a17c5-f69d-1e66-23bc-7079b81f0a32"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -4897,9 +4870,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -4943,17 +4913,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.3639
+                    68.1465
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "581cc675-c48e-9f60-75f0-f5c63ecbae08"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 2"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "581cc675-c48e-9f60-75f0-f5c63ecbae08"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -4965,9 +4938,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -5011,17 +4981,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.3639
+                    68.1465
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7484e6d8-3fd3-d4f4-eeeb-4c430875441c"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 3"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7484e6d8-3fd3-d4f4-eeeb-4c430875441c"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -5033,9 +5006,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -5079,17 +5049,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.3639
+                    68.1465
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "56f80966-5554-6ffd-65f2-1435d647117a"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 4"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "56f80966-5554-6ffd-65f2-1435d647117a"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -5101,9 +5074,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -5147,17 +5117,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.3639
+                    68.1465
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c89b01d9-02c6-6fae-6021-ffc5f020c680"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 5"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c89b01d9-02c6-6fae-6021-ffc5f020c680"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -5169,9 +5142,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -5215,17 +5185,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.3639
+                    68.1465
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b08f7528-406e-c63e-6162-63dfa78c436c"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 6"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b08f7528-406e-c63e-6162-63dfa78c436c"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -5237,9 +5210,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -5283,17 +5253,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.3639
+                    68.1465
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "03e85ee5-93e5-bead-bc0b-0c67c6af0925"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 7"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "03e85ee5-93e5-bead-bc0b-0c67c6af0925"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -5305,9 +5278,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -5351,17 +5321,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.8209
+                    67.6897
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "caa77ccd-d526-cd8e-8cc6-13ee50532e19"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 8"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "caa77ccd-d526-cd8e-8cc6-13ee50532e19"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -5373,9 +5346,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -5419,17 +5389,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.8209
+                    67.6897
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 9"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -5441,9 +5414,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -5487,17 +5457,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.8209
+                    67.6897
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 10"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -5509,9 +5482,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -5555,17 +5525,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.8209
+                    67.6897
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 11"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -5577,9 +5550,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -5623,17 +5593,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.8209
+                    67.6897
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 12"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -5645,9 +5618,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -5691,17 +5661,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.8209
+                    67.6897
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 13"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -5713,9 +5686,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -5759,17 +5729,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.8209
+                    67.6897
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 14"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -5781,9 +5754,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -5827,17 +5797,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.8209
+                    67.6897
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 15"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -5849,9 +5822,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -5895,17 +5865,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.8209
+                    67.6897
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 16"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -5917,9 +5890,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -5963,17 +5933,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.8209
+                    67.6897
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 17"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -5985,9 +5958,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -6031,17 +6001,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.8209
+                    67.6897
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 18"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -6053,9 +6026,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -6099,17 +6069,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.8209
+                    67.6897
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 19"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -6121,9 +6094,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -6167,17 +6137,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.8209
+                    67.6897
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 20"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -6189,9 +6162,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -6235,17 +6205,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.8209
+                    67.6897
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 21"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -6257,9 +6230,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -6303,17 +6273,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.8209
+                    67.6897
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 22"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -6325,9 +6298,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -6364,24 +6334,27 @@
             "instanceGuid": "9ed8b0c2-f2a6-bd41-f1b1-0ca1e7555898",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -81.0263,
+                    -81.0262,
                     60.4025,
                     18.6315
                 ],
                 "rotation": [
                     0,
                     0,
-                    -115.8209
+                    67.6897
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 23"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -6393,9 +6366,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -6439,17 +6409,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.8209
+                    67.6897
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 24"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -6461,9 +6434,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -6507,17 +6477,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.8209
+                    67.6897
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 25"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -6529,9 +6502,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -6575,17 +6545,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.8209
+                    67.6897
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 26"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -6597,9 +6570,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -6643,17 +6613,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.8209
+                    67.6897
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 27"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -6665,9 +6638,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -6711,17 +6681,20 @@
                 "rotation": [
                     0,
                     0,
-                    -115.8209
+                    67.6897
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 28"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c63cd80c-45c4-d965-4033-36a219c51bb7"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -6733,9 +6706,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ],
             "children": [
@@ -6777,9 +6747,9 @@
                     46
                 ],
                 "rotation": [
-                    -169.7057,
-                    0,
-                    89.9996
+                    50.9065,
+                    -0.0001,
+                    89.9998
                 ],
                 "scale": [
                     3.9999
@@ -6787,12 +6757,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Obstacle Hammer 3"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "927b049a-8bf6-e8e6-60da-7d9712c634fc"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Obstacle Hammer 3"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -6841,8 +6811,8 @@
                 ],
                 "rotation": [
                     90,
-                    0.0001,
-                    92.8637
+                    0,
+                    69.8039
                 ],
                 "scale": [
                     14.9996
@@ -6850,12 +6820,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Fan Blade 4"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "dfa2ecea-0048-f05f-32af-39b12ab1821f"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fan Blade 4"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -6898,7 +6868,7 @@
             "instanceGuid": "053910dc-53d4-d0e0-852a-2d5973f2bd96",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -47.6527,
+                    -47.6526,
                     2.8866,
                     9.8184
                 ]
@@ -6910,6 +6880,10 @@
                 "outer_radius": 1000
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "053910dc-53d4-d0e0-852a-2d5973f2bd96"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Sound Spot"
